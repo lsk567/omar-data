@@ -1,0 +1,62 @@
+[
+  {
+    "version": "v1",
+    "label": { "en": "Full Team", "zh": "全员团队" },
+    "date": "2026-03-09T03:36:00Z",
+    "agents_persistent": 4,
+    "summary": {
+      "en": "4 agents, terminal send (unreliable)",
+      "zh": "4 个智能体，终端发送（不可靠）"
+    },
+    "color": "rgba(198,40,40,0.12)",
+    "border_color": "#C62828"
+  },
+  {
+    "version": "v2",
+    "label": { "en": "Event-Based", "zh": "事件驱动" },
+    "date": "2026-03-09T18:00:00Z",
+    "agents_persistent": 4,
+    "summary": {
+      "en": "4 agents, OMAR events (reliable)",
+      "zh": "4 个智能体，OMAR 事件系统（可靠）"
+    },
+    "color": "rgba(245,127,23,0.12)",
+    "border_color": "#F57F17"
+  },
+  {
+    "version": "v3",
+    "label": { "en": "Lean Team", "zh": "精简团队" },
+    "date": "2026-03-11T10:44:00Z",
+    "agents_persistent": 2,
+    "summary": {
+      "en": "2 persistent, 1 on-demand",
+      "zh": "2 个常驻，1 个按需"
+    },
+    "color": "rgba(46,125,50,0.12)",
+    "border_color": "#2E7D32"
+  },
+  {
+    "version": "v4",
+    "label": { "en": "Solo Operator", "zh": "独立运营" },
+    "date": "2026-03-14T00:00:00Z",
+    "agents_persistent": 0,
+    "summary": {
+      "en": "0 persistent, all on-demand",
+      "zh": "0 个常驻，全部按需"
+    },
+    "color": "rgba(106,27,154,0.12)",
+    "border_color": "#6A1B9A"
+  },
+  {
+    "version": "v5",
+    "label": { "en": "Parallel Research Desks", "zh": "并行研究组" },
+    "date": "2026-03-18T00:00:00Z",
+    "agents_persistent": 0,
+    "summary": {
+      "en": "3 sector desks (oil/CPI/macro), multi-backend",
+      "zh": "3 个行业研究组（石油/CPI/宏观），多后端"
+    },
+    "color": "rgba(0,105,92,0.12)",
+    "border_color": "#00695C"
+  }
+]
