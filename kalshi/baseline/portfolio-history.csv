@@ -1,0 +1,274 @@
+timestamp,total_account_value,num_positions,unrealized_pnl,notes
+2026-03-07T08:00:16Z,200.40,2,,Cycle 92
+2026-03-07T08:46:05Z,195.65,2,-1.70,Cycle 93
+2026-03-07T10:56:20Z,195.65,2,,Cycle 95
+2026-03-07T11:59:48Z,206.40,2,,Cycle 96
+2026-03-07T14:05:46Z,203.30,2,+3.71,Cycle 98
+2026-03-07T15:10:47Z,202.85,2,+6.80,Cycle 99
+2026-03-07T16:16:42Z,201.25,2,+1.25,Cycle 100
+2026-03-07T17:19:43Z,202.97,2,+5.62,Cycle 101
+2026-03-07T19:28:59Z,198.45,2,,Cycle 103
+2026-03-07T20:33:43Z,204.86,1,+4.86,Cycle 104
+2026-03-07T21:40:38Z,211.33,2,+13.98,Cycle 105
+2026-03-07T22:45:27Z,215.55,2,+13.23,Cycle 106
+2026-03-07T23:28:49Z,201.00,2,+1.14,
+2026-03-08T00:34:36Z,208.05,2,-0.40,
+2026-03-08T01:34:24Z,210.00,2,+12.60,
+2026-03-08T02:37:24Z,211.35,1,,
+2026-03-08T03:37:42Z,214.35,2,+14.35,
+2026-03-08T04:37:38Z,222.10,1,+22.10,
+2026-03-08T05:37:40Z,218.30,2,+9.20,
+2026-03-08T07:38:22Z,222.80,1,+6.40,
+2026-03-08T08:37:53Z,222.80,1,+22.80,
+2026-03-08T09:37:53Z,220.70,2,+20.70,
+2026-03-08T11:37:39Z,218.60,1,+18.60,
+2026-03-08T12:37:29Z,220.10,1,-0.70,
+2026-03-08T13:37:50Z,223.30,2,,
+2026-03-08T14:37:35Z,223.30,1,+23.30,
+2026-03-08T16:37:29Z,221.80,2,+21.80,
+2026-03-08T17:37:53Z,222.40,2,+22.40,
+2026-03-08T18:37:24Z,214.35,1,+12.65,
+2026-03-08T20:00:45Z,216.45,7,+13.95,7 positions across CPI-Feb/Mar and WTI-Oil
+2026-03-08T21:01:52Z,214.88,7,+17.53,Cycle 31: 7 positions across CPI-Feb CPI-Mar WTI-Oil
+2026-03-08T22:04:06Z,214.88,7,+17.53,Cycle 32: Auth unavailable - using last known values. API key_id needed.
+2026-03-08T23:01:30Z,222.75,7,+20.25,Cycle 34: 7 positions — CPI-Feb (2d to expiry\!) CPI-Mar WTI-Oil. Live API data.
+2026-03-09T00:02:30Z,222.75,7,+20.25,Cycle 35: Auth key_id missing - portfolio from last known. Market data live. WTI expires tomorrow. CPI Feb in 2.5d.
+2026-03-09T01:02:08Z,144.70,7,+23.25,"Cycle 36: 7 positions — CPI-Feb (2.5d to close\!) CPI-Mar WTI-Oil. Live API data."
+2026-03-09T02:02:40Z,219.50,7,+22.13,"Cycle 37: 7 positions — CPI-Feb (2.4d to close!) CPI-Mar WTI-Oil. Live market prices."
+2026-03-09T03:01:02Z,223.85,7,+23.30,"Cycle 38: 7 positions — CPI-Feb (2.4d to close\!) CPI-Mar WTI-Oil. Live API data."
+2026-03-09T04:44:11Z,219.00,7,+21.65,"Hourly comparison: 7 positions — CPI-Feb CPI-Mar WTI-Oil. Baseline leads quant firm by $14.67."
+2026-03-09T05:43:33Z,220.60,7,+20.60,"Comparison cycle: 7 positions — CPI-Feb CPI-Mar WTI-Oil. Baseline leads by $27.87."
+2026-03-09T06:45:05Z,219.70,7,+19.25,"Comparison cycle: 7 positions — CPI-Feb CPI-Mar WTI-Oil. Baseline leads quant firm by $25.89."
+2026-03-09T07:43:05Z,219.30,7,+19.30,"Comparison cycle: 7 positions — CPI-Feb CPI-Mar WTI-Oil. Baseline leads quant firm by $36.39."
+2026-03-09T08:44:04Z,221.65,7,+21.65,"Hourly comparison: 7 positions — CPI-Feb CPI-Mar WTI-Oil. Baseline leads quant firm by $32.94."
+2026-03-09T09:45:05Z,221.05,7,+21.05,"Hourly comparison: 7 positions — CPI-Feb CPI-Mar WTI-Oil. Baseline leads quant firm by $46.80."
+2026-03-09T10:42:55Z,225.25,7,+27.27,"Hourly comparison: 7 positions. Baseline leads quant by $60.54."
+2026-03-09T11:45:06Z,225.25,7,+27.27,"Hourly comparison: baseline API key missing — using last known values. Baseline leads quant by $48.54."
+2026-03-09T12:43:40Z,217.55,7,+$20.20,"Hourly comparison: 7 positions — CPI-Feb CPI-Mar WTI-Oil. Baseline leads quant by $72.66."
+2026-03-09T13:43:38Z,224.30,7,+23.25,"Hourly comparison: 7 positions — CPI-Feb CPI-Mar WTI-Oil. Baseline leads quant by $37.21."
+2026-03-09T14:42:35Z,229.70,7,-3.85,Hourly comparison: 7 positions. Baseline leads quant by $85.27.
+2026-03-09T15:43:31Z,163.70,8,+24.25,"Hourly comparison: 8 positions. Baseline leads quant by $65.76. ⚠️ BUG: total_value may be positions-only (missing cash balance). Next cycle should correct with cash+positions."
+2026-03-09T16:19:03Z,214.80,8,+17.45,"Cycle: 8 positions — WTI-Max (4 contracts, Dec expiry), CPI-Feb (2 contracts, Mar 11 expiry), CPI-Mar (2 contracts, Apr 10 expiry). Cash $60.55 + positions $154.25. CPI Feb nowcast 0.25% (release Mar 11). Oil ~$103/bbl. No new trades."
+2026-03-09T17:14:09Z,215.35,8,+18.00,"Hourly cycle: 8 positions — WTI-Max (4), CPI-Feb (2), CPI-Mar (2). Cash $60.55 + positions $154.80. Sunday quiet. No new trades."
+2026-03-09T17:42:05Z,218.40,8,+21.05,"Hourly comparison: 8 positions — WTI-Oil CPI. Cash $60.55 + positions $157.85. Baseline leads by $77.27."
+2026-03-09T18:14:45Z,221.15,8,+23.80,"Hourly cycle: 8 positions. Cash $60.55 + positions $160.60. WTI surging on Iran war — hit $119 intraday, settle ~$107. All WTI Max positions rallying. CPI Feb release in 1.5 days. No new trades — holding."
+2026-03-09T18:43:40Z,216.80,8,+19.55,"Cash $60.55 + positions $156.25. Oil+CPI bets."
+2026-03-09T19:13:54Z,221.50,8,+24.15,"Hourly cycle: 8 positions. Cash $60.55 + positions $160.95. WTI T100=92c T95=96c. CPI Feb release tomorrow Mar 11. No new trades."
+2026-03-09T20:14:24Z,205.65,8,+8.30,"Hourly cycle: Cash $60.55 + positions $145.10. WTI positions pulled back (last settle $90.90 Fri). Mon settle expected 100+ with Hormuz closed. CPI Feb Wed. Holding all."
+2026-03-09T21:14:01Z,201.75,8,+4.40,"Hourly cycle: Cash $60.55 + positions $141.20. WTI mixed (T95=86c up, T100=60c down). CPI Feb release tomorrow. Holding all."
+2026-03-09T22:14:00Z,200.35,8,+3.00,"Hourly cycle: Cash $60.55 + positions $139.80. WTI: T95=82c T100=59c T105=60c T110=55c. CPI-Feb: T0.2=60c T0.3=13c (release Tue Mar 11). CPI-Mar: T0.3=88c T0.4=83c. Sunday evening — holding all."
+2026-03-09T23:14:00Z,209.70,8,+12.35,"Hourly cycle: Cash $60.55 + positions $149.15. WTI surging on Iran war — T95=83c T100=77c(+18c\!) T105=65c T110=59c. Oil spot ~$107/bbl. CPI-Feb: T0.2=60c T0.3=13c (release Tue Mar 11). CPI-Mar: T0.3=88c T0.4=83c. Holding all."
+2026-03-10T00:14:00Z,209.35,8,+12.00,"Hourly cycle: Cash $60.55 + positions $148.80. WTI firming: T95=88c T100=79c T105=74c T110=62c. CPI-Feb: T0.2=60c T0.3=11c (release Tue). CPI-Mar: T0.3=88c T0.4=83c. Holding all."
+2026-03-10T01:14:00Z,204.10,8,+6.75,"Hourly cycle: Cash $60.55 + positions $143.55. CPI-Feb T0.2 dropped 60→51c (-$5.40). WTI: T95=88c T100=78c T105=65c T110=78c. CPI-Feb: T0.2=51c T0.3=11c (release tomorrow Tue). CPI-Mar: T0.3=90c T0.4=83c. Holding all — thin overnight."
+2026-03-10T00:48:52Z,202.60,8,+5.25,"Cash $60.55 + positions $142.05. 6h report: WTI + CPI bets. March CPI winners offset Feb CPI drag."
+2026-03-10T02:14:00Z,206.90,8,+9.55,"Hourly cycle: Cash $60.55 + positions $146.35. WTI: T95=90c T100=81c T105=65c T110=78c. CPI-Feb: T0.2=53c T0.3=11c (release Tue 8:30am ET). CPI-Mar: T0.3=90c T0.4=83c. Holding all."
+2026-03-10T03:14:00Z,212.20,8,+14.85,"Hourly cycle: Cash $60.55 + positions $151.65. CPI-Feb T0.3 surged 11→19c (+$12). WTI: T95=87c T100=68c T105=73c T110=70c. CPI-Feb: T0.2=55c T0.3=19c (release tomorrow). CPI-Mar: T0.3=92c T0.4=69c. Holding all."
+2026-03-10T04:14:00Z,221.45,8,+24.10,"Hourly cycle: Cash $60.55 + positions $160.90. CPI-Feb T0.3 surging 19→25c (+$9). WTI: T95=82c T100=74c T105=68c T110=60c. CPI-Feb: T0.2=55c T0.3=25c (release tomorrow 8:30am ET). CPI-Mar: T0.3=92c T0.4=72c. Best level in days. Holding all."
+2026-03-10T05:14:00Z,210.95,8,+13.60,"Hourly cycle: Cash $60.55 + positions $150.40. CPI-Feb T0.3 pulled back 25→15c (-$15). WTI firmer: T95=87c T100=80c T105=70c T110=68c. CPI-Feb: T0.2=55c T0.3=15c (release tomorrow). CPI-Mar: T0.3=92c T0.4=72c. Holding all."
+2026-03-10T06:14:00Z,205.65,8,+8.30,"Hourly cycle: Cash $60.55 + positions $145.10. WTI volatile (spot $90-$107, pulling back from $120 peak). CPI-Feb release tomorrow 8:30am ET — consensus 0.3% MoM. Holding all 8 positions."
+2026-03-10T07:14:00Z,205.25,8,+7.90,"Hourly cycle: Cash $60.55 + positions $144.70. Prices flat — WTI T95=82c T100=80c T105=72c T110=69c. CPI-Feb T0.2=54c T0.3=12c (release tomorrow). Holding all."
+2026-03-10T08:14:00Z,191.00,8,-5.80,"Hourly cycle: Cash $60.55 + positions $130.45 (API value). ⚠️ CPI-Feb T0.2 bid collapsed 54→8c (last 28c) — market repricing CPI lower to 0.1% MoM. WTI: T95=85c T100=80c T105=73c T110=62c. CPI-Feb T0.3=12c. CPI-Mar T0.3=92c T0.4=76c. Holding all — CPI release tomorrow 8:30am ET."
+2026-03-10T06:48:33Z,186.90,8,-13.10,"6h comparison cycle: Cash $60.55 + positions $126.35. 8 positions: 4 WTI oil bets, 4 CPI bets."
+2026-03-10T09:14:00Z,203.30,8,+5.95,"Hourly cycle: Cash $60.55 + positions $142.75. CPI-Feb T0.2 recovering (bid 33c, last 48c). WTI softening: T95=84c T100=78c T105=69c T110=66c. CPI-Feb T0.3=12c. CPI-Mar T0.3=90c T0.4=76c. Holding all — CPI release tomorrow."
+2026-03-10T10:14:00Z,191.40,8,-5.95,"Hourly cycle: Cash $60.55 + positions $130.85. CPI-Feb T0.2 volatile (bid 16c, last 29c). WTI: T95=84c T100=77c T105=69c T110=64c. CPI-Feb T0.3=12c. CPI-Mar T0.3=90c T0.4=76c. Holding all — CPI release tomorrow 8:30am ET."
+2026-03-10T11:14:00Z,186.20,8,-11.15,"Hourly cycle: Cash $60.55 + positions $125.65. CPI-Feb T0.2 sinking (16c, spread tight now). WTI: T95=84c T100=77c T105=76c(+7c\!) T110=62c. CPI-Feb T0.3=12c. CPI-Mar T0.3=90c T0.4=76c. Holding all — CPI release tomorrow."
+2026-03-10T12:14:00Z,186.20,8,-11.15,"Hourly cycle: Cash $60.55 + positions $125.65. Prices flat. CPI-Feb T0.2=15c T0.3=12c. WTI: T95=84c T100=77c T105=76c T110=64c. CPI-Mar T0.3=90c T0.4=76c. Holding all — CPI release tomorrow 8:30am ET."
+2026-03-10T13:14:00Z,185.00,8,-12.35,"Hourly cycle: Cash $60.55 + positions $124.45. CPI-Feb T0.2 bid recovering 15→22c. WTI firming: T95=84c T100=79c T105=76c T110=68c. CPI-Feb T0.3=12c. CPI-Mar T0.3=90c T0.4=76c. Holding all — CPI release tomorrow."
+2026-03-10T14:14:00Z,185.00,8,-12.35,"Hourly cycle: Cash $60.55 + positions $124.45. CPI-Feb T0.2 bid=17c T0.3 bid=10c (dropping). WTI: T95=84c T100=79c T105=76c T110=68c. CPI-Mar T0.3=90c T0.4=76c. Holding all — CPI release tomorrow 8:30am ET."
+2026-03-10T15:14:00Z,191.00,8,-6.35,"Hourly cycle: Cash $60.55 + positions $130.45. CPI-Feb T0.2 bounced (last 25c, wide spread 16-43c). WTI: T95=84c T100=79c T105=76c T110=71c(+3c). CPI-Feb T0.3=10c. CPI-Mar T0.3=90c T0.4=76c. Holding all — CPI release tomorrow."
+2026-03-10T16:14:00Z,191.50,8,-5.85,"Hourly cycle: Cash $60.55 + positions $130.95. CPI-Feb T0.2 bid surged 16→40c\! WTI: T95=85c T100=79c T105=76c T110=70c. CPI-Feb T0.3=10c. CPI-Mar T0.3=90c T0.4=76c. Holding all — CPI release tomorrow 8:30am ET."
+2026-03-10T17:14:00Z,204.40,8,+7.05,"Hourly cycle: Cash $60.55 + positions $143.85. CPI-Feb T0.2 strong recovery (bid 40c, last 49c — near pre-crash levels). WTI: T95=85c T100=79c T105=71c T110=71c. CPI-Feb T0.3=10c. CPI-Mar T0.3=90c T0.4=76c. Holding all — CPI release tomorrow 8:30am ET."
+2026-03-10T18:14:00Z,208.00,8,+10.65,"Hourly cycle: Cash $60.55 + positions $147.45. CPI-Feb T0.2 holding (bid 41c, last 46c). WTI T105 last=83c\! T95=85c T100=79c T110=69c. CPI-Feb T0.3=11c. CPI-Mar T0.3=90c T0.4=76c. Holding all — CPI release tomorrow 8:30am ET."
+2026-03-10T19:14:00Z,204.50,8,+7.15,"Hourly cycle: Cash $60.55 + positions $143.95. CPI-Feb T0.2 stable (bid 42c, spread tight). WTI: T95=85c T100=78c T105=75c T110=71c. CPI-Feb T0.3=11c. CPI-Mar T0.3=90c T0.4=76c. Holding all — CPI release tomorrow."
+2026-03-10T20:14:00Z,207.80,8,+10.45,"Hourly cycle: Cash $60.55 + positions $147.25. CPI-Feb T0.2 strong (bid 46c, tight spread). T0.3=13c. WTI: T95=85c T100=78c T105=75c T110=72c. CPI-Mar T0.3=91c T0.4=76c. Holding all — CPI release tomorrow 8:30am ET."
+2026-03-10T20:34:00Z,207.80,8,+10.45,"Hourly cycle: Cash $60.55 + positions $147.25. Prices unchanged. CPI-Feb T0.2=46c T0.3=13c. WTI: T95=85c T100=78c T105=75c T110=72c. CPI-Mar T0.3=91c T0.4=76c. Holding all — CPI release <12h away."
+2026-03-10T21:44:00Z,208.80,8,+11.45,"Hourly cycle: Cash $60.55 + positions $148.25. CPI-Feb T0.2 near full recovery (bid 48c, ask 49c). WTI: T95=85c T100=78c T105=75c T110=71c. CPI-Feb T0.3=13c. CPI-Mar T0.3=91c T0.4=76c. CPI release in ~11h. Holding all."
+
+2026-03-10T12:49:12Z,206.70,8,+9.35,"6h cycle: Cash $60.55 + positions $146.15. 8 positions: 4 WTI oil + 2 CPI-Feb + 2 CPI-Mar. CPI release tomorrow."2026-03-10T22:59:00Z,205.70,8,+8.35,"Hourly cycle: Cash $60.55 + positions $145.15. CPI-Feb T0.2 holding (48c). WTI: T95=85c T100=78c T105=75c T110=71c. CPI-Feb T0.3=12c. CPI-Mar T0.3=90c T0.4=75c. CPI release in ~9h. Holding all."
+2026-03-11T00:14:00Z,204.50,8,+7.15,"Hourly cycle: Cash $60.55 + positions $143.95. CPI-Feb T0.2=47c (stable). WTI: T95=85c T100=78c T105=75c T110=71c. CPI-Feb T0.3=12c. CPI-Mar T0.3=90c T0.4=75c. CPI release in ~8h. Holding all."
+2026-03-11T01:31:00Z,201.60,8,+4.25,"Hourly cycle: Cash $60.55 + positions $141.05. WTI T105 dropped (75→62c bid, last 61c). WTI: T95=85c T100=78c T105=62c T110=69c. CPI-Feb T0.2=47c T0.3=12c. CPI-Mar T0.3=90c T0.4=75c. CPI release in ~7h. Holding all."
+2026-03-11T06:45:00Z,201.45,8,+4.10,"Hourly cycle: Cash $60.55 + positions $140.90. CPI release in ~6h (8:30am ET). Consensus MoM 0.3% (range 0.1-0.4%). CPI-Feb T0.2=48c T0.3=12c. WTI: T95=85c T100=78c T105=62c T110=69c (oil pulling back ~$89). CPI-Mar T0.3=90c T0.4=75c. Holding all through CPI."
+2026-03-11T12:40:00Z,200.10,8,+2.75,"Hourly cycle: Cash $60.55 + positions $139.55. CPI-Feb markets CLOSED (12:29 UTC), awaiting settlement ~14:00 UTC. T0.2=48c(last) T0.3=11c(last). WTI pulling back: T95=84c T100=78c T105=62c T110=69c. CPI-Mar T0.3/T0.4 unchanged. No trades - markets closed or long-term holds."
+2026-03-11T18:30:00Z,197.80,8,+0.45,"Hourly cycle: Cash $60.55 + positions $137.25. CPI-Feb STILL UNSETTLED (closed 12:29 UTC, no result yet). T0.2=46c T0.3=11c. WTI pulling back (oil ~$87-90): T95=84c T100=75c T105=76c(bid67) T110=61c. CPI-Mar T0.3=91c T0.4=76c. No trades. Holding all."
+2026-03-11T22:00:00Z,195.70,8,-1.65,"Hourly cycle: Cash $60.55 + positions $135.15. CPI-Feb STILL UNSETTLED (many hours past expected). T0.2=46c T0.3=11c. WTI weak: T95=83c T100=76c T105=63c(bid67) T110=61c(bid58). CPI-Mar T0.3=90c T0.4=75c. Oil ~$87. No trades. Holding all."
+2026-03-12T02:00:00Z,200.80,8,+3.45,"Hourly cycle: Cash $60.55 + positions $140.25. CPI-Feb STILL UNSETTLED (>12h delay). T0.2=47c T0.3=12c. WTI recovering: T95=83c T100=81c(up from 76\!) T105=73c(up from 63\!) T110=56c. CPI-Mar T0.3=90c(bid93) T0.4=75c. No trades. Holding all."
+2026-03-10T17:43:00Z,188.20,8,-9.15,"Trading cycle: Cash $60.55 + positions $127.65. CPI Feb release TOMORROW 8:30am ET. Cleveland Fed nowcast 0.25% MoM. CPI-Feb T0.2=40c(bid35) T0.3=10c(bid10). WTI pullback from $119: T95=82c T100=73c T105=60c T110=51c. CPI-Mar T0.3=91c T0.4=75c. No trades. Holding all through CPI."
+2026-03-10T18:13:00Z,179.85,8,-17.50,"Hourly cycle: Cash $60.55 + positions $119.30. OIL CRASH: Trump says Iran war ending soon, WTI -12% to $84-88. T95=82c T100=60c(was73\!) T105=53c T110=57c. CPI-Feb T0.2=36c(bid35) T0.3=10c. CPI release tomorrow. CPI-Mar T0.3=91c T0.4=75c. Cleveland Fed nowcast 0.25% MoM. No trades - holding all."
+2026-03-10T18:48:43Z,187.60,8,-9.75,"Cash $60.55 + positions $127.05. 8 positions: 4 WTI oil + 2 CPI-Feb + 2 CPI-Mar."
+2026-03-10T19:13:00Z,191.50,8,-5.85,"Hourly cycle: Cash $60.55 + positions $130.95. WTI RECOVERING: T95=82c T100=79c(was60\!) T105=69c(was53\!) T110=65c. CPI-Feb T0.2=36c T0.3=10c. CPI release tomorrow 8:30am ET. CPI-Mar T0.3=90c T0.4=80c. No trades - holding all."
+2026-03-10T20:13:00Z,197.00,8,-0.35,"Hourly cycle: Cash $60.55 + positions $136.45. Recovery continues. WTI: T95=82c T100=76c(bid79) T105=69c(bid71) T110=65c(bid62). CPI-Feb T0.2=39c(bid37) T0.3=11c. CPI-Mar T0.3=90c T0.4=97c(bid82,huge jump from 75c\!). CPI Feb release ~12h away. No trades."
+2026-03-10T21:13:00Z,200.00,8,+2.65,"Hourly cycle: Cash $60.55 + positions $139.45. BACK TO $200\! WTI recovering strongly: T95=90c(was82\!) T100=81c(was76\!) T105=71c T110=65c. CPI-Feb T0.2=40c(bid39) T0.3=10c. CPI release in ~11h. CPI-Mar T0.3=90c T0.4=97c(bid83). Unrealized PnL now positive. No trades."
+2026-03-10T22:13:00Z,196.90,8,-0.45,"Hourly cycle: Cash $60.55 + positions $136.35. Slight dip from $200. WTI: T95=88c T100=81c T105=74c T110=65c. CPI-Feb T0.2=40c T0.3=10c. CPI release in ~10h. CPI-Mar T0.3=89c T0.4=82c. No trades."
+2026-03-10T23:13:00Z,197.70,8,+0.35,"Hourly cycle: Cash $60.55 + positions $137.15. Stable overnight. WTI: T95=87c T100=82c T105=74c T110=65c. CPI-Feb T0.2=41c(up) T0.3=10c. CPI release in ~9h. CPI-Mar T0.3=89c T0.4=82c. No trades."
+2026-03-11T00:13:00Z,198.45,8,+1.10,"Hourly cycle: Cash $60.55 + positions $137.90. WTI: T95=87c T100=83c T105=76c T110=73c(was65\!). CPI-Feb T0.2=40c T0.3=10c. CPI release in ~8h. CPI-Mar T0.3=88c T0.4=82c. No trades."
+2026-03-11T00:20:00Z,198.45,8,+1.10,Cash $60.55 + positions $137.90. CPI Feb release in ~12h. Consensus 0.3% MoM. T0.2 at 40c (60 contracts) T0.3 at 10c (150 contracts). WTI stable. Holding all positions.
+2026-03-11T00:48:33Z,197.25,8,-$0.10,"Cash $60.55 + positions $136.70. 8 positions: 4 WTI oil + 2 CPI Feb + 2 CPI Mar. CPI Feb expires tomorrow."
+2026-03-11T01:13:00Z,195.95,8,-1.40,Cash $60.55 + positions $135.40. CPI Feb consensus 0.3% MoM (release 12:30 UTC today). T0.2 at 39c T0.3 at 10c. WTI at $81 (settle $94.77 missed T95 by 23c). CPI-Mar profitable. Holding all.
+2026-03-11T02:13:00Z,188.40,8,-8.95,Cash $60.55 + positions $127.85. CPI-Feb T0.2 up to 42c (was 39c). WTI wide spreads overnight (T95 last 66c but bid 77c). CPI-Mar stable. CPI release in ~10h. Holding all.
+2026-03-11T02:13:41Z,191.40,8,-5.95,Cash $60.55 + positions $130.85. WTI T95 recovered 66c->81c. CPI-Feb T0.2 steady at 42c. CPI release in ~10h. No trades. Holding all.
+2026-03-11T02:29:00Z,187.05,8,-10.30,Cash $60.55 + positions $126.50. CPI-Feb T0.2 back to 39c. WTI T105 last 57c (bid 61c wide spread). Overnight thin liquidity. CPI release in ~10h. No trades. Holding all.
+2026-03-11T02:37:00Z,187.80,8,-9.55,Cash $60.55 + positions $127.25. Stable overnight. CPI-Feb T0.2 at 40c. WTI wide spreads but stable bids. CPI release in ~10h. No trades. Holding all.
+2026-03-11T02:46:00Z,189.90,8,-7.45,Cash $60.55 + positions $129.35. CPI-Feb T0.2 bid up to 40c. WTI stable overnight. CPI-Mar profitable (T0.3 bid 87c T0.4 bid 82c). CPI release in ~9.5h. No trades. Holding all.
+2026-03-11T02:53:00Z,189.30,8,-8.05,Cash $60.55 + positions $128.75. CPI-Feb T0.2 bid up to 41c (pre-CPI buying). T0.3 bid 10c. WTI stable. CPI release ~9.5h. No trades. Holding all.
+2026-03-11T02:57:00Z,190.50,8,-6.85,Cash $60.55 + positions $129.95. CPI-Feb T0.2 at 42c bid 41c. T0.3 bid 10c. WTI stable. CPI-Mar T0.3 bid 87c T0.4 bid 82c. CPI release ~9.5h. No trades. Holding all.
+2026-03-11T03:01:00Z,187.80,8,-9.55,Cash $60.55 + positions $127.25. CPI-Feb T0.2 bid 40c. WTI T105 bid improving 62c. CPI-Mar profitable. CPI release ~9.5h. No trades. Holding all.
+2026-03-11T03:03:00Z,186.90,8,-10.45,Cash $60.55 + positions $126.35. CPI-Feb T0.2 bid SURGED to 42c ask 46c - aggressive pre-CPI buying! WTI stable. CPI-Mar profitable. CPI release ~9.5h. No trades. Holding all.
+2026-03-11T03:05:00Z,186.90,8,-10.45,Cash $60.55 + positions $126.35. CPI-Feb T0.2 bid 42c ask 45c steady. WTI flat overnight. CPI release ~9.4h. No trades. Holding all.
+2026-03-11T03:07:00Z,186.90,8,-10.45,Cash $60.55 + positions $126.35. CPI-Feb T0.2 bid/ask tightening 42/43c. WTI flat. CPI release ~9.4h. No trades. Holding all.
+2026-03-11T03:09:00Z,186.90,8,-10.45,Cash $60.55 + positions $126.35. Flat overnight. CPI-Feb T0.2 42/43c. WTI T105 bid up to 63c. CPI release ~9.3h. No trades. Holding all.
+2026-03-11T03:12:00Z,189.60,8,-7.75,Cash $60.55 + positions $129.05. CPI-Feb T0.2 last 43c (up from 41c) pre-CPI buying. T0.3 bid 9c. WTI stable. CPI release ~9.3h. No trades. Holding all.
+2026-03-11T03:13:00Z,189.60,8,-7.75,Cash $60.55 + positions $129.05. CPI-Feb T0.2 bid/ask 43/44c climbing pre-CPI. WTI stable. CPI-Mar profitable. CPI release ~9.3h. No trades. Holding all.
+2026-03-11T03:16:00Z,191.10,8,-6.25,Cash $60.55 + positions $130.55. CPI-Feb T0.2 steady 43/44c. WTI stable. CPI-Mar T0.3 bid 87c T0.4 bid 82c. CPI release ~9.2h. No trades. Holding all.
+2026-03-11T03:19:00Z,192.60,8,-4.75,Cash $60.55 + positions $132.05. CPI-Feb T0.2 43c T0.3 up to 11c. Pre-CPI buying across CPI markets. WTI stable. CPI release ~9.2h. No trades. Holding all.
+2026-03-11T03:23:00Z,192.60,8,-4.75,Cash $60.55 + positions $132.05. Flat overnight. CPI-Feb T0.2 43c T0.3 11c. CPI release ~9h. No trades. Holding all.
+2026-03-11T03:27:00Z,188.40,8,-8.40,Cash $60.55 + positions $127.85. CPI-Feb T0.2 up to 44c. T0.3 dipped 9c. WTI T100 last 72c (thin trading). CPI release ~9h. No trades. Holding all.
+2026-03-11T03:33:00Z,190.50,8,-6.30,Cash $60.55 + positions $129.95. Overnight range $188-193. CPI-Feb T0.2 ~44c. CPI release ~9h. No trades. Holding all.
+2026-03-11T03:40:00Z,186.75,8,-10.05,Cash $60.55 + positions $126.20. Overnight range $186-193 thin trading. CPI-Feb T0.2 ~44c. CPI release ~8.8h. No trades. Holding all.
+2026-03-11T03:49:00Z,190.20,8,-6.60,Cash $60.55 + positions $129.65. Overnight oscillation $186-193 continuing. CPI release ~8.7h. No trades. Holding all.
+2026-03-11T03:58:00Z,190.20,8,-6.60,Cash $60.55 + positions $129.65. Dead flat overnight. CPI release ~8.5h. No trades. Holding all.
+2026-03-11T04:03:00Z,191.70,8,-5.10,Cash $60.55 + positions $131.15. Slight uptick overnight. CPI release ~8.4h. No trades. Holding all.
+2026-03-11T04:13:00Z,188.70,8,-8.10,Cash $60.55 + positions $128.15. Overnight range $186-193 continuing. CPI release ~8.3h. No trades. Holding all.
+2026-03-11T04:13:30Z,188.70,8,-8.65,Cash $60.55 + positions $128.15. CPI-Feb T0.2 bid SURGED to 46c pre-CPI. CPI-Mar T0.3 spiked 94c but T0.4 dropped 82c->61c repricing. WTI T110 bid 61c. CPI release ~8.3h. No trades. Holding all.
+2026-03-11T04:25:00Z,189.70,8,-7.10,Cash $60.55 + positions $129.15. Stable overnight $186-193 range. CPI release ~8h. No trades. Holding all.
+2026-03-11T04:35:00Z,187.60,8,-9.20,Cash $60.55 + positions $127.05. Overnight range $186-193. CPI release ~7.9h. No trades. Holding all.
+2026-03-11T04:46:00Z,188.20,8,-8.60,Cash $60.55 + positions $127.65. Overnight range $186-193. CPI release ~7.7h. No trades. Holding all.
+2026-03-11T04:58:00Z,190.80,8,-6.00,Cash $60.55 + positions $130.25. Overnight range $186-193. CPI release ~7.5h. No trades. Holding all.
+2026-03-11T05:10:00Z,191.40,8,-5.40,Cash $60.55 + positions $130.85. Stable overnight. CPI release ~7.3h. No trades. Holding all.
+2026-03-11T05:13:00Z,200.40,8,+3.05,Cash $60.55 + positions $139.85. BACK TO $200! CPI-Feb T0.2 bid 46c surging. T0.3 last 16c. WTI T100 recovered to 80c. CPI-Mar T0.4 bid dropped 55c. CPI release ~7.3h. No trades. Holding all.
+2026-03-11T05:24:00Z,199.95,8,+3.15,Cash $60.55 + positions $139.40. Holding near $200. Pre-CPI momentum. CPI release ~7h. No trades. Holding all.
+2026-03-11T05:35:00Z,194.40,8,-2.95,Cash $60.55 + positions $133.85. CPI-Feb T0.2 bid 47c/ask 52c (climbing pre-CPI). T0.3 bid 10c/ask 30c wide. CPI-Mar T0.3 bid 85c strong. WTI T100 bid 77c. CPI release in ~7h.
+2026-03-11T06:14:00Z,194.60,8,-2.75,Cash $60.55 + positions $134.05. CPI-Feb T0.2 bid 47c/ask 49c steady. T0.3 tightened to 10/11c. CPI-Mar T0.3 85/86c strong. WTI T100 77/80c. CPI release in ~6.3h. No trades - holding all.
+2026-03-11T06:48:54Z,196.40,8,-0.85,"Cash $60.55 + positions $135.85. 6-hourly comparison report."
+2026-03-11T07:14:00Z,195.80,8,-1.55,Cash $60.55 + positions $135.25. CPI-Feb T0.2 bid 46c/ask 52c (spread widened slightly). T0.3 YES bid 9c/ask 28c wide. CPI-Mar T0.3 85/86c. WTI T100 77/80c. CPI release in ~5h16min. Holding all.
+2026-03-11T08:14:00Z,229.10,8,+31.75,Cash $60.55 + positions $168.55. BIG MOVE: CPI-Feb T0.2 surged to 63c bid (was 46c)\! Market pricing ~70% CPI>0.2%. T0.3 bid 13c up from 9c. WTI T100 78/87c. CPI-Mar T0.3 85/99c. CPI release in ~4h16min. Holding all.
+2026-03-11T09:14:00Z,218.20,8,+20.85,Cash $60.55 + positions $157.65. CPI-Feb T0.2 pulled back to 56c bid (was 63c last hr). T0.3 bid 11c. Portfolio dipped from $229 - normal pre-event vol. CPI release in ~3h16min. Holding all.
+2026-03-11T10:14:00Z,205.40,8,+8.05,Cash $60.55 + positions $144.85. CPI-Feb T0.2 bid 58c (recovering from 56c). T0.3 bid 13c. CPI-Mar T0.3 bid 85c. CPI release in ~2h16min. Pre-event vol continues. Holding all.
+2026-03-11T11:14:00Z,212.45,8,+15.10,Cash $60.55 + positions $151.90. CPI-Feb T0.2 LAST 70c (bid 63c/ask 70c) - surging pre-CPI. T0.3 bid 10c. Market close 12:29 UTC (~1h15min). CPI release 12:30 UTC. Holding all.
+2026-03-11T12:14:00Z,191.15,8,-6.20,Cash 0.55 + positions 30.60. CPI-Feb T0.2 last 53c (cost 56c) T0.3 last 10c (cost 14c). CPI release in ~15min. WTI T100 last 68c. CPI-Mar T0.3 86c T0.4 61c. Holding all pre-CPI.
+2026-03-11T12:48:00Z,192.70,8,-4.65,"Cash $60.55 + positions $132.15. CPI Feb settled: >0.2% WON, >0.3% LOST. WTI oil bets long-dated. CPI-Mar positions looking good."
+2026-03-11T13:14:00Z,191.00,8,-6.35,Cash 0.55 + positions 30.45. CPI Feb 0.267% (0.3% rounded). T0.2 settles YES T0.3 settles NO (net +.30). Settlement expected 14:00 UTC. WTI T95 83c T100 67c T105 57c T110 66c. CPI-Mar T0.3 86c T0.4 61c. No trades.
+2026-03-11T13:39:00Z,207.50,6,+3.31,SETTLED: CPI-Feb T0.2=YES (payout 0) T0.3=NO (/bin/bash). Net CPI +.31 after fees. Cash 20.55 + positions 6.95. Remaining: WTI T95/T100/T105/T110 + CPI-Mar T0.3/T0.4.
+2026-03-11T14:14:00Z,210.65,6,+8.00,Cash 20.55 + positions 0.10. Post CPI-Feb settlement. WTI T95 82c T100 72c T105 64c T110 60c. CPI-Mar T0.3 89c T0.4 74c. CPI-Feb settled T0.2=YES T0.3=NO net +.31 after fees. No trades.
+2026-03-11T17:53:00Z,218.61,6,+15.95,Cash 24.96 + positions 3.65. TRADE: Sold 5/20 CPI-Mar T0.4 at 89c (profit +.70 each). 15 resting at 89c. WTI recovering: T95 83c T100 79c T105 69c T110 58c. CPI-Mar T0.3 91c. Oil 5 Iran tensions.
+2026-03-11T18:54:00Z,210.79,5,-2.75,Cash 38.29 + positions 2.50. CPI-Mar T0.4 FULLY SOLD at 89c (realized +0.64 profit). WTI T95 83c T100 66c(down) T105 69c T110 58c. CPI-Mar T0.3 88c. 5 active positions.
+2026-03-11T18:48:26Z,214.99,5,-1.20,"Cash $138.29 + positions $76.70. 6h comparison: 5 positions (CPI-Mar + 4 WTI oil). Baseline leads quant by $92.42."
+2026-03-11T19:54:00Z,214.99,5,-1.40,Cash 38.29 + positions 6.70. WTI T95 82c T100 68c T105 69c T110 58c. CPI-Mar T0.3 93c. No trades. Holding.
+2026-03-11T19:38:00Z,213.02,4,-4.50,"Cash $152.17 + positions $60.85. Sold CPI-Mar T0.3 (15 contracts at 92c, +$3.98 profit). Holding 4 WTI positions (T95/T100/T105/T110). GDPNow at 2.1% for Q1."
+2026-03-11T20:38:00Z,213.02,4,-4.50,"Cash $152.17 + positions $60.85. Holding 4 WTI positions. WTI rallying to ~$88 from $83. No trades. Fed Jun ~40% cut priced, GDP Q1 GDPNow at 2.1%."
+2026-03-11T21:38:00Z,213.02,4,-4.50,"Cash $152.17 + positions $60.85. Hold all 4 WTI positions. Quiet evening session, no trades."
+2026-03-11T22:38:00Z,215.12,4,-4.30,"Cash $152.17 + positions $62.95. WTI positions improving - T100 bid up to 71c. Hold all. Late evening session."
+2026-03-11T23:38:00Z,217.27,4,+0.10,"Cash $152.17 + positions $65.10. WTI surging\! T95 bid 87c T100 bid 78c T105 bid 71c T110 bid 62c. All positions recovering. Hold all."
+2026-03-12T00:38:00Z,226.02,4,+5.55,"Cash $152.17 + positions $73.85. WTI surging\! T95 bid 90c (breakeven) T100 bid 86c (+$4) T105 bid 76c T110 bid 71c. All profitable or breakeven. Hold all."
+2026-03-12T01:38:00Z,224.92,4,+6.35,"Cash $152.17 + positions $72.75. WTI still strong. T95 90c T100 87c T105 78c T110 72c. All profitable. Hold all."
+2026-03-12T02:38:00Z,225.67,4,+7.05,"Cash $152.17 + positions $73.50. WTI rally continues. T95 92c T100 89c T105 76c T110 70c. All profitable. Hold all."
+2026-03-12T03:38:00Z,225.67,4,+7.05,"Cash $152.17 + positions $73.50. Flat overnight. T95 92c T100 89c T105 78c T110 70c. Hold all."
+2026-03-12T04:38:00Z,226.22,4,+9.00,"Cash $152.17 + positions $74.05. WTI rally continues. T95 94c T100 90c T105 83c T110 71c. Unrealized +$9. Hold all."
+2026-03-12T05:38:00Z,229.02,4,+9.25,"Cash $152.17 + positions $76.85. WTI strong. T95 94c T100 89c T105 84c T110 76c. Unrealized +$9.25. Hold all."
+2026-03-12T07:38:00Z,227.22,4,+9.60,"Cash $152.17 + positions $75.05. WTI at $94.73\! Touched $95.96 intraday. Israel-Iran tensions + IEA 400M bbl SPR release. T95 94c T100 90c T105 83c T110 77c. Hold all - max price bets benefit from volatility."
+2026-03-12T08:38:00Z,227.22,4,+9.60,"Cash $152.17 + positions $75.05. Kalshi markets showing empty orderbooks - likely platform maintenance or trading halt. No trades possible. Hold all WTI positions."
+2026-03-12T09:38:00Z,227.22,4,+9.60,"Cash $152.17 + positions $75.05. Markets still halted (pre-market hours ~4:38AM ET). No trades. Hold all WTI."
+2026-03-12T10:38:00Z,227.12,4,+9.60,"Cash $152.17 + positions $74.95. Kalshi platform-wide pre-market halt (~5:38AM ET). No trades. Hold all WTI."
+2026-03-12T11:38:00Z,227.12,4,+9.60,"Cash $152.17 + positions $74.95. Kalshi still pre-market (~6:38AM ET). No trades. Hold all WTI."
+2026-03-12T12:38:00Z,226.07,4,+8.60,"Cash $152.17 + positions $73.90. Markets live (orderbook API). T95 bid 94c T100 bid 89c T105 bid 79c T110 bid 77c. WTI near $95 threshold. Hold all."
+2026-03-12T13:38:00Z,226.07,4,+8.40,"Cash $152.17 + positions $73.90. WTI at ~$94.49. T95 93c T100 89c T105 79c T110 77c. US market open. Hold all."
+2026-03-12T14:38:00Z,225.77,4,+7.40,"Cash $152.17 + positions $73.60. T95 pulled back (thin 89c bid, bulk at 83-87c). T100 strong at 88-90c. Oil may have dipped from $94.73. Hold all."
+2026-03-12T15:38:00Z,225.87,4,+7.95,"Cash $152.17 + positions $73.70. T95 recovered to 93c (500 depth). T100 88c T105 78-79c T110 77-78c. Hold all."
+2026-03-12T22:38:00Z,229.52,4,+9.80,"Cash $152.17 + positions $77.35. T95 at 99c (4781 depth) - settle price likely crossed $95\! Awaiting official settlement. T100 88c T105 81c T110 80c. Hold all."
+2026-03-12T23:38:00Z,229.57,4,+9.65,"Cash $152.17 + positions $77.40. T95 98c (near settlement). T100 87c T105 82-85c T110 83c. All profitable. Hold all."
+2026-03-13T00:38:00Z,231.67,4,+10.00,"Cash $152.17 + positions $79.50. New high\! T95 97c T100 87c T105 85-89c T110 84c. All positions at highs. Hold all."
+2026-03-13T01:38:00Z,229.57,4,+9.85,"Cash $152.17 + positions $77.40. T95 92c (thin) T100 88c T105 88c T110 84c. T95 settlement pending. Hold all."
+2026-03-13T02:38:00Z,230.32,4,+10.75,"Cash $152.17 + positions $78.15. T95 97c still active. T100 88c T105 88c T110 83c. Settle price may not have crossed $95 yet. Hold all."
+2026-03-13T03:38:00Z,228.47,4,+10.65,"Cash $152.17 + positions $76.30. T95 98c (3688 depth) T100 88c T105 86c T110 83c. Overnight quiet. Hold all."
+2026-03-13T04:38:00Z,228.82,4,+10.20,"Cash $152.17 + positions $75.65. T95 98c T100 88c T105 81c T110 83c. Overnight quiet. Hold all."
+2026-03-13T05:38:00Z,229.22,4,+10.35,"Cash $152.17 + positions $76.05. T95 98c (5893 depth) T100 87c T105 81c T110 83c. Pre-market quiet. Hold all."
+2026-03-13T06:38:00Z,229.22,4,+10.35,"Cash $152.17 + positions $76.05. T95 98c T100 88c T105 82c T110 83c. Flat overnight. Hold all."
+2026-03-13T07:38:00Z,229.37,4,+10.50,"Cash $152.17 + positions $76.20. T95 98c T100 88c T105 83c T110 83c. Pre-market. Hold all."
+2026-03-13T08:38:00Z,229.37,4,+10.50,"Cash $152.17 + positions $76.20. Flat overnight. T95 98c T100 88c T105 83c T110 83c. Hold all."
+2026-03-13T09:38:00Z,229.37,4,+10.50,"Cash $152.17 + positions $76.20. Flat. T95 98c T100 88c T105 83c T110 83c. Hold all."
+2026-03-13T10:38:00Z,229.37,4,+10.50,"Cash $152.17 + positions $76.20. Flat pre-market. T95 98c T100 88c T105 83c T110 83c. Hold all."
+2026-03-13T11:38:00Z,229.37,4,+10.50,"Cash $152.17 + positions $76.20. Flat pre-market. Hold all."
+2026-03-13T12:38:00Z,227.87,4,+10.00,"Cash $152.17 + positions $75.70. T95 98c T100 88c T105 84c T110 83c. Early morning, markets waking. Hold all."
+2026-03-13T13:38:00Z,227.97,4,+10.10,"Cash $152.17 + positions $75.80. WTI at $95-97\! Prev close $95.73 - above T95 trigger. T95 settlement expected 10am ET today. T100 88c T105 83c T110 78c. Hold all."
+2026-03-13T14:38:00Z,226.92,4,+10.00,"Cash $152.17 + positions $74.75. T95 SETTLED YES\! Payout $20 pending. WTI settle confirmed above $95.01. T100 87-88c T105 81-83c T110 73-78c. 3 remaining positions active."
+2026-03-13T15:38:00Z,227.32,3,+7.80,"Cash $172.17 + positions $55.15. T95 payout received ($20). 3 positions remain. T100 88c T105 81c T110 78c. WTI at $95-97. Hold all."
+2026-03-13T16:38:00Z,227.32,3,+7.20,"Cash $172.17 + positions $55.15. T100 firming 89-90c. T105 81c. T110 pulled back to 68-74c. Hold all 3."
+2026-03-13T17:38:00Z,228.42,3,+8.00,"Cash $172.17 + positions $56.25. T100 90-91c (strong). T105 81c. T110 recovering 72-76c. Hold all 3."
+2026-03-13T18:38:00Z,228.82,3,+8.80,"Cash $172.17 + positions $56.65. T100 surging to 92c (877 depth). T105 81c. T110 72-76c. Hold all 3."
+2026-03-13T19:38:00Z,231.32,3,+8.80,"Cash $172.17 + positions $59.15. New high\! T100 92-93c (1523 depth). T105 81c. T110 72-75c. Hold all 3."
+2026-03-13T20:38:00Z,229.67,3,+8.00,"Cash $172.17 + positions $57.50. T100 91-92c. T105 80-81c. T110 thin book 77-80c. Afternoon pullback. Hold all 3."
+2026-03-13T21:38:00Z,229.07,3,+7.70,"Cash $172.17 + positions $56.90. T100 92c T105 82c T110 78-80c. Stable late afternoon. Hold all 3."
+2026-03-13T22:38:00Z,229.47,3,+8.10,"Cash $172.17 + positions $57.30. Evening rally. T100 93c T105 83c T110 82c. All ticking up. Hold all 3."
+2026-03-13T23:38:00Z,230.02,3,+10.00,"Cash $172.17 + positions $57.85. T105 surging to 85c, T110 to 82-84c. T100 92c. All climbing. Hold all 3."
+2026-03-14T00:38:00Z,230.62,3,+10.30,"Cash $172.17 + positions $58.45. T100 91-92c. T105 83c. T110 85-86c (thin). Grinding higher. Hold all 3."
+2026-03-14T01:38:00Z,230.22,3,+10.10,"Cash $172.17 + positions $58.05. T100 91-92c. T105 85c (673 deep). T110 83-84c. Hold all 3."
+2026-03-14T02:38:00Z,230.97,3,+11.05,"Cash $172.17 + positions $58.80. T105 surging to 88c\! T100 92c. T110 84-85c. All climbing. Hold all 3."
+2026-03-14T03:38:00Z,232.07,3,+11.45,"Cash $172.17 + positions $59.90. New high\! T100 93c (1693 depth\!). T105 88c. T110 84c. All profitable. Hold all 3."
+2026-03-14T04:38:00Z,232.87,3,+11.65,"Cash $172.17 + positions $60.70. New high\! T100 SURGING to 95-96c. T105 86-87c. T110 81-84c. Oil spiking. Hold all 3."
+2026-03-14T05:38:00Z,233.32,3,+12.35,"Cash $172.17 + positions $61.15. New high\! T105 SURGING to 90-91c (was 86c). T100 95-96c. T110 82-84c. Oil spiking. Hold all 3."
+2026-03-14T06:38:00Z,233.22,3,+12.35,"Cash $172.17 + positions $61.05. T100 94-95c (deep). T105 90-93c. T110 82-84c. Stable overnight. Hold all 3."
+2026-03-14T07:38:00Z,233.22,3,+12.35,"Cash $172.17 + positions $61.05. Flat overnight. T100 95c T105 90-93c T110 81-84c. Hold all 3."
+2026-03-14T08:38:00Z,232.92,3,+12.05,"Cash $172.17 + positions $60.75. Flat pre-market. T100 95c T105 90-93c T110 81-84c. Hold all 3."
+2026-03-14T09:38:00Z,232.92,3,+12.05,"Cash $172.17 + positions $60.75. Flat. T100 95c depth growing (2129). T105 90c T110 84c. Hold all 3."
+2026-03-14T10:38:00Z,228.97,3,+9.45,"Cash $172.17 + positions $56.80. T100 91c(from 95c) T105 84c(from 90c) T110 78c(from 84c). Oil at 95-98 range, pullback from 98.71 settle. Holding."
+2026-03-14T11:38:00Z,229.27,3,+9.75,"Cash $172.17 + positions $57.10. T100 91c T105 86c(+2c) T110 78c. Stable. Holding all 3."
+2026-03-14T12:38:00Z,229.27,3,+9.75,"Cash $172.17 + positions $57.10. T100 91c T105 86c T110 78c. Flat. Holding."
+2026-03-14T13:38:00Z,229.17,3,+9.65,"Cash $172.17 + positions $57.00. T100 91c T105 86c T110 77c(-1c). Quiet. Holding."
+2026-03-14T14:38:00Z,229.17,3,+9.65,"Cash $172.17 + positions $57.00. T100 91c T105 86c T110 77c. API pv 1.40. T100 no-side thinning. Holding."
+2026-03-14T15:38:00Z,228.47,3,+8.95,"Cash $172.17 + positions $56.30. T100 90c(-1c) T105 84c(-2c) T110 77c. Friday softening. Holding."
+2026-03-14T18:48:14Z,232.32,3,+32.32,"Cash $172.17 + positions $60.15. 3 WTI oil YES positions (T100/T105/T110). CPI trades closed +$15 realized."
+2026-03-15T00:47:43Z,231.62,3,+31.62,"Cash $172.17 + positions $59.45. 3 WTI oil YES positions (T100/T105/T110). CPI trades closed +$15 realized."
+2026-03-15T01:08:45Z,231.74,4,+31.74,"Cash $166.99 + positions $64.75. 3 WTI oil YES (T100 94c T105 91c T110 81c) + NEW: 10x CPI-Mar T0.7 YES @50c ($5.18 inc fees). Oil at $98.71. March CPI expected hot from energy spike. Hold all."
+2026-03-15T02:07:57Z,230.44,4,+30.44,"Cash $166.99 + positions $63.45. WTI T100 93c T105 91c T110 82c + CPI-Mar T0.7 49c. Oil $97-99. Fed hold Mar 18. No new trades — no clear edge in scanned markets. HOLD all."
+2026-03-15T03:08:20Z,227.88,5,+27.88,"Cash $160.13 + positions $67.75. 5 positions: WTI T100 92c T105 81c T110 82c + CPI-Mar T0.7 49c + NEW: 10x GDP-Q1 T2.0 YES @67c ($6.86 inc fees). GDPNow 2.7% vs 2.0% threshold. Oil $98.71. Hold all."
+2026-03-15T04:08:01Z,228.28,5,+28.28,"Cash $160.13 + positions $68.15. CPI-Mar T0.7 rallying 49→54c bid. WTI T110 82→84c. GDP T2.0 flat 66c. Fed hold in 2d. No new trades — preserving cash for post-Fed. HOLD all 5."
+2026-03-15T05:08:46Z,229.88,5,+29.88,"Cash $160.13 + positions $69.75. CPI-Mar T0.7 climbing 55c(+10% from entry). WTI T100 92c T105 81c T110 82c. GDP T2.0 66c. FOMC tomorrow w/ dot plot — holding cash for post-Fed opportunities. HOLD all 5."
+2026-03-15T06:08:46Z,229.74,6,+29.74,"Cash $152.69 + positions $77.05. 6 positions: WTI T100 92c T105 82c T110 82c | CPI-Mar T0.7 56c(+12% from entry) | GDP-Q1 T2.0 66c | NEW: 10x CPI-Apr T0.3 YES @73c ($7.44 inc fees). Fed decision at 2pm ET today. HOLD all."
+2026-03-15T07:08:17Z,231.89,6,+31.89,"Cash $152.69 + positions $79.20. CPI-Apr T0.3 rallied to 77c(+5.5%). CPI-Mar T0.7 55c(+10%). WTI T100 92c T105 82c T110 82c. GDP T2.0 66c. All 6 positions in profit or flat. No new trades. HOLD all."
+2026-03-15T08:08:05Z,231.79,6,+31.79,"Cash $152.69 + positions $79.10. WTI T100 93c(+1c) T105 83c(+1c) T110 82c. CPI-Mar T0.7 56c(+12%). CPI-Apr T0.3 77c(+5.5%). GDP T2.0 66c. All green. No new trades. HOLD all 6."
+2026-03-15T09:07:42Z,231.79,6,+31.79,"Cash $152.69 + positions $79.10. All prices flat — weekend. WTI T100 93c T105 83c T110 82c. CPI-Mar T0.7 56c(+12%). CPI-Apr T0.3 77c(+5.5%). GDP T2.0 66c. No new trades. HOLD all 6."
+2026-03-15T10:09:45Z,230.28,7,+30.28,"Cash $149.68 + positions $80.60. 7 positions: WTI T100 93c T105 83c T110 82c | CPI-Mar T0.7 55c(+10%) | CPI-Apr T0.3 77c(+5.5%) | GDP T2.0 65c | NEW: 10x CPI-Apr T0.5 YES @28.6c avg ($3.01 inc fees) — speculative asymmetric bet on hot April CPI. HOLD all."
+2026-03-15T11:07:36Z,231.18,7,+31.18,"Cash $149.68 + positions $81.50. 7 positions all stable. CPI-Mar T0.6 81c(+1c). Fed-Jun T3.50 bid 48c(+7c hawkish). CPI-Apr T0.5 25-31c(entry 28.6c). No new trades. HOLD all 7."
+2026-03-15T12:07:33Z,230.58,7,+30.58,"Cash $149.68 + positions $80.90. WTI T105 84c(+1c) T110 83c(+1c). CPI-Mar T0.7 55c. CPI-Apr T0.3 77c T0.5 25c. GDP T2.0 65c. Markets holding pre-Fed. No new trades. HOLD all 7."
+2026-03-15T13:07:52Z,231.38,7,+31.38,"Cash $149.68 + positions $81.70. CPI-Mar T0.7 pulled back 55→51c bid(entry 50c, still +2%). WTI T105 last 88c T110 84c. CPI-Apr T0.3 77c T0.5 25c. GDP T2.0 65c. No new trades. HOLD all 7."
+2026-03-15T14:07:28Z,231.08,7,+31.08,"Cash $149.68 + positions $81.40. CPI-Mar T0.7 recovered to 53c(+6% from entry). All else flat. Pre-Fed liquidity drought. No new trades. HOLD all 7."
+2026-03-15T15:07:19Z,231.28,7,+31.28,"Cash $149.68 + positions $81.60. WTI T105 85c(+1c). CPI-Apr T0.5 last 32c(entry 28.6c +12%). CPI-Mar T0.7 53c. All else flat. No new trades. HOLD all 7."
+2026-03-15T16:07:33Z,231.93,7,+31.93,"Cash $149.68 + positions $82.25. WTI T105 surging 87c bid/91c last(entry 71c +22.5%). CPI-Apr T0.5 last 34c(entry 28.6c +19%). CPI-Mar T0.7 51c. GDP T2.0 65c. No new trades. HOLD all 7."
+2026-03-15T17:07:29Z,232.13,7,+32.13,"Cash $149.68 + positions $82.45. New high. CPI-Mar T0.7 recovered 51→54c(+8%). WTI T105 86c/91c last. CPI-Apr T0.5 25-33c(last 34c). All stable. No new trades. HOLD all 7."
+2026-03-15T18:07:29Z,231.53,7,+31.53,"Cash $149.68 + positions $81.85. GDP T2.0 recovered to 66c. WTI T105 88c bid(+2c). CPI-Mar T0.7 54c. T100 92c T110 83c. No new trades. HOLD all 7."
+2026-03-15T19:07:25Z,231.33,7,+31.33,"Cash $149.68 + positions $81.65. WTI T100 bid soft 90c(-2c) T105 87c T110 83-84c(tight). CPI-Mar T0.7 54c. GDP T2.0 65c. No new trades. HOLD all 7."
+2026-03-15T20:06:04Z,231.28,7,+31.28,"Cash $149.68 + positions $81.60. All flat. WTI T100 90c T105 86c T110 83c. CPI-Mar T0.7 54c. CPI-Apr T0.3 77c T0.5 25c. GDP T2.0 65c. No trades. HOLD all 7."
+2026-03-15T21:08:30Z,229.48,7,+29.48,"Cash $149.68 + positions $79.80. PULLBACK: CPI-Mar strip down 4-6c, WTI -2c, Fed-Jun T3.25 crashed 80→62c. Pre-Fed risk reduction + thin liquidity. WTI still +16-29%. CPI at/near entry. HOLD all 7 — don't panic."
+2026-03-15T22:07:31Z,232.18,7,+32.18,"Cash $149.68 + positions $82.50. NEW HIGH. WTI bounced hard: T100 91c(last 94c!) T105 88c(last 92c) T110 82c. CPI-Mar still soft T0.7 50c T0.6 72c. CPI-Apr T0.3 73c. GDP 65c. Fed-Jun T3.25 still 62c. No trades. HOLD all 7."
+2026-03-16T06:11:03Z,229.93,7,+29.93,"Cash $149.68 + positions $80.25. WTI T105 surged to 90c bid(+27% from entry). GDP recovered 67c(+0%). CPI-Mar T0.7 51c. CPI-Apr T0.5 last 23c(entry 29c, -20%). Fed-Jun T3.50 hawkish 53c(+11c). No trades. HOLD all 7."
+2026-03-16T07:10:39Z,230.93,7,+30.93,"Cash $149.68 + positions $81.25. CPI-Mar T0.8 recovering 33→36c. Fed-Jun T3.50 volatile 53→43c. WTI T100 91c T105 90c T110 82c. CPI-Mar T0.7 51c. GDP 67c. FOMC Wed. No trades. HOLD all 7."
+2026-03-16T08:11:37Z,231.53,7,+31.53,"Cash $149.68 + positions $81.85. CPI-Mar T0.7 recovering 51→53c. T0.6 77c(+1c). WTI T100 91c T105 90c. CPI-Apr T0.5 ask tightened 29c. GDP 67c. FOMC tomorrow. No trades. HOLD all 7."
+2026-03-16T09:11:40Z,231.83,7,+31.83,"Cash $149.68 + positions $82.15. WTI firming: T100 92c(last 95c) T105 90c T110 83c(last 85c). CPI-Mar T0.7 53c. GDP 67c. Fed-Jun T3.50 44c(+2c). FOMC tomorrow 2pm ET. No trades. HOLD all 7."
+2026-03-16T10:11:41Z,231.78,7,+31.78,"Cash $149.68 + positions $82.10. WTI T105 bid soft 85c(last 84c) but T100 92c strong. Fed-Jun T3.50 firming 49c(+5c hawkish). CPI-Mar T0.7 53c. GDP 67c. FOMC decision day. No trades. HOLD all 7."
+2026-03-16T11:12:19Z,229.48,7,+29.48,"Cash $149.68 + positions $79.80. Fed Mar still active — FOMC not settled yet. Fed-Jun T3.50 pulled back 49→40c(dovish). WTI T100 93c T105 85c T110 84c(+2c). CPI-Mar T0.7 53c. GDP 66c. No trades. HOLD all 7."
+2026-03-16T12:12:46Z,230.88,7,+30.88,"Cash $149.68 + positions $81.20. Fed-Jun T3.50 surged 40→61c(hawkish but thin — 1 contract at bid). CPI-Mar T0.7 last 60c(entry 50c +20%!). WTI T100 91c T105 85c T110 83c. GDP 66c. No trades — Fed book too thin. HOLD all 7."
+2026-03-16T13:11:57Z,228.98,7,+28.98,"Cash $149.68 + positions $79.30. CPI-Mar T0.7 recovering 56c(+12%). WTI T110 pullback 83→79c. T100 90c T105 84c. Fed Mar still unsettled. Fed-Jun T3.50 back to 43c. GDP 66c. No trades. HOLD all 7."
+2026-03-16T14:12:03Z,227.58,7,+27.58,"Cash $149.68 + positions $77.90. WTI pullback continues: T100 88c(-2c) T110 75c(-4c) T105 84c. Still +16-19% from entry. CPI-Mar T0.7 55c(+10%). GDP 67c(+1c). Fed Mar still unsettled. No trades. HOLD all 7."
+2026-03-16T15:12:04Z,227.33,7,+27.33,"Cash $149.68 + positions $77.65. GDP T2.0 surged 67→70c(+4.5% from entry). WTI drift: T100 87c T105 83c T110 74c (all still +14-17%). CPI-Mar T0.7 54c(+8%). Fed Mar still active. No trades. HOLD all 7."
+2026-03-16T16:11:52Z,228.13,7,+28.13,"Cash $149.68 + positions $78.45. WTI T100 88c(+1c) T105 84c(+1c) T110 72c(-2c). GDP 70c(strong). CPI-Mar T0.7 53c. Fed Mar still unsettled. No trades. HOLD all 7."
+2026-03-16T17:11:54Z,228.43,7,+28.43,"Cash $149.68 + positions $78.75. CPI-Mar T0.7 54c(last 56c). Fed Mar T3.50 99c nearing settle. WTI T100 87c T105 84c T110 72c. GDP 70c. Stable. No trades. HOLD all 7."
+2026-03-16T17:13:09Z,149.68,0.00,149.68,-50.32,-25.2,0
+2026-03-16T19:27:22Z,226.25,9,+7.61,"Cycle: 9 positions. NEW: bought 10x CPI-Mar T0.8 YES @50c ($5.00) + 5x CPI-Mar T0.9 YES @38c ($1.05) + 14x resting T0.8 @35c. Thesis: Iran war gas surge → Mar CPI spike >0.8%. EXISTING: WTIMAX T100/105/110 (40/15/10x, +10-21%), CPI-Mar T0.7 (10x +30%), CPI-Apr T0.3/T0.5, GDP T2.0 (+6%). Cash $144.45. FOMC tmrw. HOLD all."
+2026-03-16T20:24:07Z,225.32,10,+6.92,"Cycle: 10 pos + 1 resting. NEW: 15x CPI-Mar T1.0 YES @11c ($1.65) + 10x CPI-Mar T0.9 YES @19c ($1.90). Thesis: Iran war gas surge = biggest oil disruption in history, WTI settled $93.50 3/15, gas at Oct-2023 highs → Mar CPI spike likely >0.8%. Existing: WTIMAX T100/105/110 (+9-21%), CPI-Mar T0.7 (+34%), T0.8 (16x +1%), GDP T2.0 (+10%). 9x resting CPI T0.8 @35c. Cash $138.91. FOMC tmrw hold expected. HOLD all."
+2026-03-16T23:23:04Z,229.92,10,+11.52,"Cycle: CPI thesis playing out! T0.8 surged 35→46c bid(+31%), T0.9 17→22c(+29%), T0.7 68c(+36%). WTIMAX T100 bid 87c(+14.5%). GDP T2.0 74c(+10.4%). No new trades — thesis working, FOMC tmrw adds vol risk. 10 pos + 1 resting(9x T0.8@35c). Cash $138.91. HOLD all."
+2026-03-17T01:22:37Z,230.16,10,+11.76,"Cycle: Thesis intact. CPI-Mar T0.7 69c(+38%) T0.8 45c(+27%) T0.9 22c(+12%) T1.0 vol exploded 4.7K→10.8K(smart money). WTI rallied to ~$95-96 Mon(from $93.50 Fri). WTIMAX T100 87c(+14.5%) T110 77c(+22%). GDP T2.0 76c(+13%). No new trades — FOMC tmrw, thesis working. 10 pos + 1 resting. Cash $138.91. HOLD all."
+2026-03-17T03:22:33Z,229.99,10,+11.59,"Cycle: Mild pre-FOMC risk-off. CPI-Mar strip pulled back: T0.7 69→65c(+30%) T0.8 45→43c(+21%) T0.9 22c(+12%) T1.0 11c(breakeven). WTIMAX T100 firmed 87→88c(+16%). GDP T2.0 75c(+12%). WTI daily ~$95. No new trades — FOMC tomorrow, thesis unchanged. 10 pos + 1 resting. Cash $138.91. HOLD all."
+2026-03-17T04:22:09Z,229.89,10,+11.49,"Cycle: Quiet overnight, all stable. CPI-Mar T0.7 65c(+30%) T0.8 43c(+21%) T0.9 22c(+12%) T1.0 11c(flat). WTIMAX T100 88c(+16%) T110 78c(+24%). GDP T2.0 74c(+10%). WTI daily Mar17 T96.99 bid 46c (oil ~$96). FOMC day — hold expected, SEP key. No new trades. 10 pos + 1 resting. Cash $138.91. HOLD all."
+2026-03-17T05:22:36Z,230.40,10,+12.00,"Cycle: NEW HIGH. CPI-Mar recovering: T0.7 67c(+34%) T0.8 44c(+24%) T0.9 22c(+12%) T1.0 11c(flat). WTIMAX T105 up to 84c(+18%), T120/T125 big institutional vol surge. WTI ~$95 today(Mar17 T94.99 bid=58c). FOMC Mar18 closed, decision ~2pm ET today. No trades — thesis working, wait for FOMC. 10 pos + 1 resting. Cash $138.91. HOLD all."
+2026-03-17T07:23:03Z,231.60,10,+13.20,"Cycle: WTIMAX T100 surged to 90c bid(+18.4%!). WTI rallying hard ~$96-97(Mar17 T95.99 bid=63c, vol exploded to 13.7K). CPI-Mar all green: T0.7 67c(+34%) T0.8 44c(+24%) T0.9 22c(+12%) T1.0 turned profitable 12c(+9%). GDP T2.0 75c(+12%). FOMC decision tmrw. No trades. 10 pos + 1 resting. Cash $138.91. HOLD all."
+2026-03-17T09:22:33Z,231.55,10,+13.15,"Cycle: CPI-Mar T0.7 68c(+36%) T0.8 44c(+24%) T0.9 23c(+17%!) T1.0 dipped 12→9c(-18% but vol rising 12.5K). WTIMAX T100 90c(+18%) T105 86c(+21%) T110 78c(+24%). GDP T2.0 75c(+12%). WTI daily ~$96-97. CPI-Nov T0.3 bid surged 35→44c — persistent inflation priced in. No trades. 10 pos + 1 resting. Cash $138.91. HOLD all."
+2026-03-17T11:22:24Z,231.44,10,+13.04,"Cycle: WTIMAX T110 surged 78→81c(+28.6%! best performer). T100 90c(+18%) T105 85c(+20%). CPI-Mar T0.7 68c(+36%) T0.8 43c(+21%) T0.9 23c(+17%). GDP T2.0 76c(+13%, big institutional flow +1.2K OI). CPI T1.0 9c(-18%, holding). WTI daily volatile ~$95-96, Mar17 settling soon. No trades. 10 pos + 1 resting. Cash $138.91. HOLD all."
+2026-03-17T13:22:31Z,231.87,10,+13.47,"Cycle: New unrealized high! CPI-Mar surging: T0.8 46c(+30%) T0.7 69c(+38%) T0.9 24c(+22%) — market pricing higher Mar CPI. CPI-Apr T0.3 turned green(+3%). WTIMAX T100 dipped 90→88c on WTI daily pullback ~$94-95 but T110 holds 81c(+29%). GDP T2.0 75c(+12%). WTI Mar17 settling in ~1hr. No trades. 10 pos + 1 resting. Cash $138.91. HOLD all."
+2026-03-17T15:24:48Z,235.27,12,+16.87,"Cycle: MASSIVE moves! NEW RECORDS. CPI-Mar T0.7 70c(+40%) T0.8 46c(+30%) T0.9 25c(+27%). CPI-Apr T0.5 exploded 27→41c(+43%!). WTIMAX T100 91c(+20%) T105 86c(+21%) T110 82c(+30%). GDP T2.0 76c(+13%). CPI T1.0 OI DOUBLED 10K→24K institutional buying. NEW: bought 50x T1.3 YES @1c($0.50) + 50x T1.2 YES @1c($0.50) = lottery tickets, $1 risk for up to $100 payout on gas-surge CPI spike. 12 pos + 1 resting. Cash ~$137.91. HOLD all."
+2026-03-17T16:51:24Z,137.83,0.00,137.83,-62.17,-31.1,0
+2026-03-17T16:52:21Z,137.83,96.82,234.65,34.65,17.3,12
+2026-03-17T17:22:25Z,234.64,12,+16.32,"Cycle: CPI-Apr T0.5 EXPLODED +71%(29→49c!). CPI-Mar: T0.7 70c(+40%) T0.8 46c(+30%) T0.9 24c(+22%) T1.0 10c(-9%). Lottery T1.2/T1.3 at cost(T1.2 OI surged 984→5374 — more buyers). WTIMAX T100 88c(+16%) T105 85c(+20%) T110 82c(+30%). GDP T2.0 76c(+13%). CPI-Apr T0.3(+6%). WTI settled ~$95-96. No trades. 12 pos + 1 resting. Cash $137.83. HOLD all."
+2026-03-17T19:22:40Z,235.71,12,+17.39,"Cycle: NEW ALL-TIME HIGH unrealized +$17.39. CPI-Mar T0.8 surged to 48c(+35% new high!) T0.7 70c(+40%) T0.9 24c(+22%) T1.0 10c(-9%). CPI-Apr T0.3 85c(+16%) T0.5 45c(+57%). WTIMAX T100 89c(+17%, OI surged +3.9K institutional) T105 86c(+21%) T110 81c(+29%). GDP T2.0 75c(+12%). WTI Mar17 settled, Mar18 ~$95. No trades. 12 pos + 1 resting. Cash $137.83. HOLD all."
+2026-03-17T21:25:51Z,234.55,12,+16.23,"Cycle: Stable near ATH. CPI-Mar T1.0 reached BREAKEVEN 11c. T0.7 70c(+40%) T0.8 47c(+32%) T0.9 22c(+12%). CPI-Apr T0.3 85c(+16%) T0.5 37c(+29%). CPI-Nov T0.5 surged 17→25c(far-month inflation). CPI T1.2 OI +567. WTIMAX T100 89c(+17%) T105 85c(+20%) T110 82c(+30%). GDP T2.0 75c(+12%). WTI Mar18 ~$95-96, FOMC decision imminent. No trades. 12 pos + 1 resting. Cash $137.83. HOLD all."
+2026-03-17T23:22:58Z,233.58,12,+15.26,"Cycle: CPI T0.7 HIT +50%(75c bid, last 82c!). POST-FOMC DOVISH — Fed rate expectations crashed(T4.00 bid 44→24c Apr27). CPI T1.0 now profitable(+9%, 12c). CPI T1.2 OI EXPLODED 5.9K→13.4K institutional mania. T0.9 bid crashed 22→13c but LIQUIDITY GAP(last=24c, T1.0=12c, inconsistent). T0.8 45c(+27%). WTIMAX T100 88c(+16%) T110 82c(+30%). CPI-Apr T0.3 85c(+16%) T0.5 40c(+40%). GDP T2.0 75c(+12%). No trades. 12 pos + 1 resting. Cash $137.83. HOLD all."
+2026-03-18T01:22:48Z,238.58,12,+20.26,"Cycle: SMASHING RECORDS $238.58(+19.3%)! Post-FOMC CPI EXPLOSION: T0.7 77c(+54%) T0.8 BROKE 50c(+41%) T0.9 RECOVERED 13→29c(+48%! liquidity gap call correct) T1.0 14c(+27%) T1.2 3c(+200%!! lottery paying off). ALL 12 POS GREEN. WTIMAX T100 89c(+17%) T105 86c(+21%) T110 82c(+30%). CPI-Apr T0.3 85c(+16%) T0.5 39c(+36%). GDP T2.0 75c(+12%). Fed hawkish hold = validates inflation thesis. No trades. 12 pos + 1 resting. Cash $137.83. HOLD all."
+2026-03-18T03:22:36Z,236.53,12,+18.21,"Cycle: Normal consolidation after FOMC surge. CPI-Mar T0.7 74c(+48%) T0.8 45c(+27%) T0.9 29c(+48%) T1.0 15c(+36% keeps rising!) T1.2 3c(+200% OI 16.5K). WTIMAX slight dip on oil ~$93-94: T100 88c(+16%) T105 84c(+18%) T110 80c(+27%). CPI-Apr T0.3 85c(+16%) T0.5 37c(+29%). GDP T2.0 75c(+12%). 11/12 green. No trades. 12 pos + 1 resting. Cash $137.83. HOLD all."
