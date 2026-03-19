@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2026-03-07T08:00:00Z",
+    "type": "trade",
+    "title": "Baseline starts trading",
+    "detail": "First positions: CPI-Feb and CPI-Mar bets."
+  },
+  {
+    "timestamp": "2026-03-08T23:01:00Z",
+    "type": "trade",
+    "title": "Expanded to 7 positions",
+    "detail": "CPI-Feb, CPI-Mar, WTI-Oil contracts. Live API data."
+  },
+  {
+    "timestamp": "2026-03-09T01:02:00Z",
+    "type": "crash",
+    "title": "Pricing glitch — flash crash to $144.70",
+    "detail": "Positions briefly mispriced. Recovered to $219.50 within an hour."
+  },
+  {
+    "timestamp": "2026-03-10T18:13:00Z",
+    "type": "macro",
+    "title": "Oil crash — Trump ends Iran tensions",
+    "detail": "WTI positions tanked. Account dropped to $179.85."
+  },
+  {
+    "timestamp": "2026-03-11T08:14:00Z",
+    "type": "macro",
+    "title": "CPI Feb released — +$33 surge",
+    "detail": "CPI-Feb T0.2 surged to 63c bid. Big move day."
+  },
+  {
+    "timestamp": "2026-03-11T13:39:00Z",
+    "type": "win",
+    "title": "CPI Feb settled — T0.2 YES won",
+    "detail": "CPI >0.2% confirmed. Net CPI gain after fees. T0.3 NO also won."
+  },
+  {
+    "timestamp": "2026-03-14T05:38:00Z",
+    "type": "milestone",
+    "title": "ATH $233.32 (+16.7%)",
+    "detail": "WTI T105 surging to 90-91c. Oil spiking. New all-time high."
+  }
+]
