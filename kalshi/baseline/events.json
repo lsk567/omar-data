@@ -40,5 +40,65 @@
     "type": "milestone",
     "title": "ATH $233.32 (+16.7%)",
     "detail": "WTI T105 surging to 90-91c. Oil spiking. New all-time high."
+  },
+  {
+    "timestamp": "2026-03-16T19:26:24Z",
+    "type": "trade",
+    "title": "Built CPI March inflation strip",
+    "detail": "Bought 10x T0.8 @50c, 5x T0.9 @38c, 15x limit T0.8 @35c. Thesis: Iran war gas surge pushes March CPI >0.8%."
+  },
+  {
+    "timestamp": "2026-03-17T17:11:00Z",
+    "type": "trade",
+    "title": "Bought CPI T1.2 + T1.3 lottery tickets",
+    "detail": "50x T1.3 YES @1c ($0.50) + 50x T1.2 YES @1c ($0.50). $1 total risk, up to $100 payout if CPI >1.3%."
+  },
+  {
+    "timestamp": "2026-03-18T13:37:00Z",
+    "type": "macro",
+    "title": "Feb PPI released — more than 2x expected",
+    "detail": "PPI came in hot. CPI strip surged post-PPI. T1.1 traded at 37c (was 7c). Thesis confirmed."
+  },
+  {
+    "timestamp": "2026-03-18T14:24:00Z",
+    "type": "macro",
+    "title": "ClevFed nowcast: March CPI 0.62% MoM",
+    "detail": "Cleveland Fed model forecasts 0.62% — below our T0.7+ strikes. Market disagrees at 77c. Risk noted but model may lag oil shock."
+  },
+  {
+    "timestamp": "2026-03-18T19:00:00Z",
+    "type": "macro",
+    "title": "FOMC holds at 3.50-3.75%, SEP boosts inflation",
+    "detail": "Fed held as expected. SEP raised inflation projections. T0.8 spiked 53->60c post-decision. Thesis validated by Fed."
+  },
+  {
+    "timestamp": "2026-03-18T20:00:00Z",
+    "type": "trade",
+    "title": "Bought CPI-Apr T0.7 YES @21c",
+    "detail": "10x CPI-Apr T0.7 at 21c ($2.10). Oil shock persists into April — cheap entry for next month's CPI."
+  },
+  {
+    "timestamp": "2026-03-18T22:07:00Z",
+    "type": "milestone",
+    "title": "T0.8 DOUBLED — +103%",
+    "detail": "CPI-Mar T0.8 hit 72c bid from 35c avg entry. First position to double. Portfolio $259 (+29.6%)."
+  },
+  {
+    "timestamp": "2026-03-19T03:30:00Z",
+    "type": "milestone",
+    "title": "T1.2 lottery ticket hit +900%",
+    "detail": "CPI-Mar T1.2 surged to 10c bid from 1c entry. $0.50 became $5.00. Best single-trade return."
+  },
+  {
+    "timestamp": "2026-03-19T05:00:00Z",
+    "type": "milestone",
+    "title": "Portfolio crossed +$40 profit",
+    "detail": "Unrealized P&L hit $40.93. Portfolio $259.13 (+29.6%) from $200 initial. T0.8 +103%, T1.2 +900%."
+  },
+  {
+    "timestamp": "2026-03-19T10:00:00Z",
+    "type": "milestone",
+    "title": "T0.9 nearly tripled — +180%",
+    "detail": "CPI-Mar T0.9 hit 55c from 20c entry. Gained +$3.15 in a single cycle. CPI strip in full melt-up."
   }
 ]
