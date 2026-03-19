@@ -84,6 +84,18 @@
     "detail": "3 sector desks (oil/CPI/macro), multi-backend. Spawned in parallel per full cycle."
   },
   {
+    "timestamp": "2026-03-18T13:22:00Z",
+    "type": "macro",
+    "title": "Feb PPI hot — 0.7% vs 0.3% consensus",
+    "detail": "Headline PPI more than double consensus. Core 0.5% vs 0.3%. Pre-war data showing inflation already accelerating."
+  },
+  {
+    "timestamp": "2026-03-18T14:22:00Z",
+    "type": "macro",
+    "title": "Cleveland Fed nowcast jumps 0.47% to 0.62%",
+    "detail": "Hot PPI absorbed into model. CPI buffer collapsed from 0.23% to 0.08%. Triggered CPI NO trim (15 of 30 sold)."
+  },
+  {
     "timestamp": "2026-03-18T18:22:00Z",
     "type": "macro",
     "title": "FOMC holds rates — less hawkish than feared",
