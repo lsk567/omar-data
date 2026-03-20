@@ -100,5 +100,11 @@
     "type": "milestone",
     "title": "T0.9 nearly tripled — +180%",
     "detail": "CPI-Mar T0.9 hit 55c from 20c entry. Gained +$3.15 in a single cycle. CPI strip in full melt-up."
+  },
+  {
+    "timestamp": "2026-03-19T17:30:00Z",
+    "type": "loss",
+    "title": "CPI-Apr T0.3 crashed 80c to 29c (-60%)",
+    "detail": "First significant loss. CPI-Apr T0.3 bid collapsed from 80c to 29c. Thin market bid withdrawal. CPI-Mar mid-strikes also pulling back (T0.9 43->35c). Portfolio dropped from $249 to $239."
   }
 ]
