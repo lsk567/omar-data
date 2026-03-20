@@ -106,5 +106,11 @@
     "type": "loss",
     "title": "CPI-Apr T0.3 crashed 80c to 29c (-60%)",
     "detail": "First significant loss. CPI-Apr T0.3 bid collapsed from 80c to 29c. Thin market bid withdrawal. CPI-Mar mid-strikes also pulling back (T0.9 43->35c). Portfolio dropped from $249 to $239."
+  },
+  {
+    "timestamp": "2026-03-20T05:00:00Z",
+    "type": "loss",
+    "title": "CPI-Mar strip broad pullback — T0.7 drops 88c to 74c",
+    "detail": "CPI March strip giving back post-FOMC/PPI gains. T0.7 dropped from 88c peak to 74c. T1.0 from 32c to 16c. Portfolio unrealized fell from +$41 ATH to +$18. Thesis unchanged — CPI data not until Apr 10."
   }
 ]
