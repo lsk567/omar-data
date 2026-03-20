@@ -1,9 +1,9 @@
 timestamp,account,cash_balance,portfolio_value,total_account_value,pnl_dollars,pnl_pct
-2026-03-20T18:27:34Z,Quant Firm,86.37,34.69,121.06,-78.94,-39.5%
+2026-03-20T19:26:56Z,Quant Firm,86.37,33.13,119.50,-80.50,-40.2%
 
 ticker,contracts,side,entry_price,current_bid,current_ask,last,bid_value,unrealized_pnl,status
-KXGDP-26APR30-T3.0,16,NO,26c,62c,63c,66c,$9.92,+$5.76,HOLD — GDPNow 2.7% below strike
-KXGOVTCUTS-28-250,10,NO,25c,88c,93c,83c,$8.80,+$6.30,HOLD — YES crashed to 7c
-KXWTIMAX-26DEC31-T115,10,YES,75c,68c,72c,71c,$6.80,-$0.70,HOLD — WTI $93.55 9mo left
-KXCPI-26APR-T0.5,12,YES,48c,56c,63c,64c,$6.72,+$0.96,HOLD — above entry +17%
-KXCPI-26MAR-T1.1,15,YES,6c,6c,8c,7c,$0.90,+$0.00,HOLD — free ride lottery
+KXGDP-26APR30-T3.0,16,NO,26c,60c,65c,63c,$9.60,+$5.44,HOLD — GDPNow 2.7% supports
+KXGOVTCUTS-28-250,10,NO,25c,88c,93c,83c,$8.80,+$6.30,HOLD — YES collapsed
+KXCPI-26APR-T0.5,12,YES,48c,59c,65c,55c,$7.08,+$1.32,HOLD — take-profit reviewed EV+
+KXWTIMAX-26DEC31-T115,10,YES,75c,68c,72c,71c,$6.80,-$0.70,HOLD — 9mo left
+KXCPI-26MAR-T1.1,15,YES,6c,6c,8c,7c,$0.90,+$0.00,HOLD — free ride
