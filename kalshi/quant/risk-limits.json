@@ -1,0 +1,13 @@
+{
+  "max_position_pct": 15,
+  "max_total_exposure_pct": 60,
+  "max_positions": 5,
+  "max_drawdown_pct": 20,
+  "max_single_market_pct": 20,
+  "min_account_balance": 50,
+  "max_loss_per_trade_pct": 15,
+  "take_profit_pct": 20,
+  "preferred_price_range": [15, 85],
+  "preferred_expiry_days": [1, 7],
+  "notes": "Conservative defaults for $200 account. Adjust as account grows."
+}

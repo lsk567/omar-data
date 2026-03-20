@@ -1,0 +1,9 @@
+timestamp,account,cash_balance,portfolio_value,total_value,pnl_dollars,pnl_pct
+2026-03-20T16:25:58Z,Quant Firm,86.37,33.47,119.84,-80.16,-40.1%
+
+ticker,contracts,exposure,yes_bid,yes_ask,last,status
+KXGDP-26APR30-T3.0,-16,$11.76,35c,39c,35c,HOLD
+KXWTIMAX-26DEC31-T115,10,$7.50,68c,71c,67c,HOLD
+KXGOVTCUTS-28-250,-10,$7.50,17c,21c,20c,HOLD
+KXCPI-26APR-T0.5,12,$5.76,51c,55c,56c,HOLD +3c
+KXCPI-26MAR-T1.1,15,$0.00,11c,12c,11c,FREE RIDE
