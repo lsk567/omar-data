@@ -154,5 +154,11 @@
     "type": "milestone",
     "title": "Portfolio stabilized at $121 — 5 positions, all thesis-aligned",
     "detail": "Cash $86.37 + portfolio $35.03 = $121.40. GDP NO +$5.36, GOVTCUTS NO +$6.40 (best performers). CPI-Apr YES +$1.56. WTI T115 -$0.60. CPI-Mar T1.1 free ride. Drawdown -39.3%."
+  },
+  {
+    "timestamp": "2026-03-21T18:00:00Z",
+    "type": "macro",
+    "title": "CPI-Apr T0.5 bid surges +10c over weekend to 71c",
+    "detail": "CPI-Apr T0.5 YES bid moved 61c (Sat AM) → 71c (Sun evening), +10c weekend repricing. Our entry 48c → +48% at bid. Gas +26.9% MoM (largest since Katrina), diesel driving broad goods inflation. Market absorbing oil-shock CPI narrative."
   }
 ]
