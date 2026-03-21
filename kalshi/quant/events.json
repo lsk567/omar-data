@@ -154,53 +154,5 @@
     "type": "milestone",
     "title": "Portfolio stabilized at $121 — 5 positions, all thesis-aligned",
     "detail": "Cash $86.37 + portfolio $35.03 = $121.40. GDP NO +$5.36, GOVTCUTS NO +$6.40 (best performers). CPI-Apr YES +$1.56. WTI T115 -$0.60. CPI-Mar T1.1 free ride. Drawdown -39.3%."
-  },
-  {
-    "timestamp": "2026-03-23T00:00:00Z",
-    "type": "catalyst",
-    "title": "🔮 Mon Mar 23 — GDPNow update",
-    "detail": "Atlanta Fed GDPNow next update. Currently 2.3% (dropped from 2.7%). Critical for GDP T3.0 NO position — lower reading strengthens our NO. Oil shock likely dragging growth."
-  },
-  {
-    "timestamp": "2026-03-26T12:30:00Z",
-    "type": "catalyst",
-    "title": "🔮 Wed Mar 26 — Q4 GDP final revision",
-    "detail": "Bureau of Economic Analysis releases final Q4 2025 GDP estimate. May shift GDPNow baseline. Our GDP T3.0 NO benefits from weaker readings."
-  },
-  {
-    "timestamp": "2026-03-28T12:30:00Z",
-    "type": "catalyst",
-    "title": "🔮 Fri Mar 28 — Feb PCE inflation report",
-    "detail": "Fed's preferred inflation gauge. Hot PCE would validate CPI-Apr T0.5 YES thesis and confirm inflation pipeline from PPI. Cleveland Fed nowcast may update."
-  },
-  {
-    "timestamp": "2026-04-04T12:30:00Z",
-    "type": "catalyst",
-    "title": "🔮 Fri Apr 4 — March jobs report (NFP)",
-    "detail": "Non-farm payrolls. DOGE layoffs may show up — relevant to GOVTCUTS NO position (250K threshold). Weak jobs = bearish GDP = helps GDP NO."
-  },
-  {
-    "timestamp": "2026-04-10T12:30:00Z",
-    "type": "catalyst",
-    "title": "🔮 Thu Apr 10 — March CPI release ⭐ KEY EVENT",
-    "detail": "THE catalyst. Settles CPI-Mar T1.1 (free ride) and informs CPI-Apr T0.5 YES. Cleveland Fed nowcast: 0.62% MoM. Analysts estimate 0.9% due to oil/gas surge. Gas $3.91/gal (+93c from pre-war). Will capture Iran war energy shock."
-  },
-  {
-    "timestamp": "2026-04-30T12:30:00Z",
-    "type": "catalyst",
-    "title": "🔮 Wed Apr 30 — Q1 2026 GDP advance estimate",
-    "detail": "First look at Q1 GDP. Settles KXGDP-26APR30-T3.0. GDPNow at 2.3% — well below 3.0 threshold. Oil shock + tariff uncertainty likely drag. Our NO position ($9.60 value) should win."
-  },
-  {
-    "timestamp": "2026-05-07T18:00:00Z",
-    "type": "catalyst",
-    "title": "🔮 Wed May 7 — FOMC meeting",
-    "detail": "Next Fed rate decision. Dot plot projected 1 cut in 2026. If inflation stays hot from oil shock, hawkish hold likely. Impacts all CPI and GDP positions."
-  },
-  {
-    "timestamp": "2026-05-13T12:30:00Z",
-    "type": "catalyst",
-    "title": "🔮 Tue May 13 — April CPI release",
-    "detail": "Settles CPI-Apr T0.5 YES position (12 contracts, $7.32 value). If oil prices persist above $90, April CPI >0.5% likely. Our largest active bet by expected payout."
   }
 ]

@@ -160,59 +160,5 @@
     "type": "macro",
     "title": "Qatar LNG damage + food inflation risk",
     "detail": "Qatar gas facilities $20B damage, 17% global LNG lost (5yr repair). Fertilizer surge → food inflation. Gas $3.89/gal. Goldman: high prices through 2027."
-  },
-  {
-    "timestamp": "2026-03-23T00:00:00Z",
-    "type": "catalyst",
-    "title": "🔮 Mon Mar 23 — GDPNow update",
-    "detail": "Atlanta Fed GDPNow next update. GDP T2.0 position benefits from readings above 2.0%. Currently 2.3%. Oil shock may drag growth."
-  },
-  {
-    "timestamp": "2026-03-26T12:30:00Z",
-    "type": "catalyst",
-    "title": "🔮 Wed Mar 26 — Q4 GDP final revision",
-    "detail": "Final Q4 2025 GDP from BEA. GDP T2.0 at 72c (+8%). May shift GDPNow baseline for Q1."
-  },
-  {
-    "timestamp": "2026-03-28T12:30:00Z",
-    "type": "catalyst",
-    "title": "🔮 Fri Mar 28 — Feb PCE inflation report",
-    "detail": "Fed preferred inflation gauge. Hot PCE confirms pipeline from hot PPI (0.7%). Critical for CPI strip pricing."
-  },
-  {
-    "timestamp": "2026-04-04T12:30:00Z",
-    "type": "catalyst",
-    "title": "🔮 Fri Apr 4 — March jobs report (NFP)",
-    "detail": "Non-farm payrolls. DOGE layoffs + war disruptions may appear. Weak jobs bearish for GDP."
-  },
-  {
-    "timestamp": "2026-04-10T12:30:00Z",
-    "type": "catalyst",
-    "title": "🔮 Thu Apr 10 — March CPI release ⭐ KEY EVENT",
-    "detail": "THE catalyst. Settles CPI-Mar strip (T0.7-T1.3, 6 positions). ClevFed nowcast 0.62%. Analysts: 0.9%. Gas $3.91/gal (+93c pre-war). First CPI capturing Iran war energy shock."
-  },
-  {
-    "timestamp": "2026-04-30T12:30:00Z",
-    "type": "catalyst",
-    "title": "🔮 Wed Apr 30 — Q1 GDP advance estimate",
-    "detail": "First Q1 GDP reading. GDP T2.0 YES ($6.70 deployed) settles on advance estimate. Oil shock + tariffs weigh on growth."
-  },
-  {
-    "timestamp": "2026-05-07T18:00:00Z",
-    "type": "catalyst",
-    "title": "🔮 Wed May 7 — FOMC meeting",
-    "detail": "Next rate decision. March dot plot: 1 cut in 2026. Hot CPI = hawkish stance, benefits inflation-long positions."
-  },
-  {
-    "timestamp": "2026-05-13T12:30:00Z",
-    "type": "catalyst",
-    "title": "🔮 Tue May 13 — April CPI release",
-    "detail": "Settles CPI-Apr strip (T0.3, T0.5, T0.7). Oil >0 = hot April CPI likely. $12.26 deployed across 3 CPI-Apr contracts."
-  },
-  {
-    "timestamp": "2026-12-31T23:59:00Z",
-    "type": "catalyst",
-    "title": "🔮 Dec 31 — WTIMAX annual settlement",
-    "detail": "WTIMAX T100/T105/T110 settle on whether WTI touched those levels in 2026. WTI already hit $98+. $47.35 deployed (largest exposure). T100 at 91c."
   }
 ]
