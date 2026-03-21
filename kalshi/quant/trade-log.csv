@@ -129,3 +129,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-21T20:01:57Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sunday night — $121.14 (+$0.06). Flat. Minor spread changes only. Weekend winding down. HOLD all 5."
 2026-03-21T21:01:51Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sunday midnight — $121.47 (+$0.33). GDP T3.0 NO bid recovered 57→59c (+2c, ask 43→41c). Thin-liquidity buyer from earlier absorbed. CPI-Apr 71c, WTI 66c, GOVTCUTS 89c all steady. HOLD all 5."
 2026-03-21T22:01:54Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Late Sunday — $121.47 unchanged. All bids identical. Trivial ask movements. HOLD all 5."
+2026-03-21T23:02:00Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Pre-Monday — $121.61 (+$0.14). CPI-Apr T0.5 bid ticked 71→72c. WTI T115 last 69c (someone bought ask). GOVTCUTS YES bid dropped 7→6c (practically zero). HOLD all 5. Monday GDPNow update is key catalyst."
