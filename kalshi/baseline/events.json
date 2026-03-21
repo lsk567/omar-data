@@ -160,5 +160,17 @@
     "type": "macro",
     "title": "Qatar LNG damage + food inflation risk",
     "detail": "Qatar gas facilities $20B damage, 17% global LNG lost (5yr repair). Fertilizer surge → food inflation. Gas $3.89/gal. Goldman: high prices through 2027."
+  },
+  {
+    "timestamp": "2026-03-21T01:07:00Z",
+    "type": "trade",
+    "title": "Bought 3 new macro positions — inflation + recession",
+    "detail": "15x KXLCPIMAXYOY-27-P4 YES @46c ($6.90) max CPI>4%. 10x KXCPI-26MAR-T0.9 YES @43c ($4.30) Mar CPI>0.9%. 8x KXRECSSNBER-26 YES @36c ($2.88) recession. All filled immediately. $14.66 total incl fees."
+  },
+  {
+    "timestamp": "2026-03-21T02:04:00Z",
+    "type": "trade",
+    "title": "Added inflation strip + stagflation bet",
+    "detail": "10x KXLCPIMAXYOY-27-P3.5 YES @78c ($7.80) max CPI>3.5%. 10x KXPPIVSCPI YES @54c ($5.40) PPI>CPI 3+mo. 10x KXECONPATH-26-STAG YES @27c ($2.70) stagflation. All filled. $16.35 total. Portfolio now 18 positions."
   }
 ]
