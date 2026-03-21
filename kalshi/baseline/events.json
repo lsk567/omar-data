@@ -178,5 +178,11 @@
     "type": "macro",
     "title": "Unemployment market spikes — KXU3MAX-27-5 ask 50c→55c",
     "detail": "KXU3MAX-27-5 (unemployment >5% before 2027) jumped +5c on ask side (50→55c), bid 49→52c. 118K OI. Market repricing higher unemployment risk from tariff disruptions and DOGE layoffs. We don't hold this position."
+  },
+  {
+    "timestamp": "2026-03-21T17:00:00Z",
+    "type": "milestone",
+    "title": "CPI-Apr T0.7 doubled — +100%",
+    "detail": "CPI-Apr T0.7 YES hit 37c bid / 47c ask from 21c entry. 10x position cost $2.10 now worth $4.20. First April CPI position to double. Portfolio $249.20 (+24.6%)."
   }
 ]
