@@ -184,5 +184,11 @@
     "type": "milestone",
     "title": "CPI-Apr T0.7 doubled — +100%",
     "detail": "CPI-Apr T0.7 YES hit 37c bid / 47c ask from 21c entry. 10x position cost $2.10 now worth $4.20. First April CPI position to double. Portfolio $249.20 (+24.6%)."
+  },
+  {
+    "timestamp": "2026-03-21T19:30:00Z",
+    "type": "milestone",
+    "title": "Portfolio crossed $250 — new ATH (+25.1%)",
+    "detail": "Account hit $250.30 ($104.60 cash + $145.70 positions). CPI-Apr T0.5 surging to 71/76c (+157%). 18 positions, 15 green. First time above $250 from $200 starting bankroll."
   }
 ]
