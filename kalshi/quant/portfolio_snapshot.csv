@@ -1,9 +1,9 @@
 timestamp,account,cash_balance,portfolio_value,total_account_value,pnl_dollars,pnl_pct
-2026-03-21T08:04:22Z,Quant Firm,86.37,35.03,121.40,-78.60,-39.3%
+2026-03-21T09:05:51Z,Quant Firm,86.37,35.03,121.40,-78.60,-39.3%
 
 ticker,contracts,side,entry_price,current_bid,current_ask,last,bid_value,unrealized_pnl,status
-KXGDP-26APR30-T3.0,16,NO,26c,60c,63c,37c,$9.60,+$5.36,HOLD — GDPNow 2.3%. Next update Mon Mar 23.
-KXGOVTCUTS-28-250,10,NO,25c,89c,93c,7c,$8.90,+$6.40,HOLD — YES 7c. Near-certain.
-KXCPI-26APR-T0.5,12,YES,48c,61c,70c,65c,$7.32,+$1.56,HOLD — bid -4c weekend spread. Goldman: high prices thru 2027.
-KXWTIMAX-26DEC31-T115,10,YES,75c,69c,71c,68c,$6.90,-$0.60,HOLD — Iran missiles toward Israel Sat. Conflict widening.
-KXCPI-26MAR-T1.1,15,YES,6c,7c,8c,7c,$1.05,+$0.15,HOLD — Free ride. Resolves Apr 10.
+KXGDP-26APR30-T3.0,16,NO,26c,60c,64c,37c,$9.60,+$5.36,HOLD — GDPNow 2.3%. Next update Mon.
+KXGOVTCUTS-28-250,10,NO,25c,89c,93c,7c,$8.90,+$6.40,HOLD — Near-certain winner.
+KXCPI-26APR-T0.5,12,YES,48c,61c,70c,65c,$7.32,+$1.56,HOLD — Weekend spread. Thesis intact.
+KXWTIMAX-26DEC31-T115,10,YES,75c,68c,71c,68c,$6.80,-$0.70,HOLD — WTI $98. Bid -1c Sat noise.
+KXCPI-26MAR-T1.1,15,YES,6c,7c,8c,7c,$1.05,+$0.15,HOLD — Free ride.
