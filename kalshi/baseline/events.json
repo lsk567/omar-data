@@ -172,5 +172,11 @@
     "type": "trade",
     "title": "Added inflation strip + stagflation bet",
     "detail": "10x KXLCPIMAXYOY-27-P3.5 YES @78c ($7.80) max CPI>3.5%. 10x KXPPIVSCPI YES @54c ($5.40) PPI>CPI 3+mo. 10x KXECONPATH-26-STAG YES @27c ($2.70) stagflation. All filled. $16.35 total. Portfolio now 18 positions."
+  },
+  {
+    "timestamp": "2026-03-21T15:30:00Z",
+    "type": "macro",
+    "title": "Unemployment market spikes — KXU3MAX-27-5 ask 50c→55c",
+    "detail": "KXU3MAX-27-5 (unemployment >5% before 2027) jumped +5c on ask side (50→55c), bid 49→52c. 118K OI. Market repricing higher unemployment risk from tariff disruptions and DOGE layoffs. We don't hold this position."
   }
 ]
