@@ -310,3 +310,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-21T19:02:29Z,121.08,5,+12.04,"Sunday late. CPI-Apr T0.5 bid surged to 71c (+10c from Sat low, +48% from entry). CPI-Mar T1.1 last 9c. WTI bid -2c to 66c. GDP YES last 44c. HOLD all 5."
 2026-03-21T19:03:04Z,86.37,34.71,121.08,-78.92,-39.5
 2026-03-21T20:01:57Z,121.14,5,+12.04,"Sunday night. Flat. WTI ask tightened 69→67c. CPI-Mar T1.1 ask widened 9→10c. All bids stable. HOLD all 5."
+2026-03-21T21:01:51Z,121.47,5,+12.36,"Sunday midnight. GDP NO bid recovered 57→59c (+2c). All else stable. HOLD all 5."
