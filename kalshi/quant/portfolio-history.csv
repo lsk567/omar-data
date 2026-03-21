@@ -303,3 +303,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-21T13:02:28Z,121.40,5,+13.23,"Sunday early AM. Markets dead. CPI-Apr bid 61c (+1c). All else identical. HOLD all 5."
 2026-03-21T13:03:02Z,121.40,5,-78.60,KALSHI MONITOR snapshot. Cash $86.37 + PV $35.03 = $121.40 (-39.3%). 5 active positions.
 2026-03-21T14:01:54Z,122.28,5,+13.23,"Sunday AM. Portfolio +$0.88 to $122.28. CPI-Apr T0.5 last traded 71c (was 65c — buyer lifted ask). WTI bid -1c to 68c. HOLD all 5."
+2026-03-21T15:01:52Z,122.43,5,+13.23,"Sunday. +$0.15. CPI-Mar T1.1 last traded 8c (was 7c — ask lifted). All else flat. HOLD all 5."
