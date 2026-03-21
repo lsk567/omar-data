@@ -288,3 +288,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-20T19:26:56Z,Quant Firm,86.37,33.13,119.50,-80.50,-40.2%
 2026-03-20T20:26:57Z,Quant Firm,86.37,33.23,119.60,-80.40,-40.2%
 2026-03-21T01:03:49Z,120.50,5,+13.23,"FULL CYCLE — Total $120.50 (cash $86.37 + portfolio $34.13). WTI $93-95 bearish triangle. GDPNow 2.7%. Hormuz still disrupted but de-escalation signals. DOGE 242K jobs cut (near 250K strike). CPI-Mar curve: modal 0.8-0.9%. HOLD all 5. No trades — drawdown -41.3% exceeds limit."
+2026-03-21T02:02:49Z,120.78,5,+13.51,"FULL CYCLE — Total $120.78 (cash $86.37 + portfolio $34.41). GDPNow DROPPED 2.7%->2.3% (Mar 19) — GDP NO strengthening. ClevFed CPI nowcast 0.62% MoM (Mar 20). WTI $93-98 bearish triangle. HOLD all 5. No trades — drawdown -41.2%."
