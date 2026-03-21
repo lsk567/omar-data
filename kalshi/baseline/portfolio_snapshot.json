@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-21T20:02:28.850956+00:00",
+  "timestamp": "2026-03-21T21:02:30.675775+00:00",
   "cash": 104.6,
   "positions": [
     {
@@ -150,11 +150,11 @@
       "contracts": 10.0,
       "side": "yes",
       "cost_basis": 2.1,
-      "current_value": 4.6,
-      "yes_bid": 0.41,
-      "yes_ask": 0.51,
-      "pnl": 2.5,
-      "pnl_pct": 119.0
+      "current_value": 4.5,
+      "yes_bid": 0.4,
+      "yes_ask": 0.5,
+      "pnl": 2.4,
+      "pnl_pct": 114.3
     },
     {
       "ticker": "KXGDP-26APR30-T2.0",
@@ -183,11 +183,11 @@
       "contracts": 10.0,
       "side": "yes",
       "cost_basis": 6.3,
-      "current_value": 7.6,
+      "current_value": 7.65,
       "yes_bid": 0.75,
-      "yes_ask": 0.77,
-      "pnl": 1.3,
-      "pnl_pct": 20.6
+      "yes_ask": 0.78,
+      "pnl": 1.35,
+      "pnl_pct": 21.4
     },
     {
       "ticker": "KXWTIMAX-26DEC31-T105",
@@ -202,9 +202,9 @@
     }
   ],
   "total_cost": 112.57,
-  "total_value": 145.95,
-  "total_account": 250.55,
-  "unrealized_pnl": 33.38,
-  "return_pct": 25.3,
+  "total_value": 145.9,
+  "total_account": 250.5,
+  "unrealized_pnl": 33.33,
+  "return_pct": 25.2,
   "num_positions": 18
 }
