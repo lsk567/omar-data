@@ -305,3 +305,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-21T14:01:54Z,122.28,5,+13.23,"Sunday AM. Portfolio +$0.88 to $122.28. CPI-Apr T0.5 last traded 71c (was 65c — buyer lifted ask). WTI bid -1c to 68c. HOLD all 5."
 2026-03-21T15:01:52Z,122.43,5,+13.23,"Sunday. +$0.15. CPI-Mar T1.1 last traded 8c (was 7c — ask lifted). All else flat. HOLD all 5."
 2026-03-21T16:02:15Z,122.27,5,+13.23,"Sunday PM. CPI-Apr T0.5 bid surged 61→67c (+6c). CPI-Mar T1.1 shifted up full level (bid 8c, ask 9c). Gas +26.9% MoM — largest since Katrina. CPI curve repricing hotter. HOLD all 5."
+2026-03-21T17:01:58Z,121.83,5,+13.23,"Sunday evening. Small pullback — CPI-Apr bid 67→66c, GDP NO bid 62→60c. Normal weekend noise. HOLD all 5."
