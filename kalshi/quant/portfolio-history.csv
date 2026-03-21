@@ -301,3 +301,5 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-21T11:01:52Z,121.40,5,+13.09,"Saturday night. Markets identical to last cycle. Zero volume. HOLD all 5."
 2026-03-21T12:02:00Z,121.40,5,+13.57,"Late Saturday. GDP T3.0 NO bid jumped 60→63c (+3c, spread tightened 6c→1c). YES ask fell 40→37c. GDPNow 2.3% settling in. CPI-Apr T0.5 bid 60c (-1c more weekend spread). HOLD all 5."
 2026-03-21T13:02:28Z,121.40,5,+13.23,"Sunday early AM. Markets dead. CPI-Apr bid 61c (+1c). All else identical. HOLD all 5."
+2026-03-21T13:03:02Z,121.40,5,-78.60,KALSHI MONITOR snapshot. Cash $86.37 + PV $35.03 = $121.40 (-39.3%). 5 active positions.
+2026-03-21T14:01:54Z,122.28,5,+13.23,"Sunday AM. Portfolio +$0.88 to $122.28. CPI-Apr T0.5 last traded 71c (was 65c — buyer lifted ask). WTI bid -1c to 68c. HOLD all 5."
