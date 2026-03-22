@@ -319,3 +319,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-22T03:01:58Z,121.99,5,+12.28,"Monday pre-dawn. WTI last 67c. All bids stable. HOLD all 5."
 2026-03-22T04:02:03Z,121.84,5,+12.43,"Monday AM. CPI-Mar T1.1 bid shifted up 8→9c (+50% from entry). All else stable. HOLD all 5."
 2026-03-22T05:02:01Z,121.84,5,+12.63,"Monday AM. CPI-Apr bid 69c (+3c). WTI bid 66c (+1c). HOLD all 5."
+2026-03-22T06:02:13Z,122.79,5,+13.68,"Monday AM. WTI T115 bid surged 66→70c (+4c), last 75c (=entry). GOVTCUTS NO bid 90c (+1c). CPI-Apr 69c. CPI-Mar T1.1 last 10c. HOLD all 5."
