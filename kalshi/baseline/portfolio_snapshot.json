@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T09:02:39.484527+00:00",
+  "timestamp": "2026-03-22T10:02:52.719602+00:00",
   "cash": 104.6,
   "positions": [
     {
@@ -172,11 +172,11 @@
       "contracts": 40.0,
       "side": "yes",
       "cost_basis": 30.4,
-      "current_value": 35.2,
-      "yes_bid": 0.86,
-      "yes_ask": 0.9,
-      "pnl": 4.8,
-      "pnl_pct": 15.8
+      "current_value": 35.6,
+      "yes_bid": 0.87,
+      "yes_ask": 0.91,
+      "pnl": 5.2,
+      "pnl_pct": 17.1
     },
     {
       "ticker": "KXWTIMAX-26DEC31-T110",
@@ -202,9 +202,9 @@
     }
   ],
   "total_cost": 112.57,
-  "total_value": 146.16,
-  "total_account": 250.76,
-  "unrealized_pnl": 33.59,
-  "return_pct": 25.4,
+  "total_value": 146.56,
+  "total_account": 251.16,
+  "unrealized_pnl": 33.99,
+  "return_pct": 25.6,
   "num_positions": 18
 }
