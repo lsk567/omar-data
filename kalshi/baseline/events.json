@@ -190,5 +190,11 @@
     "type": "milestone",
     "title": "Portfolio crossed $250 — new ATH (+25.1%)",
     "detail": "Account hit $250.30 ($104.60 cash + $145.70 positions). CPI-Apr T0.5 surging to 71/76c (+157%). 18 positions, 15 green. First time above $250 from $200 starting bankroll."
+  },
+  {
+    "timestamp": "2026-03-22T01:30:00Z",
+    "type": "milestone",
+    "title": "New ATH $252.53 (+26.3%) — 17 of 18 green",
+    "detail": "WTI T100 bid surged 89→92c. Stagflation position turned positive. Only 1 of 18 positions red (LCPIMAXYOY P3.5 -1.9%). Portfolio $252.53 from $200 bankroll."
   }
 ]
