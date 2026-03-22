@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T05:02:34.873968+00:00",
+  "timestamp": "2026-03-22T06:02:39.333887+00:00",
   "cash": 104.6,
   "positions": [
     {
@@ -184,8 +184,8 @@
       "side": "yes",
       "cost_basis": 6.3,
       "current_value": 7.8,
-      "yes_bid": 0.76,
-      "yes_ask": 0.8,
+      "yes_bid": 0.77,
+      "yes_ask": 0.79,
       "pnl": 1.5,
       "pnl_pct": 23.8
     },
@@ -194,17 +194,17 @@
       "contracts": 15.0,
       "side": "yes",
       "cost_basis": 10.65,
-      "current_value": 12.75,
-      "yes_bid": 0.83,
-      "yes_ask": 0.87,
-      "pnl": 2.1,
-      "pnl_pct": 19.7
+      "current_value": 12.67,
+      "yes_bid": 0.84,
+      "yes_ask": 0.85,
+      "pnl": 2.02,
+      "pnl_pct": 19.0
     }
   ],
   "total_cost": 112.57,
-  "total_value": 148.09,
-  "total_account": 252.69,
-  "unrealized_pnl": 35.52,
+  "total_value": 148.02,
+  "total_account": 252.62,
+  "unrealized_pnl": 35.45,
   "return_pct": 26.3,
   "num_positions": 18
 }
