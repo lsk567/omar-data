@@ -328,3 +328,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-22T13:02:05Z,122.48,5,+13.80,"Monday. Identical to last cycle. All bids flat. HOLD all 5."
 2026-03-22T14:02:12Z,122.48,5,+13.80,"Monday. Spreads widened — GDP bid 35c (-8c, MM pulled), CPI-Apr 70/80c (10c spread). Last trades unchanged. Liquidity gap. HOLD all 5."
 2026-03-22T15:02:08Z,122.48,5,+14.00,"Monday. Spreads recovering. CPI-Apr 71c (+1c). GDP NO 58c (+2c). WTI 73c (+1c). HOLD all 5."
+2026-03-22T16:02:20Z,122.11,5,+13.80,"Monday PM. CPI-Mar T1.1 bid hit 10c (first time, +67% from entry). GDP YES last 45c. WTI 72c. HOLD all 5."
