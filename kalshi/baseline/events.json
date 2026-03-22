@@ -196,5 +196,11 @@
     "type": "milestone",
     "title": "New ATH $252.53 (+26.3%) — 17 of 18 green",
     "detail": "WTI T100 bid surged 89→92c. Stagflation position turned positive. Only 1 of 18 positions red (LCPIMAXYOY P3.5 -1.9%). Portfolio $252.53 from $200 bankroll."
+  },
+  {
+    "timestamp": "2026-03-22T10:00:00Z",
+    "type": "milestone",
+    "title": "CPI-Mar T0.8 doubled — +100%. ATH $254.71 (+27.4%)",
+    "detail": "CPI-Mar T0.8 YES hit 69c bid from 35c avg entry. 16x position cost $5.68 now worth $11.36. Second CPI position to double (after T0.7). CPI-Mar T0.9 also surging to 49c (+74%). Portfolio new ATH $254.71."
   }
 ]
