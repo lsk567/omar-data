@@ -1,9 +1,9 @@
 timestamp,account,cash_balance,portfolio_value,total_account_value,pnl_dollars,pnl_pct
-2026-03-22T07:23:14Z,Quant Firm,86.37,35.98,122.35,-77.65,-38.8%
+2026-03-22T18:34:22Z,Quant Firm,86.37,37.26,123.63,-76.37,-38.2%
 
 ticker,contracts,side,entry_price,current_bid,current_ask,last,bid_value,unrealized_pnl,status
-KXGDP-26APR30-T3.0,16,NO,26c,57c,60c,44c,$9.12,+$4.88,HOLD — GDPNow 2.3%. YES last 44c (thin liquidity).
-KXGOVTCUTS-28-250,10,NO,25c,90c,94c,7c,$9.00,+$6.50,HOLD — Near-certain.
-KXCPI-26APR-T0.5,12,YES,48c,69c,71c,71c,$8.28,+$2.52,HOLD — Thesis intact.
-KXWTIMAX-26DEC31-T115,10,YES,75c,74c,76c,77c,$7.40,-$0.10,HOLD — Bid 74c, last 77c. NOW PROFITABLE. +9c weekend.
-KXCPI-26MAR-T1.1,15,YES,6c,9c,10c,10c,$1.35,+$0.45,HOLD — Free ride. +50% from entry.
+KXGDP-26APR30-T3.0,16,NO,26c,59c,65c,36c,$9.44,+$5.20,HOLD — GDPNow 2.3%. Tomorrow update.
+KXGOVTCUTS-28-250,10,NO,25c,90c,94c,10c,$9.00,+$6.50,HOLD — Near-certain.
+KXCPI-26APR-T0.5,12,YES,48c,76c,78c,76c,$9.12,+$3.36,HOLD — Bid 76c highest ever. +58% from entry.
+KXWTIMAX-26DEC31-T115,10,YES,75c,72c,74c,74c,$7.20,-$0.30,HOLD — WTI $97. Structural thesis.
+KXCPI-26MAR-T1.1,15,YES,6c,10c,12c,10c,$1.50,+$0.60,HOLD — Free ride +67%.
