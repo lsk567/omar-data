@@ -135,3 +135,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-22T02:02:02Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Monday AM — $121.79 (-$0.40). WTI T115 bid 65c (-1c). CPI-Mar T1.1 ask tightened 11→10c (last still 10c). GDP 40/59c. CPI-Apr 66c. GOVTCUTS 6c. HOLD all 5."
 2026-03-22T03:01:58Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Monday pre-dawn — $121.99 (+$0.20). WTI T115 last 67c (ask fill). All bids unchanged. HOLD all 5."
 2026-03-22T04:02:03Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Monday AM — $121.84. CPI-Mar T1.1 bid 9c (up from 8c, entry 6c = +50%). Ask 10c. Last 9c. Free ride appreciating. All else flat. HOLD all 5."
+2026-03-22T05:02:01Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Monday AM — $121.84. CPI-Apr T0.5 bid 69c (+3c, spread narrowed). WTI T115 bid 66c (+1c). GDP 40/59c. GOVTCUTS 6c. CPI-Mar 9c. HOLD all 5."
