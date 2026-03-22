@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T06:02:39.333887+00:00",
+  "timestamp": "2026-03-22T08:02:51.584009+00:00",
   "cash": 104.6,
   "positions": [
     {
@@ -29,11 +29,11 @@
       "contracts": 15.0,
       "side": "yes",
       "cost_basis": 6.9,
-      "current_value": 6.97,
-      "yes_bid": 0.46,
+      "current_value": 6.9,
+      "yes_bid": 0.45,
       "yes_ask": 0.47,
-      "pnl": 0.07,
-      "pnl_pct": 1.1
+      "pnl": -0.0,
+      "pnl_pct": -0.0
     },
     {
       "ticker": "KXLCPIMAXYOY-27-P3.5",
@@ -84,11 +84,11 @@
       "contracts": 25.0,
       "side": "yes",
       "cost_basis": 7.25,
-      "current_value": 10.88,
-      "yes_bid": 0.43,
-      "yes_ask": 0.44,
-      "pnl": 3.62,
-      "pnl_pct": 50.0
+      "current_value": 11.12,
+      "yes_bid": 0.44,
+      "yes_ask": 0.45,
+      "pnl": 3.88,
+      "pnl_pct": 53.4
     },
     {
       "ticker": "KXCPI-26MAR-T1.0",
@@ -151,8 +151,8 @@
       "side": "yes",
       "cost_basis": 2.1,
       "current_value": 4.6,
-      "yes_bid": 0.43,
-      "yes_ask": 0.49,
+      "yes_bid": 0.44,
+      "yes_ask": 0.48,
       "pnl": 2.5,
       "pnl_pct": 119.0
     },
@@ -183,28 +183,28 @@
       "contracts": 10.0,
       "side": "yes",
       "cost_basis": 6.3,
-      "current_value": 7.8,
+      "current_value": 7.85,
       "yes_bid": 0.77,
-      "yes_ask": 0.79,
-      "pnl": 1.5,
-      "pnl_pct": 23.8
+      "yes_ask": 0.8,
+      "pnl": 1.55,
+      "pnl_pct": 24.6
     },
     {
       "ticker": "KXWTIMAX-26DEC31-T105",
       "contracts": 15.0,
       "side": "yes",
       "cost_basis": 10.65,
-      "current_value": 12.67,
-      "yes_bid": 0.84,
-      "yes_ask": 0.85,
-      "pnl": 2.02,
-      "pnl_pct": 19.0
+      "current_value": 12.52,
+      "yes_bid": 0.83,
+      "yes_ask": 0.84,
+      "pnl": 1.87,
+      "pnl_pct": 17.6
     }
   ],
   "total_cost": 112.57,
-  "total_value": 148.02,
-  "total_account": 252.62,
-  "unrealized_pnl": 35.45,
+  "total_value": 148.09,
+  "total_account": 252.69,
+  "unrealized_pnl": 35.52,
   "return_pct": 26.3,
   "num_positions": 18
 }
