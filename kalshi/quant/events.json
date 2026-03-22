@@ -160,5 +160,11 @@
     "type": "macro",
     "title": "CPI-Apr T0.5 bid surges +10c over weekend to 71c",
     "detail": "CPI-Apr T0.5 YES bid moved 61c (Sat AM) → 71c (Sun evening), +10c weekend repricing. Our entry 48c → +48% at bid. Gas +26.9% MoM (largest since Katrina), diesel driving broad goods inflation. Market absorbing oil-shock CPI narrative."
+  },
+  {
+    "timestamp": "2026-03-22T06:00:00Z",
+    "type": "macro",
+    "title": "WTI T115 surges +9c to 74c bid, last 77c — above entry",
+    "detail": "WTI T115 YES bid moved 65c (Fri) → 74c (Mon AM), +9c over weekend. Last traded 77c vs 75c entry = now profitable. WTI spot $97.36, $18 from $115 strike with 9mo left. Iraq force majeure + Kuwait attacks + Hormuz closure driving structural supply loss."
   }
 ]
