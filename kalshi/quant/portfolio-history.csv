@@ -324,3 +324,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-22T09:02:00Z,122.35,5,+14.25,"Monday AM. WTI T115 bid 75c (=entry), last 77c. All else stable. HOLD all 5."
 2026-03-22T10:02:09Z,122.35,5,+14.15,"Monday mid-AM. WTI bid 74c (-1c). All else identical. HOLD all 5."
 2026-03-22T11:02:15Z,122.63,5,+13.95,"Monday. GDP T3.0 YES bid 43c (+3c) — highest seen. Our NO bid 56c. CPI-Apr 66c bid (spread widened). WTI 73c. HOLD all 5."
+2026-03-22T12:02:19Z,122.48,5,+13.80,"Monday. GDPNow update tomorrow (Mar 23) not today. Last 2.3%. GDP YES 43c seems disconnected. WTI 72c. CPI-Apr 67c. HOLD all 5."
