@@ -153,3 +153,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-22T21:02:18Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Monday night — $123.94. CPI-Apr T0.5 bid 77c (+1c, new high, +60% from 48c entry). GDP NO bid 61c (+2c, best since Fri). GDP spread tightened (35/39c). WTI 73c (+1c). CPI-Mar T1.1 11c. GOVTCUTS 90c. HOLD all 5."
 2026-03-22T22:02:11Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Monday midnight — $123.94 unchanged. All bids identical. Late night dead zone. HOLD all 5."
 2026-03-22T23:02:13Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Late Monday — $123.24. WTI T115 bid 74c (+1c), ask tightened to 75c. GDP last 40c (bid 36c, NO bid 61c). CPI-Apr 77c stable. CPI-Mar 11c. GOVTCUTS 90c. HOLD all 5."
+2026-03-23T00:02:25Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Early Tue AM — $123.98 (+$0.74). CPI-Mar T1.1 bid hit 12c = EXACTLY 2x our 6c entry. Last traded 13c (+117%). Free ride 15 contracts now worth $1.80 at bid. CPI-Apr 77c. WTI 74c. GDP NO 61c. GOVTCUTS 90c. HOLD all 5."
