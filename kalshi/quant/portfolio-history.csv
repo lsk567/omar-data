@@ -351,3 +351,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-23T10:02:40Z,123.80,5,+15.22,"Mon AM — deadline ~15hrs away (7:44PM ET). Markets stable, no panic. GDPNow not yet released. CPI-Apr 68c. WTI 68c. GDP NO 63c. HOLD all 5."
 2026-03-23T11:02:32Z,123.80,5,+15.22,"Mon pre-market. WTI bid 72c (+4c recovery). CPI-Apr 67c. Awaiting GDPNow + deadline. HOLD all 5."
 2026-03-23T12:03:12Z,123.04,5,+14.46,"LIQUIDITY CRISIS: CPI-Apr T0.5 spread 81c (11/92c), last 63c (-13c). MMs pulled pre-deadline. WTI 71c. GDP NO 63c. GDPNow pending. HOLD all 5."
+2026-03-23T13:02:32Z,122.44,5,+14.06,"Mon AM. CPI-Apr still illiquid (14/92c). WTI last 70c. GDPNow pending (~11:30 AM ET). Deadline ~11hrs. HOLD all 5."
