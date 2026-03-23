@@ -357,3 +357,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-23T16:03:12Z,121.74,5,+13.36,"Mon PM. WTI spot crashed to $85-91 (-7-13%). WTI T115 bid 62c (-13c from peak). CPI-Apr illiquid. GDPNow still pending. 5-day reprieve = delay not resolution. HOLD all 5."
 2026-03-23T17:02:28Z,121.74,5,+13.36,"Mon evening. WTI bid 65c (+3c recovery from 62c low). GDP NO 64c. CPI-Apr illiquid. HOLD all 5."
 2026-03-23T18:02:25Z,121.26,5,+13.16,"Mon late. WTI 63c (-2c). CPI-Apr 19c bid (still illiquid). GDP NO 64c. HOLD all 5."
+2026-03-23T19:02:20Z,122.32,5,+13.72,"Mon night. CPI-Apr spread recovering (21/60c, was 11/92c). GDP YES dropped to 31c (lowest). GDP NO 64c. WTI 63c. HOLD all 5."
