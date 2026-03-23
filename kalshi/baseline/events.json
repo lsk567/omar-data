@@ -220,5 +220,11 @@
     "type": "trade",
     "title": "Bought inflation tail positions — P4.5 + P5",
     "detail": "14x KXLCPIMAXYOY-27-P4.5 YES @36c ($5.04) and 10x KXLCPIMAXYOY-27-P5 YES @28c ($2.80). Hormuz blockade → oil spike → CPI surge above 4.5-5%. Total $8.22 incl fees. Now 20 positions."
+  },
+  {
+    "timestamp": "2026-03-23T13:00:00Z",
+    "type": "macro",
+    "title": "Hormuz deadline passes — markets calm, no panic",
+    "detail": "Trump's 48hr Hormuz ultimatum deadline passed. WTI positions stable (T100 92c, T105 79c). Extreme upside (T140-T180) flat. No escalation premium added. Markets pricing diplomatic resolution. PPIVSCPI surged +5c (59→63c bid, +17.6%) — PPI>CPI thesis strengthening independently."
   }
 ]
