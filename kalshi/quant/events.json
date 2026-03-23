@@ -172,5 +172,11 @@
     "type": "macro",
     "title": "Trump 48hr ultimatum to Iran — reopen Hormuz or power plants bombed",
     "detail": "Trump demanded Iran fully reopen Strait of Hormuz within 48 hours or face bombing of power plants. Iran threatened to attack key ME infrastructure in retaliation. Iran struck near Dimona (Israel's nuclear center) — first time in war. WTI ~$98, Brent ~$112. Binary escalation event for all positions."
+  },
+  {
+    "timestamp": "2026-03-23T11:00:00Z",
+    "type": "crash",
+    "title": "CPI-Apr T0.5 liquidity crisis — spread blows to 81c, last 63c",
+    "detail": "CPI-Apr T0.5 YES spread blew out to 11c/92c (81c wide). Last traded 63c (was 76c = -13c drop). Market book empty ahead of Trump Hormuz ultimatum deadline (7:44PM ET tonight). All MMs pulled bids. IEA warns crisis worse than 1970s oil shocks."
   }
 ]
