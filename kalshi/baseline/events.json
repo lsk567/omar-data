@@ -226,5 +226,11 @@
     "type": "macro",
     "title": "Hormuz deadline passes — markets calm, no panic",
     "detail": "Trump's 48hr Hormuz ultimatum deadline passed. WTI positions stable (T100 92c, T105 79c). Extreme upside (T140-T180) flat. No escalation premium added. Markets pricing diplomatic resolution. PPIVSCPI surged +5c (59→63c bid, +17.6%) — PPI>CPI thesis strengthening independently."
+  },
+  {
+    "timestamp": "2026-03-23T17:00:00Z",
+    "type": "crash",
+    "title": "Broad selloff — WTI T100 -11c, portfolio -$10.50",
+    "detail": "WTI T100 bid crashed 93→82c (-11c). T105 -6c, T160 -10c (Hormuz premium evaporating). CPI-Mar T0.8 dropped 67→60c. CPI-Apr bids collapsed (T0.5 67→11c, T0.7 42→19c — likely weekend bid withdrawal, asks unchanged). Recession dropped 36→33c. Portfolio $254.87→$244.37 (-$10.50). Possible Hormuz de-escalation or weekend risk-off."
   }
 ]
