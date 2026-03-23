@@ -232,5 +232,11 @@
     "type": "crash",
     "title": "Broad selloff — WTI T100 -11c, portfolio -$10.50",
     "detail": "WTI T100 bid crashed 93→82c (-11c). T105 -6c, T160 -10c (Hormuz premium evaporating). CPI-Mar T0.8 dropped 67→60c. CPI-Apr bids collapsed (T0.5 67→11c, T0.7 42→19c — likely weekend bid withdrawal, asks unchanged). Recession dropped 36→33c. Portfolio $254.87→$244.37 (-$10.50). Possible Hormuz de-escalation or weekend risk-off."
+  },
+  {
+    "timestamp": "2026-03-23T21:00:00Z",
+    "type": "macro",
+    "title": "Trump postpones Hormuz ultimatum 5 days — WTI upside crushed",
+    "detail": "Trump extended Hormuz deadline by 5 days. WTI T120 bid crashed 62→54c (-8c), T140 bid 41→37c (-4c, ask -11c). Near-money stable (T105 recovered 69→73c). PPIVSCPI surged +10c (63→73c bid, +36.1%) — PPI>CPI thesis accelerating independently of oil."
   }
 ]
