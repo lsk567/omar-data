@@ -208,5 +208,17 @@
     "type": "macro",
     "title": "Bankruptcy market surges +10c — tariff disruption fears",
     "detail": "KXBANKRUPTCY-26-750 (750+ corporate bankruptcies in 2026) bid jumped 73→83c, ask 74→84c in single cycle. WTI T140 simultaneously dropped -7c (48→41c). Market pricing in tariff-driven economic disruption hitting corporates while oil extreme upside fades."
+  },
+  {
+    "timestamp": "2026-03-23T06:00:00Z",
+    "type": "macro",
+    "title": "Trump issues 48hr Hormuz ultimatum to Iran — oil tail risk explodes",
+    "detail": "Trump threatened military action if Iran doesn't open Strait of Hormuz within 48 hours. WTI T160 bid surged +12c (22→34c), T150 +4c, T180 +4c. LCPIMAXYOY P5 bid +6c (21→27c). ~20% of global oil transits Hormuz. Massive tail risk repricing."
+  },
+  {
+    "timestamp": "2026-03-23T06:30:00Z",
+    "type": "trade",
+    "title": "Bought inflation tail positions — P4.5 + P5",
+    "detail": "14x KXLCPIMAXYOY-27-P4.5 YES @36c ($5.04) and 10x KXLCPIMAXYOY-27-P5 YES @28c ($2.80). Hormuz blockade → oil spike → CPI surge above 4.5-5%. Total $8.22 incl fees. Now 20 positions."
   }
 ]
