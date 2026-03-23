@@ -166,5 +166,11 @@
     "type": "macro",
     "title": "WTI T115 surges +9c to 74c bid, last 77c — above entry",
     "detail": "WTI T115 YES bid moved 65c (Fri) → 74c (Mon AM), +9c over weekend. Last traded 77c vs 75c entry = now profitable. WTI spot $97.36, $18 from $115 strike with 9mo left. Iraq force majeure + Kuwait attacks + Hormuz closure driving structural supply loss."
+  },
+  {
+    "timestamp": "2026-03-23T00:00:00Z",
+    "type": "macro",
+    "title": "Trump 48hr ultimatum to Iran — reopen Hormuz or power plants bombed",
+    "detail": "Trump demanded Iran fully reopen Strait of Hormuz within 48 hours or face bombing of power plants. Iran threatened to attack key ME infrastructure in retaliation. Iran struck near Dimona (Israel's nuclear center) — first time in war. WTI ~$98, Brent ~$112. Binary escalation event for all positions."
   }
 ]
