@@ -360,3 +360,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-23T19:02:20Z,122.32,5,+13.72,"Mon night. CPI-Apr spread recovering (21/60c, was 11/92c). GDP YES dropped to 31c (lowest). GDP NO 64c. WTI 63c. HOLD all 5."
 2026-03-23T19:03:34Z,122.48,0,-77.52,kalshi-monitor snapshot. Cash $86.37 + PV $36.11 = $122.48 (-38.8%). 0 positions.
 2026-03-23T20:02:38Z,121.32,5,+12.72,"Mon midnight. GDP NO 65c (new high). CPI-Apr last 60c. CPI-Mar bid 11c (-2c). WTI 63c. HOLD all 5."
+2026-03-23T21:02:27Z,121.81,5,+12.92,"Late Mon/early Tue. CPI-Apr bid 24c (recovering). GDP YES last 31c. WTI 63c. Stable. HOLD all 5."
