@@ -178,5 +178,11 @@
     "type": "crash",
     "title": "CPI-Apr T0.5 liquidity crisis — spread blows to 81c, last 63c",
     "detail": "CPI-Apr T0.5 YES spread blew out to 11c/92c (81c wide). Last traded 63c (was 76c = -13c drop). Market book empty ahead of Trump Hormuz ultimatum deadline (7:44PM ET tonight). All MMs pulled bids. IEA warns crisis worse than 1970s oil shocks."
+  },
+  {
+    "timestamp": "2026-03-23T15:00:00Z",
+    "type": "macro",
+    "title": "Trump postpones Hormuz ultimatum 5 days — oil drops 6.2%",
+    "detail": "Trump delayed strikes citing 'productive talks' with Tehran. WTI and Brent both dropped 6.2%. Iran denies any talks, claims Trump 'retreated out of fear.' Stocks surging. WTI T115 bid dropped 75c→66c over 2 days. 5-day delay not resolution — risk remains."
   }
 ]
