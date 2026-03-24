@@ -184,5 +184,11 @@
     "type": "macro",
     "title": "Trump postpones Hormuz ultimatum 5 days — oil drops 6.2%",
     "detail": "Trump delayed strikes citing 'productive talks' with Tehran. WTI and Brent both dropped 6.2%. Iran denies any talks, claims Trump 'retreated out of fear.' Stocks surging. WTI T115 bid dropped 75c→66c over 2 days. 5-day delay not resolution — risk remains."
+  },
+  {
+    "timestamp": "2026-03-24T02:00:00Z",
+    "type": "macro",
+    "title": "CPI-Apr T0.5 last traded 70c — recovering from liquidity crisis",
+    "detail": "CPI-Apr T0.5 YES last traded 70c (was 60c = +10c). Bid still illiquid at 27c but real value confirmed around 70c. MMs slowly returning post-postponement. Entry 48c → +46% on last trade. GDP NO hit 68c ATH."
   }
 ]
