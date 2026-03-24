@@ -196,3 +196,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-24T16:02:42Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Tue midnight — $123.29 unchanged. HOLD all 5."
 2026-03-24T17:03:07Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Early Wed — $123.29. WTI bid 67c (+2c, recovering). All else flat. HOLD all 5."
 2026-03-24T18:02:42Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Wed AM — $122.75 (-$0.54). CPI-Mar T1.1 bid pulled back 11→8c (-3c). Last 8c. Still +33% from 6c entry. Free ride. All else stable. HOLD all 5."
+2026-03-24T19:02:51Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Wed PM — $123.29. CPI-Apr T0.5 bid jumped 29→41c (+12c). Spread narrowed to 19c (was 81c at crisis peak). MMs fully returned. Last 69c. GOVTCUTS last 7c (=bid, someone sold YES). WTI 67c. GDP NO 68c. CPI-Mar 8c. HOLD all 5."

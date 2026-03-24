@@ -190,5 +190,11 @@
     "type": "macro",
     "title": "CPI-Apr T0.5 last traded 70c — recovering from liquidity crisis",
     "detail": "CPI-Apr T0.5 YES last traded 70c (was 60c = +10c). Bid still illiquid at 27c but real value confirmed around 70c. MMs slowly returning post-postponement. Entry 48c → +46% on last trade. GDP NO hit 68c ATH."
+  },
+  {
+    "timestamp": "2026-03-24T19:00:00Z",
+    "type": "macro",
+    "title": "CPI-Apr T0.5 bid recovers +12c to 41c — liquidity crisis over",
+    "detail": "CPI-Apr T0.5 YES bid jumped 29c→41c (+12c). Spread narrowed to 19c (41/60c) from 81c peak crisis. MMs fully returned post-Trump postponement. Last trade 69c. Entry 48c. Bid still below entry but real value ~69c confirmed."
   }
 ]
