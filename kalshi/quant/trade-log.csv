@@ -187,3 +187,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-24T07:02:27Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Tue AM — $123.00. Iran Parliament Speaker denied any talks, called Trump move market manipulation. 3 mediators named: Turkey, Egypt, Pakistan. 5-day pause clock ~4 days remaining (expires ~Sat Mar 28). CPI-Apr spread normalizing (29/66c = 37c). GDP NO 68c. WTI 66c. CPI-Mar 11c. GOVTCUTS 90c. HOLD all 5."
 2026-03-24T08:02:36Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Tue pre-market — $123.00. All bids flat. WTI 65c (-1c). Pre-market quiet. HOLD all 5."
 2026-03-24T09:02:33Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Tue AM — $123.00 unchanged. CPI-Apr ask 67c (-1c). All bids flat. HOLD all 5."
+2026-03-24T10:02:38Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Tue mid-AM — $123.00. CPI-Apr bid 27c (-2c). All else identical. HOLD all 5."
