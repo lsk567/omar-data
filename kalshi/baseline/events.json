@@ -244,5 +244,11 @@
     "type": "macro",
     "title": "WTI T105 surged +12c — converging with T100",
     "detail": "KXWTIMAX T105 bid surged 74→86c (+12c), ask 76→91c (+15c). Now converging with T100 (86/87c). Suggests WTI spot near or above $105. Our 15x T105 position jumped from +2% to ~+25%."
+  },
+  {
+    "timestamp": "2026-03-25T00:30:00Z",
+    "type": "crash",
+    "title": "WTI T100 dropped -6c to 80c — oil de-risking",
+    "detail": "WTI T100 bid/ask both dropped 86→80c (-6c). T105 bid dropped 77→70c (-7c). Portfolio $243.53→$238.94 (-$4.59). Hormuz ultimatum postponement continuing to deflate oil premium. 40x T100 position now only +5.3% (was +21.7% at peak)."
   }
 ]
