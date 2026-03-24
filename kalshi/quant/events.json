@@ -196,5 +196,11 @@
     "type": "macro",
     "title": "CPI-Apr T0.5 bid recovers +12c to 41c — liquidity crisis over",
     "detail": "CPI-Apr T0.5 YES bid jumped 29c→41c (+12c). Spread narrowed to 19c (41/60c) from 81c peak crisis. MMs fully returned post-Trump postponement. Last trade 69c. Entry 48c. Bid still below entry but real value ~69c confirmed."
+  },
+  {
+    "timestamp": "2026-03-24T21:00:00Z",
+    "type": "macro",
+    "title": "WTI T115 bid drops 10c to 57c — oil crashed 10% on postponement",
+    "detail": "WTI T115 YES bid dropped 67c→57c (-10c). WTI spot crashed 10.28% to $88.13 Mon, recovering +2.5% to $90 Tue. Trump 5-day pause driving de-escalation pricing. Iran denies talks. Hormuz still closed. Entry 75c → -$1.80 unrealized. 9mo timeframe."
   }
 ]
