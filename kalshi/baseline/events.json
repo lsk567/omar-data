@@ -238,5 +238,11 @@
     "type": "macro",
     "title": "Trump postpones Hormuz ultimatum 5 days — WTI upside crushed",
     "detail": "Trump extended Hormuz deadline by 5 days. WTI T120 bid crashed 62→54c (-8c), T140 bid 41→37c (-4c, ask -11c). Near-money stable (T105 recovered 69→73c). PPIVSCPI surged +10c (63→73c bid, +36.1%) — PPI>CPI thesis accelerating independently of oil."
+  },
+  {
+    "timestamp": "2026-03-24T02:00:00Z",
+    "type": "macro",
+    "title": "WTI T105 surged +12c — converging with T100",
+    "detail": "KXWTIMAX T105 bid surged 74→86c (+12c), ask 76→91c (+15c). Now converging with T100 (86/87c). Suggests WTI spot near or above $105. Our 15x T105 position jumped from +2% to ~+25%."
   }
 ]
