@@ -214,3 +214,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-25T10:02:58Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Fri PM — $122.38 (+$0.58). CPI-Apr T0.5 bid 52c (+4c, entry 48c = +8%). Spread 5c (52/57c) — fully normalized from 81c crisis. WTI 65c (+2c). GDP NO 62c (spread wide). CPI-Mar 6c. GOVTCUTS 90c. HOLD all 5."
 2026-03-25T11:03:02Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Fri PM — $122.38. GDP NO 64c (+2c). CPI-Apr 52c (spread 6c). WTI 65c. HOLD all 5."
 2026-03-25T12:02:54Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Fri evening — $122.09. CPI-Apr bid 54c (+2c, entry 48c = +13%, spread 4c). WTI 63c (-2c). GDP NO 64c. CPI-Mar 6c. GOVTCUTS 90c. HOLD all 5."
+2026-03-25T13:02:53Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Fri late — $122.09. CPI-Apr bid dropped 54→44c (-10c) — MM pulled bid in thin evening liquidity. Last trade still 69c. Not real repricing. WTI 62c (-1c). GDP NO 64c. CPI-Mar 6c. GOVTCUTS 90c. HOLD all 5."
