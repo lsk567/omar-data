@@ -209,3 +209,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-25T05:02:51Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Thu pre-dawn — $121.91. WTI 61c (+2c). GDP NO 66c (+2c). CPI-Apr 46c. CPI-Mar 6c. GOVTCUTS 90c. HOLD all 5."
 2026-03-25T06:02:50Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Thu AM — $122.38 (+$0.47). WTI 63c (+2c). CPI-Apr 46c. GDP NO 66c. CPI-Mar 6c (last 7c). GOVTCUTS 90c. HOLD all 5."
 2026-03-25T07:03:32Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Thu/Fri AM — $121.94. CPI-Apr bid 49c (above 48c entry for first time since crisis). Trump admin submitted 15-point ceasefire plan to Iran via Pakistan intermediaries. Iran still denying direct talks. 5-day pause ~3 days left (expires ~Sat Mar 28). WTI 62c. GDP NO 66c. CPI-Mar 6c. GOVTCUTS 90c. HOLD all 5."
+2026-03-25T08:03:46Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Fri AM — $121.64. CPI-Apr bid 48c (=entry exactly). WTI 63c (+2c). GDP NO 66c. CPI-Mar 6c. GOVTCUTS 90c (last 10c). HOLD all 5."
