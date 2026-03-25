@@ -1,9 +1,9 @@
 timestamp,account,cash_balance,portfolio_value,total_account_value,pnl_dollars,pnl_pct
-2026-03-24T21:24:15Z,Quant Firm,86.37,35.63,122.00,-78.00,-39.0%
+2026-03-25T14:41:22Z,Quant Firm,86.37,32.73,119.10,-80.90,-40.5%
 
 ticker,contracts,side,entry_price,current_bid,current_ask,last,bid_value,unrealized_pnl,status
-KXGDP-26APR30-T3.0,16,NO,26c,68c,70c,30c,$10.88,+$6.68,HOLD — GDPNow 2.3%. YES 30c.
-KXGOVTCUTS-28-250,10,NO,25c,90c,93c,7c,$9.00,+$6.50,HOLD — Near-certain.
-KXCPI-26APR-T0.5,12,YES,48c,42c,60c,69c,$5.04,-$0.72,HOLD — Bid recovering. Last 69c (+44% entry).
-KXWTIMAX-26DEC31-T115,10,YES,75c,57c,61c,61c,$5.70,-$1.80,HOLD — Oil crashed 10%. 9mo left. Hormuz still closed.
-KXCPI-26MAR-T1.1,15,YES,6c,5c,8c,5c,$0.75,-$0.15,HOLD — Free ride. Approaching expiry Apr 10.
+KXGDP-26APR30-T3.0,16,NO,26c,66c,69c,31c,$10.56,+$6.36,HOLD — GDP YES 31c. GDPNow 2.3%.
+KXGOVTCUTS-28-250,10,NO,25c,90c,93c,10c,$9.00,+$6.50,HOLD — Near-certain.
+KXCPI-26APR-T0.5,12,YES,48c,44c,48c,49c,$5.28,-$0.48,HOLD — CRASHED 69→49c. De-escalation repricing. Gas already $3.91.
+KXWTIMAX-26DEC31-T115,10,YES,75c,62c,69c,62c,$6.20,-$1.30,HOLD — 9mo left. Hormuz still closed.
+KXCPI-26MAR-T1.1,15,YES,6c,4c,5c,4c,$0.60,-$0.30,HOLD — Free ride fading. Resolves Apr 10.

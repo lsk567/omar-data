@@ -202,5 +202,11 @@
     "type": "macro",
     "title": "WTI T115 bid drops 10c to 57c — oil crashed 10% on postponement",
     "detail": "WTI T115 YES bid dropped 67c→57c (-10c). WTI spot crashed 10.28% to $88.13 Mon, recovering +2.5% to $90 Tue. Trump 5-day pause driving de-escalation pricing. Iran denies talks. Hormuz still closed. Entry 75c → -$1.80 unrealized. 9mo timeframe."
+  },
+  {
+    "timestamp": "2026-03-25T14:00:00Z",
+    "type": "macro",
+    "title": "CPI-Apr T0.5 last crashes 69c→49c (-20c) — de-escalation repricing",
+    "detail": "CPI-Apr T0.5 YES last traded 49c (was 69c = -20c). Tight 4c spread (44/48c) confirms real repricing not illiquidity. Oil de-escalation (Trump 5-day pause, 15-point plan) driving market to price cooler CPI. Entry 48c → now at bid 44c (-8%). CPI-Mar T1.1 also fading to 4c."
   }
 ]
