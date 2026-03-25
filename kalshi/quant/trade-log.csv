@@ -205,3 +205,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-25T01:03:11Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Thu AM — $121.53. CPI-Mar T1.1 bid 4c (bouncing 3-6c range). CPI-Apr 44c (+1c). WTI 57c. GDP NO 68c. GOVTCUTS 90c. HOLD all 5."
 2026-03-25T02:02:42Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Thu AM — $121.88 (+$0.35). CPI-Apr bid 45c (+1c, approaching 48c entry). WTI bid 53c (-4c but spread wide to 12c, last 63c). CPI-Mar 5c. GDP NO 68c. GOVTCUTS 90c. HOLD all 5."
 2026-03-25T03:02:53Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Thu AM — $121.91. WTI bid recovered 53→58c (+5c). GDP NO bid 64c (-4c from 68c — spread normalizing, YES bid 34c up from 30c). CPI-Apr 44c. CPI-Mar 6c. GOVTCUTS 90c. HOLD all 5."
+2026-03-25T04:02:47Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Thu AM — $121.91. CPI-Apr bid 46c (+2c, only 2c below 48c entry). WTI 59c (+1c). GDP NO 64c. CPI-Mar 6c. GOVTCUTS 90c. HOLD all 5."
