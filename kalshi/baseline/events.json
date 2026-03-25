@@ -256,5 +256,11 @@
     "type": "loss",
     "title": "CPI-Mar T0.9 bid dropped -7c — March CPI repricing lower",
     "detail": "CPI-Mar T0.9 bid crashed 39→32c (-7c), ask 40→36c. 25x position still profitable but gains eroding (was +81% at peak, now ~+17%). Market repricing March CPI 0.9% threshold lower. CPI-Mar T0.8 holding at 60c."
+  },
+  {
+    "timestamp": "2026-03-25T18:00:00Z",
+    "type": "macro",
+    "title": "Hormuz 5-day pause expired — no re-escalation, WTI T120 -9c",
+    "detail": "Trump's 5-day Hormuz extension expired with no military action. WTI T120 bid crashed 62→53c (-9c), ask 68→56c (-12c). Oil extreme upside continuing to deflate. Near-money WTI (T100 80c, T105 71c) stable — market pricing diplomacy over confrontation."
   }
 ]
