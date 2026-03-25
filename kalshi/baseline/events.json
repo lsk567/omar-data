@@ -250,5 +250,11 @@
     "type": "crash",
     "title": "WTI T100 dropped -6c to 80c — oil de-risking",
     "detail": "WTI T100 bid/ask both dropped 86→80c (-6c). T105 bid dropped 77→70c (-7c). Portfolio $243.53→$238.94 (-$4.59). Hormuz ultimatum postponement continuing to deflate oil premium. 40x T100 position now only +5.3% (was +21.7% at peak)."
+  },
+  {
+    "timestamp": "2026-03-25T05:00:00Z",
+    "type": "loss",
+    "title": "CPI-Mar T0.9 bid dropped -7c — March CPI repricing lower",
+    "detail": "CPI-Mar T0.9 bid crashed 39→32c (-7c), ask 40→36c. 25x position still profitable but gains eroding (was +81% at peak, now ~+17%). Market repricing March CPI 0.9% threshold lower. CPI-Mar T0.8 holding at 60c."
   }
 ]
