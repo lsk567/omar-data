@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-25T09:03:24.656029+00:00",
+  "timestamp": "2026-03-25T10:03:54.772629+00:00",
   "cash": 96.38,
   "positions": [
     {
@@ -161,11 +161,11 @@
       "contracts": 10.0,
       "side": "yes",
       "cost_basis": 2.86,
-      "current_value": 5.4,
-      "yes_bid": 0.48,
-      "yes_ask": 0.6,
-      "pnl": 2.54,
-      "pnl_pct": 88.8
+      "current_value": 5.45,
+      "yes_bid": 0.52,
+      "yes_ask": 0.57,
+      "pnl": 2.59,
+      "pnl_pct": 90.6
     },
     {
       "ticker": "KXCPI-26APR-T0.7",
@@ -216,17 +216,17 @@
       "contracts": 15.0,
       "side": "yes",
       "cost_basis": 10.65,
-      "current_value": 10.75,
+      "current_value": 10.67,
       "yes_bid": 0.703,
-      "yes_ask": 0.73,
-      "pnl": 0.1,
-      "pnl_pct": 0.9
+      "yes_ask": 0.72,
+      "pnl": 0.02,
+      "pnl_pct": 0.2
     }
   ],
   "total_cost": 120.41,
-  "total_value": 136.6,
-  "total_account": 232.98,
-  "unrealized_pnl": 16.19,
+  "total_value": 136.58,
+  "total_account": 232.96,
+  "unrealized_pnl": 16.17,
   "return_pct": 16.5,
   "num_positions": 20
 }
