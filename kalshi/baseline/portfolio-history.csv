@@ -455,3 +455,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-25T18:03:31Z,231.44,20,+31.44,"TRADING CYCLE #125 (baseline-trader). $231.44 (+15.7%). WTI T105 ask +4c to 74c. CPI-Mar T0.9 ask -4c to 30c (fading). NO TRADES — HOLD all 20."
 2026-03-25T19:03:31Z,232.07,20,+32.07,"TRADING CYCLE #126 (baseline-trader). $232.07 (+16.0%). CPI-Mar T0.9 ask +4c to 34c (bouncing). Others flat. NO TRADES — HOLD all 20."
 2026-03-25T20:03:41Z,232.31,20,+32.31,"TRADING CYCLE #127 (baseline-trader). $232.31 (+16.2%). WTI T120 bid crashed 62->53c (-9c!), ask -12c. Hormuz pause expired — no re-escalation. Near-money WTI stable. P4.5 bid +2c to 36c. NO TRADES — HOLD all 20."
+2026-03-25T21:03:26Z,233.13,20,+33.13,"TRADING CYCLE #128 (baseline-trader). $233.13 (+16.6%). CPI-Mar T0.9 bid bounced +3c to 34c. Others flat. NO TRADES — HOLD all 20."
