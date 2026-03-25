@@ -202,3 +202,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-24T22:02:50Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Wed late night — $122.20. CPI-Apr 43c (+1c). CPI-Mar T1.1 bid 4c (approaching zero, but last 9c = illiquid). WTI last 57c (=bid). GDP NO 68c. GOVTCUTS 90c. HOLD all 5."
 2026-03-24T23:02:50Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Thu early AM — $121.70. CPI-Mar T1.1 bid 3c (was 13c at peak, entry 6c). De-escalation pricing killing the tail bet. Only $0.45 at risk (free ride). WTI last 61c (bid 57c). CPI-Apr 43c. GDP NO 68c. GOVTCUTS 90c. HOLD all 5."
 2026-03-25T00:02:42Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Thu AM — $122.15 (+$0.45). CPI-Mar T1.1 bid recovered 3→6c (=entry). CPI-Apr 43c. WTI 57c. GDP NO 68c. GOVTCUTS 90c. HOLD all 5."
+2026-03-25T01:03:11Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Thu AM — $121.53. CPI-Mar T1.1 bid 4c (bouncing 3-6c range). CPI-Apr 44c (+1c). WTI 57c. GDP NO 68c. GOVTCUTS 90c. HOLD all 5."
