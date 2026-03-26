@@ -480,3 +480,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-26T19:03:42Z,234.86,20,+34.86,"TRADING CYCLE #150 (baseline-trader). $234.86 (+17.4%). WTI T100 bid -5c (oscillating). Others flat. NO TRADES — HOLD all 20."
 2026-03-26T19:23:16Z,239.38,20,+39.38,"kalshi-monitor snapshot. $239.38 (+19.7%). Cash $96.38, exposure $120.41. 20 active positions."
 2026-03-26T20:03:43Z,235.89,20,+35.89,"TRADING CYCLE #151 (baseline-trader). $235.89 (+17.9%). Minor positive moves. WTI T100 +1c. CPI-Mar T0.9 +2c. NO TRADES — HOLD all 20."
+2026-03-26T21:03:51Z,235.94,20,+35.94,"TRADING CYCLE #152 (baseline-trader). $235.94 (+18.0%). Hormuz expiry tonight. WTI T110 bid +5c to 72c. T100/T105 flat. T120 -2c. NO TRADES — HOLD all 20."
