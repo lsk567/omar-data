@@ -262,5 +262,11 @@
     "type": "macro",
     "title": "Hormuz 5-day pause expired — no re-escalation, WTI T120 -9c",
     "detail": "Trump's 5-day Hormuz extension expired with no military action. WTI T120 bid crashed 62→53c (-9c), ask 68→56c (-12c). Oil extreme upside continuing to deflate. Near-money WTI (T100 80c, T105 71c) stable — market pricing diplomacy over confrontation."
+  },
+  {
+    "timestamp": "2026-03-26T06:00:00Z",
+    "type": "macro",
+    "title": "Iran rejects Trump plan — WTI T120 surged +8c",
+    "detail": "Iran rejected Trump's Hormuz proposal. WTI T120 bid surged 53→61c (+8c), ask 56→67c (+11c). Hormuz standoff re-escalating. Near-money WTI (T100 76c, T105 70c) flat — upside repricing only. We don't hold T120."
   }
 ]
