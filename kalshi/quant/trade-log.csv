@@ -242,3 +242,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-26T13:03:20Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Thu midnight — $117.80. CPI-Apr 45c (spread 1c — very tight). WTI 60c (-1c). GDP NO 63c. HOLD all 5."
 2026-03-26T14:03:38Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Fri early — $117.61. WTI last 60c (sold at bid). CPI-Apr 45c. GDP NO 63c. HOLD all 5."
 2026-03-26T15:03:31Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Fri AM — $118.32 (+$0.71). CPI-Mar T1.1 last 9c (bounced +4c from 5c). CPI-Apr last 46c. GDP NO 64c (+1c). WTI 60c. GOVTCUTS NO 91c. HOLD all 5."
+2026-03-26T16:03:49Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Fri PM — $119.08 (+$0.76). GDP T3.0 spread collapsed to 0.1c (YES 31/31.1c). NO bid 68.9c (near ATH). Strong consensus GDP <3.0%. CPI-Mar 6c (+1c). CPI-Apr 45c. WTI last 58c. GOVTCUTS NO 91c. HOLD all 5."
