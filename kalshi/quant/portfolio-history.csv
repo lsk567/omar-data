@@ -434,3 +434,5 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-26T17:03:22Z,119.08,5,+10.48,"Fri evening. WTI bid 56c (-4c, spread widened). GDP NO 69c. CPI-Apr 45c. HOLD all 5."
 2026-03-26T18:03:30Z,118.78,5,+10.18,"Fri late. CPI-Mar 7c (+1c). WTI bid 60c (recovered). GDP NO 69c. CPI-Apr 45c. HOLD all 5."
 2026-03-26T19:03:31Z,118.98,5,+10.38,"Fri midnight. WTI bid 56c (evening oscillation). All else flat. HOLD all 5."
+2026-03-26T19:23:16Z,119.38,5,-80.62,"kalshi-monitor snapshot. $119.38 (-40.3%). Cash $86.37, exposure $33.42. 5 active positions."
+2026-03-26T20:03:19Z,119.66,5,+11.06,"Sat early. GOVTCUTS NO 92c (+1c). CPI-Apr last 47c. WTI 58c (+2c). GDP NO 69c. HOLD all 5."
