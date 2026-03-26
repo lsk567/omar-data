@@ -415,3 +415,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-25T23:03:02Z,119.24,5,+10.64,"Sun early. GDP YES last 29c (ATL). CPI-Apr 42c. WTI 62c. HOLD all 5."
 2026-03-26T00:02:55Z,119.09,5,+10.49,"Sun AM. GDP NO 65c (+2c). CPI-Apr 42c. WTI 62c. Dead zone. HOLD all 5."
 2026-03-26T01:02:52Z,118.94,5,+10.34,"Sun. CPI-Apr 40c (-2c). CPI-Mar 3c. GDP NO 64c. WTI 62c. HOLD all 5."
+2026-03-26T01:52:44Z,118.85,5,+10.25,"RISK REVIEW. GDP NO +$6.16 (STRONG). GOVTCUTS NO +$6.60 (NEAR-CERTAIN). CPI-Apr EV hold +$2.28 vs sell (HOLD). WTI T115 marginal (breakeven prob 62% = market price — HOLD through 5-day expiry). CPI-Mar free ride (HOLD to Apr 10). Floor $105.87 (if only GDP+GOVT pay). HOLD all 5."
