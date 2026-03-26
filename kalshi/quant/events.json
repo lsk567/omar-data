@@ -208,5 +208,11 @@
     "type": "macro",
     "title": "CPI-Apr T0.5 last crashes 69c→49c (-20c) — de-escalation repricing",
     "detail": "CPI-Apr T0.5 YES last traded 49c (was 69c = -20c). Tight 4c spread (44/48c) confirms real repricing not illiquidity. Oil de-escalation (Trump 5-day pause, 15-point plan) driving market to price cooler CPI. Entry 48c → now at bid 44c (-8%). CPI-Mar T1.1 also fading to 4c."
+  },
+  {
+    "timestamp": "2026-03-25T18:00:00Z",
+    "type": "macro",
+    "title": "Iran rejects Trump 15-point plan — demands Hormuz sovereignty",
+    "detail": "Iran called US proposal 'maximalist, unreasonable.' Issued 5-point counteroffer: halt killings of officials, reparations, no future wars, end hostilities, Iran sovereignty over Hormuz + toll collection (Suez model). Quick resolution unlikely. 5-day pause expires ~Mar 28. WTI recovering to $92, Brent $104."
   }
 ]
