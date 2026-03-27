@@ -257,3 +257,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-27T04:04:16Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sun early — $125.94 (+$2.76). CPI-Apr T0.5 last 96c (+23c from 73c). NO bid 3c confirms real repricing. Our 12 @ 48c = +100% unrealized ($5.76 gain). Market pricing Apr CPI >0.5% near-certain. GDP NO 70c. WTI 60c. CPI-Mar 7c. GOVTCUTS 92c. HOLD all 5."
 2026-03-27T05:03:29Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sun AM — $126.06. CPI-Apr last 97c. GDP NO 70c. WTI 60c. CPI-Mar 7c. GOVTCUTS 92c. HOLD all 5."
 2026-03-27T06:03:24Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sun — $125.96. WTI 61c (+1c). All else flat. HOLD all 5."
+2026-03-27T07:04:59Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Thu AM — $125.96. Iran allowing China/Russia/India/Iraq/Pakistan through Hormuz (partial reopening). Israel killed Iran navy commander. Positions hardening — impasse. Apr 6 deadline. GDP NO 70c. CPI-Apr last 97c. WTI 61c. CPI-Mar 7c. GOVTCUTS 92c. HOLD all 5."
