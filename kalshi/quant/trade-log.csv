@@ -267,3 +267,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-27T14:03:44Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Fri AM — $126.12. WTI 62c (+1c). All else flat. HOLD all 5."
 2026-03-27T15:05:14Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Fri PM — $126.32. WTI last 67c. All else flat. HOLD all 5."
 2026-03-27T16:03:41Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Fri evening — $126.32. Identical. HOLD all 5."
+2026-03-27T17:03:38Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Fri late — $125.51. WTI 58c (-4c). GDP NO 70c. CPI-Apr last 97c. HOLD all 5."
