@@ -232,5 +232,11 @@
     "type": "macro",
     "title": "CPI-Apr T0.5 last trades at 96c (+23c) — near-certainty",
     "detail": "CPI-Apr T0.5 YES last traded 96c (was 73c = +23c). NO bid 3c. Market pricing April CPI >0.5% as near-certain. Our 12 contracts at 48c entry = +100% unrealized gain. Thin weekend liquidity but NO bid confirms real repricing."
+  },
+  {
+    "timestamp": "2026-03-28T00:00:00Z",
+    "type": "macro",
+    "title": "CPI-Apr normalizes 97→55c; WTI surges +9c to 67c bid",
+    "detail": "CPI-Apr T0.5 last 55c (was 97c — anomalous thin-liquidity trade normalized). Bid returned at 47c (near 48c entry). WTI T115 bid surged 58→67c (+9c). Both markets repricing as MMs return to normal weekend. Real CPI-Apr value settling ~47-55c."
   }
 ]
