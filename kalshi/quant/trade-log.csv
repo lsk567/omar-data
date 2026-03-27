@@ -254,3 +254,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-27T01:03:25Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sat night — $123.13. All stable. HOLD all 5."
 2026-03-27T02:03:53Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sat late — $123.29. CPI-Apr YES bid 0c (MM pulled — NO bid 43c confirms real value ~50c+). GDP YES 29c, NO 70c ATH. WTI 58c. CPI-Mar 7c. GOVTCUTS 92c. HOLD all 5."
 2026-03-27T03:03:56Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sat midnight — $123.18. CPI-Apr MM gap (YES 0c, NO 13c — both sides pulled). WTI 59c. GDP NO 70c. HOLD all 5."
+2026-03-27T04:04:16Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sun early — $125.94 (+$2.76). CPI-Apr T0.5 last 96c (+23c from 73c). NO bid 3c confirms real repricing. Our 12 @ 48c = +100% unrealized ($5.76 gain). Market pricing Apr CPI >0.5% near-certain. GDP NO 70c. WTI 60c. CPI-Mar 7c. GOVTCUTS 92c. HOLD all 5."

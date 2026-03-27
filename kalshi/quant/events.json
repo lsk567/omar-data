@@ -226,5 +226,11 @@
     "type": "macro",
     "title": "CPI-Apr T0.5 bid surges +18c to 63c — inflation re-pricing",
     "detail": "CPI-Apr T0.5 YES bid jumped 45c→63c (+18c in one cycle). Entry 48c → +31% at bid. Market re-pricing hot CPI despite pause extension — gas at $3.91 already baked into March data, April CPI >0.5% increasingly certain. GDP NO steady at 70c ATH."
+  },
+  {
+    "timestamp": "2026-03-27T06:00:00Z",
+    "type": "macro",
+    "title": "CPI-Apr T0.5 last trades at 96c (+23c) — near-certainty",
+    "detail": "CPI-Apr T0.5 YES last traded 96c (was 73c = +23c). NO bid 3c. Market pricing April CPI >0.5% as near-certain. Our 12 contracts at 48c entry = +100% unrealized gain. Thin weekend liquidity but NO bid confirms real repricing."
   }
 ]
