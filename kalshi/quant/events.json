@@ -238,5 +238,11 @@
     "type": "macro",
     "title": "CPI-Apr normalizes 97→55c; WTI surges +9c to 67c bid",
     "detail": "CPI-Apr T0.5 last 55c (was 97c — anomalous thin-liquidity trade normalized). Bid returned at 47c (near 48c entry). WTI T115 bid surged 58→67c (+9c). Both markets repricing as MMs return to normal weekend. Real CPI-Apr value settling ~47-55c."
+  },
+  {
+    "timestamp": "2026-03-28T04:00:00Z",
+    "type": "macro",
+    "title": "GDP NO bid -11c to 59c — weekend spread; GDPNow drops to 2.0%",
+    "detail": "GDP T3.0 NO bid dropped 70→59c (-11c). Likely weekend spread widening (YES bid 29→35c, spread 1c→6c both sides). GDPNow dropped to 2.0% on Mar 23 (from 2.3%) — thesis even stronger but market illiquid. WTI last 77.7c (above 75c entry)."
   }
 ]
