@@ -277,3 +277,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-28T00:03:45Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sun early — $121.13. WTI bid 69c (+1c), last 75c (=entry!). CPI-Apr 46c (-2c). GDP NO 70c. HOLD all 5."
 2026-03-28T01:03:45Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sun AM — $121.03. WTI bid 74c (+5c from 69c, near 75c entry). CPI-Apr 46c. GDP NO 70c. HOLD all 5."
 2026-03-28T02:04:33Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sun AM — $120.70. GDP NO bid 59c (-11c — weekend spread widening, not fundamental). GDPNow dropped to 2.0% (Mar 23) — thesis STRONGER. WTI last 77.7c (above 75c entry). CPI-Apr 47c. GOVTCUTS last 6c. HOLD all 5."
+2026-03-28T03:03:39Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sun — $120.06. WTI bid 75.1c (above 75c entry!). Last 77.7c. GDP YES last 41c, NO 60c. GOVTCUTS NO 93c (+1c). CPI-Apr 47c. CPI-Mar 7c. HOLD all 5."
