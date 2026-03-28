@@ -464,3 +464,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-27T22:03:41Z,121.35,5,+12.75,"Sat evening. CPI-Apr bid 48c (=entry). WTI last 72c. GDP NO 70c. HOLD all 5."
 2026-03-27T23:03:47Z,120.99,5,+12.39,"Sat night. CPI-Apr last 48c (=entry). WTI 68c (+1c). GDP NO 70c. HOLD all 5."
 2026-03-28T00:03:45Z,121.13,5,+12.53,"Sun early. WTI bid 69c (last 75c =entry!). CPI-Apr 46c. GDP NO 70c. HOLD all 5."
+2026-03-28T01:03:45Z,121.03,5,+12.43,"Sun AM. WTI bid 74c (+5c, near entry!). CPI-Apr 46c. GDP NO 70c. HOLD all 5."
