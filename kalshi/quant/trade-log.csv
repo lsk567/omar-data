@@ -288,3 +288,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-28T18:03:37Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sat midnight — $121.06. CPI-Apr last 53c. CPI-Mar last 5c. WTI 76c. GDP NO 62c. GOVTCUTS 93c. HOLD all 5."
 2026-03-28T20:03:38Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sun early — $120.01. WTI spread collapsed to 0.1c (77.7/77.8c — above 75c entry). CPI-Apr bid 43c (-4c). GDP YES last 39c, NO 60c. GOVTCUTS 93c. CPI-Mar 3c. HOLD all 5."
 2026-03-28T22:03:46Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sun AM — $120.24. WTI T115 last 80c (new high, bid 79.8c, +5c above 75c entry). CPI-Apr 45c (+2c). GDP NO 61c. GOVTCUTS 93c. CPI-Mar 3c. HOLD all 5."
+2026-03-29T00:03:58Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sun — $121.04. WTI 80c (bid 79.8c, above entry). GDP NO 62c. CPI-Apr 44c. GOVTCUTS NO 90c. CPI-Mar 3c. HOLD all 5."
