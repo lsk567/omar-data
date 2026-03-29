@@ -296,3 +296,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-29T09:03:53Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Mon — $120.22. CPI-Apr 46c (+1c). GDP NO 61c. WTI 79.8c. GOVTCUTS 90c. CPI-Mar 3c. HOLD all 5."
 2026-03-29T11:03:58Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Mon PM — $120.24. All flat. HOLD all 5."
 2026-03-29T13:03:45Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Mon evening — $120.12. CPI-Apr last 52c. WTI 80c. GDP NO 61c. HOLD all 5."
+2026-03-29T14:03:48Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Mon late — $120.10. WTI 79.8c. CPI-Apr 46c (+1c). GDP NO 61c. HOLD all 5."
