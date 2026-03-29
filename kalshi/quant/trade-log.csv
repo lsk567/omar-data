@@ -302,3 +302,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-29T18:03:48Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Tue AM — $120.39. CPI-Apr 47c. CPI-Mar 2c (approaching zero). GDP YES 34c. WTI 80c. GOVTCUTS 88c. HOLD all 5."
 2026-03-29T19:03:55Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Tue — $120.16. WTI 79c. GDP NO 62c. CPI-Apr 47c. HOLD all 5."
 2026-03-29T20:03:59Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Tue evening — $119.56. CPI-Apr last 48c (=entry, spread 1c). WTI 79c. GDP NO 62c. GOVTCUTS 88c. CPI-Mar 2c. HOLD all 5."
+2026-03-29T22:06:01Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Tue late — $118.92. GDP NO 63c (+1c). WTI 79c. CPI-Apr 47c. HOLD all 5."
