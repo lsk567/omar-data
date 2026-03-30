@@ -548,3 +548,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-30T15:04:40Z,255.40,20,+55.40,"TRADING CYCLE #217 (baseline-trader). $255.40 (+27.7%). WTI T100 SURGED +5c to 98/98c — near certainty! T105 +5c to 87c. PPIVSCPI 92c. NO TRADES — HOLD all 20."
 2026-03-30T16:04:32Z,254.53,20,+54.53,"TRADING CYCLE #218 (baseline-trader). $254.53 (+27.3%). WTI T105 ask +7c (spread widened). Others flat. NO TRADES — HOLD all 20."
 2026-03-30T17:04:22Z,252.61,20,+52.61,"TRADING CYCLE #219 (baseline-trader). $252.61 (+26.3%). WTI T105 bid +3c to 90c. CPI-Apr mid noise. NO TRADES — HOLD all 20."
+2026-03-30T18:04:33Z,253.08,20,+53.08,"TRADING CYCLE #220 (baseline-trader). $253.08 (+26.5%). WTI T100 hit 99c — essentially settled. Others flat. NO TRADES — HOLD all 20."
