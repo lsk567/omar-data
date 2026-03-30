@@ -307,3 +307,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-30T02:04:19Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Wed AM — $120.54 (+$1.45). CPI-Apr bid surged 47→54c (+7c, above 48c entry!). Last 54c. WTI last 81.9c (new high, bid 79c). GDP NO 63c. GOVTCUTS 89c. CPI-Mar 2c. HOLD all 5."
 2026-03-30T04:04:02Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Wed — $120.23. WTI last 82c (new ATH, +7c above 75c entry). CPI-Apr bid 48c (=entry). GDP NO 62c. GOVTCUTS 90c. CPI-Mar 2c. HOLD all 5."
 2026-03-30T06:03:58Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Wed PM — $120.13. WTI 81c. GDP NO 64c (+2c). CPI-Apr 48c. HOLD all 5."
+2026-03-30T07:04:32Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Thu — $120.77. WTI bid crossed 80c (80.1c, first time above entry at bid). CPI-Apr last 55c. GDP NO 65c (+1c). GOVTCUTS 90c. CPI-Mar 2c. HOLD all 5."
