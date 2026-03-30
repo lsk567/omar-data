@@ -550,3 +550,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-30T17:04:22Z,252.61,20,+52.61,"TRADING CYCLE #219 (baseline-trader). $252.61 (+26.3%). WTI T105 bid +3c to 90c. CPI-Apr mid noise. NO TRADES — HOLD all 20."
 2026-03-30T18:04:33Z,253.08,20,+53.08,"TRADING CYCLE #220 (baseline-trader). $253.08 (+26.5%). WTI T100 hit 99c — essentially settled. Others flat. NO TRADES — HOLD all 20."
 2026-03-30T19:07:02Z,253.52,20,+53.52,"TRADING CYCLE #221 (baseline-trader). $253.52 (+26.8%). WTI T100 HIT $1.00 — SETTLED! 40x position pays $40 (cost $30.40, profit $9.60). Recession -3c. NO TRADES — HOLD all 20."
+2026-03-30T20:07:45Z,254.39,20,+54.39,"TRADING CYCLE #222 (baseline-trader). $254.39 (+27.2%). WTI T100 99/100c. T105 94c. Others flat. NO TRADES — HOLD all 20."
