@@ -280,5 +280,11 @@
     "type": "macro",
     "title": "Trump extends Hormuz deadline to April 6 — markets shrug",
     "detail": "Second Hormuz extension (originally 48hr, then 5 days, now to Apr 6). WTI barely reacted (±1-2c). Market has priced in pattern of repeated extensions. T100 82c, T105 74c, T120 61c all stable. Diplomacy over confrontation remains base case."
+  },
+  {
+    "timestamp": "2026-03-30T19:00:00Z",
+    "type": "win",
+    "title": "WTI T100 hit $1.00 — settled YES, +$9.60 profit",
+    "detail": "KXWTIMAX-26DEC31-T100 bid/ask hit 100c — WTI has definitively touched $100. Our 40x position (cost $30.40) will pay $40.00, netting +$9.60 (+31.6%). Biggest single position by cost basis, now effectively locked in."
   }
 ]
