@@ -523,3 +523,5 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-31T15:04:32Z,122.78,5,+14.18,"Mon late. CPI-Apr 60c. WTI 84c. GDP NO 66c. HOLD all 5."
 2026-03-31T17:04:20Z,122.38,5,+13.78,"Mon midnight. CPI-Apr 58c. WTI 84c. GDP NO 67c. HOLD all 5."
 2026-03-31T18:04:15Z,123.32,9,+14.72,"v6 FIRST FULL CYCLE — 4 new trades executed! KXWTIMAX-T120 YES 10@75c, KXWTIMAX-T140 YES 8@49c, KXGDP-T2.5 NO 15@50c, KXRECSSNBER-26 YES 10@34c. 4 parallel research desks (oil/cpi/macro/opps). Cash $63.46."
+2026-03-31T19:28:05Z,121.70,-78.30,-39.1%
+2026-03-31T19:46:34Z,121.60,9,+13.00,"v6 fast cycle. 9 positions stable. WTI T120 bid 69c. CPI-Apr 63c. GDP NO 67c. HOLD all 9."
