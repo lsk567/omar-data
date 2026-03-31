@@ -286,5 +286,11 @@
     "type": "win",
     "title": "WTI T100 hit $1.00 — settled YES, +$9.60 profit",
     "detail": "KXWTIMAX-26DEC31-T100 bid/ask hit 100c — WTI has definitively touched $100. Our 40x position (cost $30.40) will pay $40.00, netting +$9.60 (+31.6%). Biggest single position by cost basis, now effectively locked in."
+  },
+  {
+    "timestamp": "2026-03-31T12:00:00Z",
+    "type": "macro",
+    "title": "Trump threatens Iran oil wells/Kharg — WTI T110 surged +15c",
+    "detail": "War escalation: Trump threatening to strike Iranian oil wells and Kharg Island. WTI T110 bid surged 72→87c (+15c). T120 bid +12c (61→73c). LCPIMAXYOY P4.5 ask +7c. Our 10x T110 position gaining ~$1.50. Oil tail risk repricing sharply higher."
   }
 ]
