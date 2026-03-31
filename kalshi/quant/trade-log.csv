@@ -325,3 +325,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-31T01:04:42Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sat evening — $123.26 (+$0.36). GDP NO 69c (0.1c spread). WTI 84c. CPI-Apr 58c. CPI-Mar 5c (+2c). GOVTCUTS 90c (+5c recovered). HOLD all 5."
 2026-03-31T02:04:21Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sat night — $123.25. CPI-Apr 59c (+1c). WTI 82c. GDP NO 67c. GOVTCUTS 90c. CPI-Mar 5c. HOLD all 5."
 2026-03-31T04:04:09Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sat late — $123.08. GDP YES 30.2c, NO 67c. WTI 82c. CPI-Apr 58c. HOLD all 5."
+2026-03-31T06:04:09Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Sun early — $121.97. GOVTCUTS NO 85c (-5c spread widening). GDP NO 66c. CPI-Apr 59c. WTI 82c. CPI-Mar 2c. HOLD all 5."
