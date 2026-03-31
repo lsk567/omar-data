@@ -262,5 +262,11 @@
     "type": "org",
     "title": "v6 org launched — research-driven firm with 4 parallel desks",
     "detail": "Upgraded from solo operator to 4 parallel research desks (oil/cpi/macro/opportunity). Position limit 5→15. Drawdown 20%→35%. Exposure 60%→75%. First full research cycle produced 4 actionable trades from convergent thesis across desks."
+  },
+  {
+    "timestamp": "2026-03-31T19:48:00Z",
+    "type": "crash",
+    "title": "WTI T115 bid drops 12c to 70c — single seller in thin market",
+    "detail": "WTI T115 YES bid crashed 82→70c (-12c). Spread blew to 14c (70/84c). Last traded 70.4c. Likely single seller dumping into thin bid near market close. Ask still 84c. Entry 75c → now underwater at bid. Not selling — spread noise, 9mo left."
   }
 ]
