@@ -58,5 +58,18 @@
     },
     "color": "rgba(0,105,92,0.12)",
     "border_color": "#00695C"
+  },
+  {
+    "version": "v6",
+    "label": { "en": "Research-Driven Firm", "zh": "研究驱动公司" },
+    "date": "2026-03-31T19:00:00Z",
+    "agents_persistent": 0,
+    "agents_per_cycle": 6,
+    "summary": {
+      "en": "4 parallel research desks (oil/CPI/macro/opportunity) + risk mgr + executor. 15 position slots. Active thesis discovery.",
+      "zh": "4 个并行研究组（石油/CPI/宏观/机会）+ 风控 + 执行。15 个持仓位。主动寻找交易论题。"
+    },
+    "color": "rgba(21,101,192,0.12)",
+    "border_color": "#1565C0"
   }
 ]

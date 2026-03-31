@@ -185,3 +185,36 @@ QUIET CYCLE (overnight, no catalysts, all stable):
 - Explicit goal: 10+ trade ideas per full cycle, not 1-2
 
 **Expected improvement:** Market surface area coverage 3x. Trade idea generation 5-10x. Eliminates tunnel vision that caused us to miss oil trades and CPI lottery tickets worth +400%. Adds model diversity for conviction cross-checks.
+
+---
+
+## v6: Research-Driven Firm (2026-03-31)
+
+**Structure:** 4 parallel research desks + risk manager + executor (all ephemeral per cycle). Firm head coordinates.
+
+**Agents (spawned per full cycle, killed after):**
+- **oil-desk (qf-oil)**: WTI spot, Hormuz crisis, Iran war, oil supply/demand, energy markets
+- **cpi-desk (qf-cpi)**: Cleveland Fed nowcast, gas prices, PPI pipeline, all CPI curve strikes
+- **macro-desk (qf-macro)**: GDP, Fed policy, recession, DOGE/govt cuts, labor markets
+- **opportunity-desk (qf-opps)**: Scan ALL Kalshi markets + web for NEW theses we're not tracking. Scout for emerging themes (housing, tariffs, weather, tech, geopolitical).
+- **risk-mgr (qf-risk)**: Evaluate proposed trades against risk-limits.json
+- **executor (qf-exec)**: Place approved orders
+
+**Why the change — lessons from v5:**
+
+v5 defined parallel research desks but the firm head reverted to solo operation within days. 95%+ of cycles from Mar 18 to Mar 31 were solo "fetch prices → log → HOLD" with zero research. The org chart existed on paper but wasn't followed.
+
+Root causes:
+1. Drawdown limit (20%) was too tight — blocked all new trades, making research pointless
+2. No mechanism to force research cycles — firm head optimized for speed over alpha
+3. 5-position limit killed motivation to find new ideas
+
+**Key changes vs v5:**
+- **Position limit raised 5 → 15**: Information edge = more diversified bets
+- **Drawdown limit raised 20% → 35%**: Room to trade
+- **Exposure limit raised 60% → 75%**: Deploy more capital
+- **Opportunity desk added**: Dedicated agent for NEW thesis discovery, not just monitoring existing positions
+- **firm-plan.md says READ EVERY CYCLE**: Prevents silent reversion to solo mode
+- **Full cycles required 2x/day minimum during market hours**
+
+**Expected improvement:** Active thesis generation instead of passive monitoring. New positions in sectors we haven't explored. Diversified portfolio instead of concentrated in 5 war-correlated bets.
