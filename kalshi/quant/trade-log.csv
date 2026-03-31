@@ -333,3 +333,11 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-31T13:04:27Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Mon evening — $122.46. WTI last 85.8c (ATH). CPI-Apr 63c. GDP NO 66c (+1c). GOVTCUTS 89c. CPI-Mar 3c. HOLD all 5."
 2026-03-31T15:04:32Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Mon late — $122.78. CPI-Apr 60c. WTI 84c. GDP NO 66c. HOLD all 5."
 2026-03-31T17:04:20Z,quant-firm,CYCLE-LOG,HOLD,0,0,"Mon midnight — $122.38. CPI-Apr 58c. WTI 84c. GDP NO 67c (+1c). HOLD all 5."
+2026-03-31T18:03:47Z,quant-firm,KXWTIMAX-26DEC31-T120,BUY YES,10,75,"Oil desk HIGH: WTI $103, $17 from T120. Apr 6 binary. Curve kink at T120."
+2026-03-31T18:03:47Z,quant-firm,KXWTIMAX-26DEC31-T140,BUY YES,8,49,Oil desk MED: Cheap beyond T120 curve kink. 48c for $140 touch in 9mo.
+2026-03-31T18:03:47Z,quant-firm,KXGDP-26APR30-T2.5,BUY NO,15,50,Macro desk: GDPNow 2.0% falling. Oil drag. DOGE layoffs. 65% conf.
+2026-03-31T18:03:47Z,quant-firm,KXRECSSNBER-26,BUY YES,10,34,Macro desk: Moody 49% vs market 33%. Oil shock + sentiment. 3:1 payout.
+2026-03-31T18:04:15Z,quant-firm,KXWTIMAX-26DEC31-T120,BUY YES,10,75,"v6 oil desk HIGH: WTI $103 Apr 6 binary. Curve kink at T120."
+2026-03-31T18:04:15Z,quant-firm,KXWTIMAX-26DEC31-T140,BUY YES,8,49,"v6 oil desk MED: Cheap beyond T120 curve kink. 9mo for $140 touch."
+2026-03-31T18:04:15Z,quant-firm,KXGDP-26APR30-T2.5,BUY NO,15,50,"v6 macro desk: GDPNow 2.0% falling. Oil drag. DOGE layoffs."
+2026-03-31T18:04:15Z,quant-firm,KXRECSSNBER-26,BUY YES,10,34,"v6 macro desk: Moody 49% vs market 33%. Oil shock recession. 3:1 payout."
