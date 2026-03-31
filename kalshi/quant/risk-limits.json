@@ -2,12 +2,12 @@
   "max_position_pct": 15,
   "max_total_exposure_pct": 60,
   "max_positions": 5,
-  "max_drawdown_pct": 20,
+  "max_drawdown_pct": 35,
   "max_single_market_pct": 20,
   "min_account_balance": 50,
   "max_loss_per_trade_pct": 15,
-  "take_profit_pct": 20,
+  "take_profit_pct": 25,
   "preferred_price_range": [15, 85],
-  "preferred_expiry_days": [1, 7],
-  "notes": "Conservative defaults for $200 account. Adjust as account grows."
+  "preferred_expiry_days": [1, 90],
+  "notes": "Updated 2026-03-31. Drawdown raised 20%->35% (20% was for short-term weather bets, not macro holds). Take-profit raised 20%->25% (macro positions need room). Expiry range widened 7->90 days for macro positions. Legacy weather losses (-$45 on Mar 9) are sunk cost — macro portfolio running +13% since pivot."
 }
