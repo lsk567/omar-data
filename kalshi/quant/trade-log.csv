@@ -360,3 +360,5 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-04-01T11:46:38Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v6 fast pre-market — $122.57. All ±2c. HOLD all 9. Next full cycle at ~13:30 UTC (market open)."
 2026-04-01T12:46:29Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v6 fast pre-market — $120.67. WTI T115 72c (-6c). T120 68c (-5c). Recession 31c (-2c). Pre-open drift. HOLD all 9."
 2026-04-01T13:46:31Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v6 fast — $119.61. Recession YES 27c (-4c). GDP T3 YES last 35.5c. T120 66c. GDP T2.5 NO 45c. CPI-Apr 66c. HOLD all 9."
+2026-04-01T14:50:33Z,quant-firm,KXWTIMAX-26DEC31-T130,BUY YES,5,54,v6 oil desk: T130 cheap vs T115/T120. Curve discount. Apr 6 catalyst. Goldman escalation scenario.
+2026-04-01T14:51:12Z,quant-firm,KXWTIMAX-26DEC31-T130,BUY YES,5,54,"v6 oil desk: T130 cheap vs T115/T120 curve. Goldman escalation to $130. Apr 6 catalyst."
