@@ -368,3 +368,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-04-01T17:46:50Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v7 fast — $119.12. WTI T130 50c (+5c). GDP NO 69c. CPI-Apr 66c. Payrolls 27c. HOLD all 11."
 2026-04-01T18:46:47Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v7 fast — $120.00. GDP YES 28c (NO bid 70c ATH). WTI T120 65c (+3.5c). T130 50c. T140 42c. CPI-Apr 66c. Payrolls 26c. HOLD all 11."
 2026-04-01T19:46:21Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v7 fast close — $120.06. WTI T115 72c (+3c). CPI-Apr 67c. GDP NO 70c. Payrolls 27c. HOLD all 11."
+2026-04-01T20:46:29Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v7 fast post-close — $120.93. WTI T120 last 68.8c. T140 last 47.7c. GDP NO 70c. CPI-Apr 67c. HOLD all 11."
