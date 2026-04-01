@@ -349,3 +349,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-04-01T00:46:21Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v6 fast cycle night — $121.43. All within ±3c. HOLD all 9."
 2026-04-01T01:46:27Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v6 fast cycle late night — $121.22. WTI T120 bid 71c (+5c recovery). T115 last 75.3c. GDP T2.5 49c. CPI-Apr 60c. HOLD all 9."
 2026-04-01T02:46:04Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v6 fast cycle midnight — $122.08. WTI T120 73c (+2c). T115 77c. CPI-Apr 60c. GDP NO 68c. HOLD all 9."
+2026-04-01T03:46:07Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v6 fast cycle overnight — $122.00. All ±3c. HOLD all 9."
