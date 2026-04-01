@@ -542,3 +542,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-04-01T10:46:13Z,122.33,9,+13.73,"v6 fast pre-market. WTI T120 last 75c (=entry). CPI-Apr 66c. All ±2c. HOLD all 9."
 2026-04-01T11:46:38Z,122.57,9,+13.97,"v6 fast pre-market. All ±2c. WTI T140 45c. HOLD all 9. Full cycle at market open."
 2026-04-01T12:46:29Z,120.67,9,+12.07,"v6 fast pre-market. WTI T115 72c (-6c). T120 68c (-5c). Pre-open drift. HOLD all 9."
+2026-04-01T13:46:31Z,119.61,9,+11.01,"v6 fast pre-market. Recession 27c (-4c). GDP T3 YES 35c. WTI T120 66c. Full cycle at 13:30. HOLD all 9."
