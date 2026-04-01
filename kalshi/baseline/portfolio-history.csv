@@ -580,3 +580,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-04-01T03:05:00Z,255.59,20,+55.59,"TRADING CYCLE #248 (baseline-trader). $255.59 (+27.8%). All flat. NO TRADES — HOLD all 20."
 2026-04-01T05:04:46Z,255.24,20,+55.24,"TRADING CYCLE #250 (baseline-trader). $255.24 (+27.6%). Milestone #250. All flat. NO TRADES — HOLD all 20."
 2026-04-01T07:04:56Z,255.77,20,+55.77,"TRADING CYCLE #252 (baseline-trader). $255.77 (+27.9%). Apr 1. CPI-Mar T0.9 +3c to 35c. Others flat. NO TRADES — HOLD all 20."
+2026-04-01T08:04:49Z,255.80,20,+55.80,"TRADING CYCLE #253 (baseline-trader). $255.80 (+27.9%). WTI T105 -2c. Others flat. NO TRADES — HOLD all 20."
