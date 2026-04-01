@@ -546,3 +546,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-04-01T14:51:12Z,119.23,10,+10.63,"v6 FULL CYCLE Apr 1. 4 desks ran. Executed: WTI T130 YES 5@54c. 10 positions now. Cash $60.67."
 2026-04-01T15:46:22Z,118.19,10,+9.59,"v6 fast mid-day. WTI T120 61c. T130 45c. CPI-Apr 66c. GDP NO 65c. HOLD all 10."
 2026-04-01T16:51:05Z,118.87,11,+10.27,"v7 FIRST FULL CYCLE. 13 agents. NEW SECTOR: Payrolls T100K YES 10@29c + WTI T130 YES 5@54c. 11 positions. Cash $57.62."
+2026-04-01T17:46:50Z,119.12,11,+10.52,"v7 fast. WTI T130 bid 50c (+5c, profitable!). GDP NO 69c. Payrolls 27c. HOLD all 11."
