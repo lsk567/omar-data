@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T14:04:55.301262+00:00",
+  "timestamp": "2026-04-01T16:05:01.524600+00:00",
   "cash": 136.43,
   "positions": [
     {
@@ -18,44 +18,44 @@
       "contracts": 15.0,
       "side": "yes",
       "cost_basis": 6.9,
-      "current_value": 9.5,
+      "current_value": 9.47,
       "yes_bid": 0.631,
-      "yes_ask": 0.636,
-      "pnl": 2.6,
-      "pnl_pct": 37.7
+      "yes_ask": 0.632,
+      "pnl": 2.57,
+      "pnl_pct": 37.3
     },
     {
       "ticker": "KXLCPIMAXYOY-27-P4.5",
       "contracts": 14.0,
       "side": "yes",
       "cost_basis": 5.04,
-      "current_value": 5.52,
+      "current_value": 5.53,
       "yes_bid": 0.39,
-      "yes_ask": 0.398,
-      "pnl": 0.48,
-      "pnl_pct": 9.4
+      "yes_ask": 0.4,
+      "pnl": 0.49,
+      "pnl_pct": 9.7
     },
     {
       "ticker": "KXLCPIMAXYOY-27-P3.5",
       "contracts": 10.0,
       "side": "yes",
       "cost_basis": 7.8,
-      "current_value": 8.79,
-      "yes_bid": 0.858,
+      "current_value": 8.85,
+      "yes_bid": 0.869,
       "yes_ask": 0.9,
-      "pnl": 0.99,
-      "pnl_pct": 12.7
+      "pnl": 1.05,
+      "pnl_pct": 13.4
     },
     {
       "ticker": "KXECONPATH-26-STAG",
       "contracts": 10.0,
       "side": "yes",
       "cost_basis": 2.7,
-      "current_value": 3.31,
+      "current_value": 3.29,
       "yes_bid": 0.31,
-      "yes_ask": 0.351,
-      "pnl": 0.6,
-      "pnl_pct": 22.4
+      "yes_ask": 0.349,
+      "pnl": 0.59,
+      "pnl_pct": 22.0
     },
     {
       "ticker": "KXPPIVSCPI-27FEB01-TCPIYOY",
@@ -84,44 +84,44 @@
       "contracts": 10.0,
       "side": "yes",
       "cost_basis": 5.0,
-      "current_value": 8.65,
+      "current_value": 8.7,
       "yes_bid": 0.86,
-      "yes_ask": 0.87,
-      "pnl": 3.65,
-      "pnl_pct": 73.0
+      "yes_ask": 0.88,
+      "pnl": 3.7,
+      "pnl_pct": 74.0
     },
     {
       "ticker": "KXCPI-26MAR-T0.8",
       "contracts": 16.0,
       "side": "yes",
       "cost_basis": 5.68,
-      "current_value": 10.56,
+      "current_value": 10.48,
       "yes_bid": 0.65,
-      "yes_ask": 0.67,
-      "pnl": 4.88,
-      "pnl_pct": 85.9
+      "yes_ask": 0.66,
+      "pnl": 4.8,
+      "pnl_pct": 84.5
     },
     {
       "ticker": "KXCPI-26MAR-T0.9",
       "contracts": 25.0,
       "side": "yes",
       "cost_basis": 7.25,
-      "current_value": 9.25,
-      "yes_bid": 0.36,
-      "yes_ask": 0.38,
-      "pnl": 2.0,
-      "pnl_pct": 27.6
+      "current_value": 9.0,
+      "yes_bid": 0.35,
+      "yes_ask": 0.37,
+      "pnl": 1.75,
+      "pnl_pct": 24.1
     },
     {
       "ticker": "KXCPI-26MAR-T1.0",
       "contracts": 15.0,
       "side": "yes",
       "cost_basis": 1.65,
-      "current_value": 1.05,
-      "yes_bid": 0.06,
+      "current_value": 1.13,
+      "yes_bid": 0.07,
       "yes_ask": 0.08,
-      "pnl": -0.6,
-      "pnl_pct": -36.4
+      "pnl": -0.52,
+      "pnl_pct": -31.8
     },
     {
       "ticker": "KXCPI-26MAR-T1.2",
@@ -150,11 +150,11 @@
       "contracts": 10.0,
       "side": "yes",
       "cost_basis": 7.3,
-      "current_value": 8.55,
+      "current_value": 8.6,
       "yes_bid": 0.83,
-      "yes_ask": 0.88,
-      "pnl": 1.25,
-      "pnl_pct": 17.1
+      "yes_ask": 0.89,
+      "pnl": 1.3,
+      "pnl_pct": 17.8
     },
     {
       "ticker": "KXCPI-26APR-T0.5",
@@ -172,50 +172,50 @@
       "contracts": 10.0,
       "side": "yes",
       "cost_basis": 2.1,
-      "current_value": 4.35,
-      "yes_bid": 0.43,
-      "yes_ask": 0.44,
-      "pnl": 2.25,
-      "pnl_pct": 107.1
+      "current_value": 4.05,
+      "yes_bid": 0.4,
+      "yes_ask": 0.41,
+      "pnl": 1.95,
+      "pnl_pct": 92.9
     },
     {
       "ticker": "KXGDP-26APR30-T2.0",
       "contracts": 10.0,
       "side": "yes",
       "cost_basis": 6.7,
-      "current_value": 6.79,
-      "yes_bid": 0.677,
-      "yes_ask": 0.68,
-      "pnl": 0.09,
-      "pnl_pct": 1.3
+      "current_value": 6.98,
+      "yes_bid": 0.69,
+      "yes_ask": 0.707,
+      "pnl": 0.28,
+      "pnl_pct": 4.3
     },
     {
       "ticker": "KXWTIMAX-26DEC31-T110",
       "contracts": 10.0,
       "side": "yes",
       "cost_basis": 6.3,
-      "current_value": 7.59,
-      "yes_bid": 0.74,
-      "yes_ask": 0.778,
-      "pnl": 1.29,
-      "pnl_pct": 20.5
+      "current_value": 7.5,
+      "yes_bid": 0.731,
+      "yes_ask": 0.77,
+      "pnl": 1.2,
+      "pnl_pct": 19.1
     },
     {
       "ticker": "KXWTIMAX-26DEC31-T105",
       "contracts": 15.0,
       "side": "yes",
       "cost_basis": 10.65,
-      "current_value": 12.55,
-      "yes_bid": 0.814,
-      "yes_ask": 0.86,
-      "pnl": 1.9,
-      "pnl_pct": 17.9
+      "current_value": 12.73,
+      "yes_bid": 0.831,
+      "yes_ask": 0.867,
+      "pnl": 2.08,
+      "pnl_pct": 19.6
     }
   ],
   "total_cost": 90.01,
-  "total_value": 117.4,
-  "total_account": 253.83,
-  "unrealized_pnl": 27.39,
-  "return_pct": 26.9,
+  "total_value": 117.27,
+  "total_account": 253.7,
+  "unrealized_pnl": 27.26,
+  "return_pct": 26.8,
   "num_positions": 19
 }
