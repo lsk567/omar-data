@@ -14,13 +14,13 @@
   {
     "timestamp": "2026-03-09T14:07:00Z",
     "type": "milestone",
-    "title": "ATH $292.49 — Miami weather bets explode",
+    "title": "ATH $292.49 \u2014 Miami weather bets explode",
     "detail": "MIA-T87 2100 YES surging. Up 46.2% from start. Balance $110.77 + portfolio $181.72."
   },
   {
     "timestamp": "2026-03-09T15:04:00Z",
     "type": "crash",
-    "title": "Weather crash — $142 in minutes",
+    "title": "Weather crash \u2014 $142 in minutes",
     "detail": "MIA-T87 2100 collapsing. Down 28.7% from start. Extreme volatility."
   },
   {
@@ -44,31 +44,31 @@
   {
     "timestamp": "2026-03-10T12:46:00Z",
     "type": "loss",
-    "title": "Weather settled — Miami T87 total loss",
+    "title": "Weather settled \u2014 Miami T87 total loss",
     "detail": "MIA high was 84.2F, needed 87F. $45+ loss on weather bets."
   },
   {
     "timestamp": "2026-03-10T18:48:00Z",
     "type": "milestone",
-    "title": "ATL $108.77 — deepest drawdown -45.6%",
+    "title": "ATL $108.77 \u2014 deepest drawdown -45.6%",
     "detail": "Cash $83.85 + positions $24.92. 3 remaining: CPI-Feb, GDP NO, GOVTCUTS NO."
   },
   {
     "timestamp": "2026-03-11T10:44:00Z",
     "type": "org",
-    "title": "v3: Lean team — killed executor + bookkeeper",
+    "title": "v3: Lean team \u2014 killed executor + bookkeeper",
     "detail": "2 persistent agents. 90%+ cycles were HOLD. Fast path / full path protocol."
   },
   {
     "timestamp": "2026-03-11T13:44:00Z",
     "type": "win",
-    "title": "CPI Feb settled — T0.2 YES won",
+    "title": "CPI Feb settled \u2014 T0.2 YES won",
     "detail": "CPI YES settled. +$20 payout. Balance recovered to $103.85."
   },
   {
     "timestamp": "2026-03-14T00:00:00Z",
     "type": "org",
-    "title": "v4: Solo operator — 0 persistent agents",
+    "title": "v4: Solo operator \u2014 0 persistent agents",
     "detail": "All roles on-demand. 95% of cycles were HOLD. Multi-backend capable."
   },
   {
@@ -86,7 +86,7 @@
   {
     "timestamp": "2026-03-18T13:22:00Z",
     "type": "macro",
-    "title": "Feb PPI hot — 0.7% vs 0.3% consensus",
+    "title": "Feb PPI hot \u2014 0.7% vs 0.3% consensus",
     "detail": "Headline PPI more than double consensus. Core 0.5% vs 0.3%. Pre-war data showing inflation already accelerating."
   },
   {
@@ -98,13 +98,13 @@
   {
     "timestamp": "2026-03-18T18:22:00Z",
     "type": "macro",
-    "title": "FOMC holds rates — less hawkish than feared",
+    "title": "FOMC holds rates \u2014 less hawkish than feared",
     "detail": "Dot plot: one cut in 2026 (not zero). SEP PCE 2.7%. No 'transitory' language."
   },
   {
     "timestamp": "2026-03-18T20:31:00Z",
     "type": "trade",
-    "title": "v5 first cycle — 3 new positions",
+    "title": "v5 first cycle \u2014 3 new positions",
     "detail": "WTI T115 YES 10@75c (oil-desk), CPI Apr T0.5 YES 12@48c (cpi-desk), CPI Mar T1.1 YES 30@6c lottery (cpi-desk)."
   },
   {
@@ -116,134 +116,134 @@
   {
     "timestamp": "2026-03-19T12:26:00Z",
     "type": "trade",
-    "title": "Lottery ticket profit take — CPI T1.1",
+    "title": "Lottery ticket profit take \u2014 CPI T1.1",
     "detail": "Sold 15 of 30 CPI Mar T1.1 YES @17c (bought @6c). Realized +$1.65. Holding 15."
   },
   {
     "timestamp": "2026-03-19T07:00:00Z",
     "type": "macro",
-    "title": "Oil surges — ME energy facility attacks",
+    "title": "Oil surges \u2014 ME energy facility attacks",
     "detail": "Brent $108.50 (+5%), WTI $98.91 (+2.8%). Attacks on Middle East energy infrastructure. WTI only $16 from our T115 strike. All 5 positions aligned with oil-inflation thesis."
   },
   {
     "timestamp": "2026-03-20T17:30:00Z",
     "type": "macro",
     "title": "WTI pullback on de-escalation signals",
-    "detail": "WTI $93.55 (from $98). Israel pledged no more oil facility strikes. Bearish triangle forming. GOVTCUTS YES crashed to 7c (our NO best performer). Hormuz still disrupted — 10M bpd off."
+    "detail": "WTI $93.55 (from $98). Israel pledged no more oil facility strikes. Bearish triangle forming. GOVTCUTS YES crashed to 7c (our NO best performer). Hormuz still disrupted \u2014 10M bpd off."
   },
   {
     "timestamp": "2026-03-21T03:00:00Z",
     "type": "macro",
-    "title": "Oil re-escalation — Iraq force majeure, Kuwait struck",
+    "title": "Oil re-escalation \u2014 Iraq force majeure, Kuwait struck",
     "detail": "WTI $98.32 (+2.3%), Brent $112.19. Iraq force majeure at all foreign oilfields. Kuwait refineries hit by drones. 8M bpd global supply contraction (IEA). Analysts estimate March CPI 0.9% MoM."
   },
   {
     "timestamp": "2026-03-21T04:00:00Z",
     "type": "macro",
-    "title": "Israel strikes South Pars — Iran retaliates on Gulf energy",
-    "detail": "Israel bombed South Pars gas field. Iran zero-restraint retaliation — Kuwait Mina Al-Ahmadi (largest refinery) hit. Oil spiked $112 then pulled to $109. IEA: months/years to restore ME oil/gas flows."
+    "title": "Israel strikes South Pars \u2014 Iran retaliates on Gulf energy",
+    "detail": "Israel bombed South Pars gas field. Iran zero-restraint retaliation \u2014 Kuwait Mina Al-Ahmadi (largest refinery) hit. Oil spiked $112 then pulled to $109. IEA: months/years to restore ME oil/gas flows."
   },
   {
     "timestamp": "2026-03-21T05:00:00Z",
     "type": "macro",
-    "title": "Qatar gas facilities $20B damage — food inflation risk",
-    "detail": "17% global LNG capacity lost, 5yr repair estimate. Fertilizer prices soaring → spring planting disruption → food inflation on top of energy. Gas $3.89/gal (+90c from pre-war). New CPI risk factor beyond energy."
+    "title": "Qatar gas facilities $20B damage \u2014 food inflation risk",
+    "detail": "17% global LNG capacity lost, 5yr repair estimate. Fertilizer prices soaring \u2192 spring planting disruption \u2192 food inflation on top of energy. Gas $3.89/gal (+90c from pre-war). New CPI risk factor beyond energy."
   },
   {
     "timestamp": "2026-03-21T10:00:00Z",
     "type": "milestone",
-    "title": "Portfolio stabilized at $121 — 5 positions, all thesis-aligned",
+    "title": "Portfolio stabilized at $121 \u2014 5 positions, all thesis-aligned",
     "detail": "Cash $86.37 + portfolio $35.03 = $121.40. GDP NO +$5.36, GOVTCUTS NO +$6.40 (best performers). CPI-Apr YES +$1.56. WTI T115 -$0.60. CPI-Mar T1.1 free ride. Drawdown -39.3%."
   },
   {
     "timestamp": "2026-03-21T18:00:00Z",
     "type": "macro",
     "title": "CPI-Apr T0.5 bid surges +10c over weekend to 71c",
-    "detail": "CPI-Apr T0.5 YES bid moved 61c (Sat AM) → 71c (Sun evening), +10c weekend repricing. Our entry 48c → +48% at bid. Gas +26.9% MoM (largest since Katrina), diesel driving broad goods inflation. Market absorbing oil-shock CPI narrative."
+    "detail": "CPI-Apr T0.5 YES bid moved 61c (Sat AM) \u2192 71c (Sun evening), +10c weekend repricing. Our entry 48c \u2192 +48% at bid. Gas +26.9% MoM (largest since Katrina), diesel driving broad goods inflation. Market absorbing oil-shock CPI narrative."
   },
   {
     "timestamp": "2026-03-22T06:00:00Z",
     "type": "macro",
-    "title": "WTI T115 surges +9c to 74c bid, last 77c — above entry",
-    "detail": "WTI T115 YES bid moved 65c (Fri) → 74c (Mon AM), +9c over weekend. Last traded 77c vs 75c entry = now profitable. WTI spot $97.36, $18 from $115 strike with 9mo left. Iraq force majeure + Kuwait attacks + Hormuz closure driving structural supply loss."
+    "title": "WTI T115 surges +9c to 74c bid, last 77c \u2014 above entry",
+    "detail": "WTI T115 YES bid moved 65c (Fri) \u2192 74c (Mon AM), +9c over weekend. Last traded 77c vs 75c entry = now profitable. WTI spot $97.36, $18 from $115 strike with 9mo left. Iraq force majeure + Kuwait attacks + Hormuz closure driving structural supply loss."
   },
   {
     "timestamp": "2026-03-23T00:00:00Z",
     "type": "macro",
-    "title": "Trump 48hr ultimatum to Iran — reopen Hormuz or power plants bombed",
-    "detail": "Trump demanded Iran fully reopen Strait of Hormuz within 48 hours or face bombing of power plants. Iran threatened to attack key ME infrastructure in retaliation. Iran struck near Dimona (Israel's nuclear center) — first time in war. WTI ~$98, Brent ~$112. Binary escalation event for all positions."
+    "title": "Trump 48hr ultimatum to Iran \u2014 reopen Hormuz or power plants bombed",
+    "detail": "Trump demanded Iran fully reopen Strait of Hormuz within 48 hours or face bombing of power plants. Iran threatened to attack key ME infrastructure in retaliation. Iran struck near Dimona (Israel's nuclear center) \u2014 first time in war. WTI ~$98, Brent ~$112. Binary escalation event for all positions."
   },
   {
     "timestamp": "2026-03-23T11:00:00Z",
     "type": "crash",
-    "title": "CPI-Apr T0.5 liquidity crisis — spread blows to 81c, last 63c",
+    "title": "CPI-Apr T0.5 liquidity crisis \u2014 spread blows to 81c, last 63c",
     "detail": "CPI-Apr T0.5 YES spread blew out to 11c/92c (81c wide). Last traded 63c (was 76c = -13c drop). Market book empty ahead of Trump Hormuz ultimatum deadline (7:44PM ET tonight). All MMs pulled bids. IEA warns crisis worse than 1970s oil shocks."
   },
   {
     "timestamp": "2026-03-23T15:00:00Z",
     "type": "macro",
-    "title": "Trump postpones Hormuz ultimatum 5 days — oil drops 6.2%",
-    "detail": "Trump delayed strikes citing 'productive talks' with Tehran. WTI and Brent both dropped 6.2%. Iran denies any talks, claims Trump 'retreated out of fear.' Stocks surging. WTI T115 bid dropped 75c→66c over 2 days. 5-day delay not resolution — risk remains."
+    "title": "Trump postpones Hormuz ultimatum 5 days \u2014 oil drops 6.2%",
+    "detail": "Trump delayed strikes citing 'productive talks' with Tehran. WTI and Brent both dropped 6.2%. Iran denies any talks, claims Trump 'retreated out of fear.' Stocks surging. WTI T115 bid dropped 75c\u219266c over 2 days. 5-day delay not resolution \u2014 risk remains."
   },
   {
     "timestamp": "2026-03-24T02:00:00Z",
     "type": "macro",
-    "title": "CPI-Apr T0.5 last traded 70c — recovering from liquidity crisis",
-    "detail": "CPI-Apr T0.5 YES last traded 70c (was 60c = +10c). Bid still illiquid at 27c but real value confirmed around 70c. MMs slowly returning post-postponement. Entry 48c → +46% on last trade. GDP NO hit 68c ATH."
+    "title": "CPI-Apr T0.5 last traded 70c \u2014 recovering from liquidity crisis",
+    "detail": "CPI-Apr T0.5 YES last traded 70c (was 60c = +10c). Bid still illiquid at 27c but real value confirmed around 70c. MMs slowly returning post-postponement. Entry 48c \u2192 +46% on last trade. GDP NO hit 68c ATH."
   },
   {
     "timestamp": "2026-03-24T19:00:00Z",
     "type": "macro",
-    "title": "CPI-Apr T0.5 bid recovers +12c to 41c — liquidity crisis over",
-    "detail": "CPI-Apr T0.5 YES bid jumped 29c→41c (+12c). Spread narrowed to 19c (41/60c) from 81c peak crisis. MMs fully returned post-Trump postponement. Last trade 69c. Entry 48c. Bid still below entry but real value ~69c confirmed."
+    "title": "CPI-Apr T0.5 bid recovers +12c to 41c \u2014 liquidity crisis over",
+    "detail": "CPI-Apr T0.5 YES bid jumped 29c\u219241c (+12c). Spread narrowed to 19c (41/60c) from 81c peak crisis. MMs fully returned post-Trump postponement. Last trade 69c. Entry 48c. Bid still below entry but real value ~69c confirmed."
   },
   {
     "timestamp": "2026-03-24T21:00:00Z",
     "type": "macro",
-    "title": "WTI T115 bid drops 10c to 57c — oil crashed 10% on postponement",
-    "detail": "WTI T115 YES bid dropped 67c→57c (-10c). WTI spot crashed 10.28% to $88.13 Mon, recovering +2.5% to $90 Tue. Trump 5-day pause driving de-escalation pricing. Iran denies talks. Hormuz still closed. Entry 75c → -$1.80 unrealized. 9mo timeframe."
+    "title": "WTI T115 bid drops 10c to 57c \u2014 oil crashed 10% on postponement",
+    "detail": "WTI T115 YES bid dropped 67c\u219257c (-10c). WTI spot crashed 10.28% to $88.13 Mon, recovering +2.5% to $90 Tue. Trump 5-day pause driving de-escalation pricing. Iran denies talks. Hormuz still closed. Entry 75c \u2192 -$1.80 unrealized. 9mo timeframe."
   },
   {
     "timestamp": "2026-03-25T14:00:00Z",
     "type": "macro",
-    "title": "CPI-Apr T0.5 last crashes 69c→49c (-20c) — de-escalation repricing",
-    "detail": "CPI-Apr T0.5 YES last traded 49c (was 69c = -20c). Tight 4c spread (44/48c) confirms real repricing not illiquidity. Oil de-escalation (Trump 5-day pause, 15-point plan) driving market to price cooler CPI. Entry 48c → now at bid 44c (-8%). CPI-Mar T1.1 also fading to 4c."
+    "title": "CPI-Apr T0.5 last crashes 69c\u219249c (-20c) \u2014 de-escalation repricing",
+    "detail": "CPI-Apr T0.5 YES last traded 49c (was 69c = -20c). Tight 4c spread (44/48c) confirms real repricing not illiquidity. Oil de-escalation (Trump 5-day pause, 15-point plan) driving market to price cooler CPI. Entry 48c \u2192 now at bid 44c (-8%). CPI-Mar T1.1 also fading to 4c."
   },
   {
     "timestamp": "2026-03-25T18:00:00Z",
     "type": "macro",
-    "title": "Iran rejects Trump 15-point plan — demands Hormuz sovereignty",
+    "title": "Iran rejects Trump 15-point plan \u2014 demands Hormuz sovereignty",
     "detail": "Iran called US proposal 'maximalist, unreasonable.' Issued 5-point counteroffer: halt killings of officials, reparations, no future wars, end hostilities, Iran sovereignty over Hormuz + toll collection (Suez model). Quick resolution unlikely. 5-day pause expires ~Mar 28. WTI recovering to $92, Brent $104."
   },
   {
     "timestamp": "2026-03-26T20:00:00Z",
     "type": "macro",
-    "title": "Trump extends Hormuz deadline to April 6 — 9 more days",
-    "detail": "Trump extended power plant strike deadline from Mar 28 to Mon Apr 6 at 8PM ET, citing ongoing talks. Israel struck Isfahan Thu, Iran fired missiles at central Israel — war continues during pause. GDP NO hit 70c (new ATH). Pause only covers US strikes on power plants, not broader military ops."
+    "title": "Trump extends Hormuz deadline to April 6 \u2014 9 more days",
+    "detail": "Trump extended power plant strike deadline from Mar 28 to Mon Apr 6 at 8PM ET, citing ongoing talks. Israel struck Isfahan Thu, Iran fired missiles at central Israel \u2014 war continues during pause. GDP NO hit 70c (new ATH). Pause only covers US strikes on power plants, not broader military ops."
   },
   {
     "timestamp": "2026-03-27T00:00:00Z",
     "type": "macro",
-    "title": "CPI-Apr T0.5 bid surges +18c to 63c — inflation re-pricing",
-    "detail": "CPI-Apr T0.5 YES bid jumped 45c→63c (+18c in one cycle). Entry 48c → +31% at bid. Market re-pricing hot CPI despite pause extension — gas at $3.91 already baked into March data, April CPI >0.5% increasingly certain. GDP NO steady at 70c ATH."
+    "title": "CPI-Apr T0.5 bid surges +18c to 63c \u2014 inflation re-pricing",
+    "detail": "CPI-Apr T0.5 YES bid jumped 45c\u219263c (+18c in one cycle). Entry 48c \u2192 +31% at bid. Market re-pricing hot CPI despite pause extension \u2014 gas at $3.91 already baked into March data, April CPI >0.5% increasingly certain. GDP NO steady at 70c ATH."
   },
   {
     "timestamp": "2026-03-27T06:00:00Z",
     "type": "macro",
-    "title": "CPI-Apr T0.5 last trades at 96c (+23c) — near-certainty",
+    "title": "CPI-Apr T0.5 last trades at 96c (+23c) \u2014 near-certainty",
     "detail": "CPI-Apr T0.5 YES last traded 96c (was 73c = +23c). NO bid 3c. Market pricing April CPI >0.5% as near-certain. Our 12 contracts at 48c entry = +100% unrealized gain. Thin weekend liquidity but NO bid confirms real repricing."
   },
   {
     "timestamp": "2026-03-28T00:00:00Z",
     "type": "macro",
-    "title": "CPI-Apr normalizes 97→55c; WTI surges +9c to 67c bid",
-    "detail": "CPI-Apr T0.5 last 55c (was 97c — anomalous thin-liquidity trade normalized). Bid returned at 47c (near 48c entry). WTI T115 bid surged 58→67c (+9c). Both markets repricing as MMs return to normal weekend. Real CPI-Apr value settling ~47-55c."
+    "title": "CPI-Apr normalizes 97\u219255c; WTI surges +9c to 67c bid",
+    "detail": "CPI-Apr T0.5 last 55c (was 97c \u2014 anomalous thin-liquidity trade normalized). Bid returned at 47c (near 48c entry). WTI T115 bid surged 58\u219267c (+9c). Both markets repricing as MMs return to normal weekend. Real CPI-Apr value settling ~47-55c."
   },
   {
     "timestamp": "2026-03-28T04:00:00Z",
     "type": "macro",
-    "title": "GDP NO bid -11c to 59c — weekend spread; GDPNow drops to 2.0%",
-    "detail": "GDP T3.0 NO bid dropped 70→59c (-11c). Likely weekend spread widening (YES bid 29→35c, spread 1c→6c both sides). GDPNow dropped to 2.0% on Mar 23 (from 2.3%) — thesis even stronger but market illiquid. WTI last 77.7c (above 75c entry)."
+    "title": "GDP NO bid -11c to 59c \u2014 weekend spread; GDPNow drops to 2.0%",
+    "detail": "GDP T3.0 NO bid dropped 70\u219259c (-11c). Likely weekend spread widening (YES bid 29\u219235c, spread 1c\u21926c both sides). GDPNow dropped to 2.0% on Mar 23 (from 2.3%) \u2014 thesis even stronger but market illiquid. WTI last 77.7c (above 75c entry)."
   },
   {
     "timestamp": "2026-03-30T18:00:00Z",
@@ -254,25 +254,37 @@
   {
     "timestamp": "2026-03-31T18:03:00Z",
     "type": "trade",
-    "title": "v6 first cycle — 4 new trades from parallel research desks",
+    "title": "v6 first cycle \u2014 4 new trades from parallel research desks",
     "detail": "4 research agents (oil/cpi/macro/opps) ran in parallel. Executed: WTI T120 YES 10@75c, WTI T140 YES 8@49c, GDP T2.5 NO 15@50c, Recession YES 10@34c. Total deployed $22.21. Portfolio now 9 positions. First trades in 3 weeks."
   },
   {
     "timestamp": "2026-03-31T18:03:00Z",
     "type": "org",
-    "title": "v6 org launched — research-driven firm with 4 parallel desks",
-    "detail": "Upgraded from solo operator to 4 parallel research desks (oil/cpi/macro/opportunity). Position limit 5→15. Drawdown 20%→35%. Exposure 60%→75%. First full research cycle produced 4 actionable trades from convergent thesis across desks."
+    "title": "v6 org launched \u2014 research-driven firm with 4 parallel desks",
+    "detail": "Upgraded from solo operator to 4 parallel research desks (oil/cpi/macro/opportunity). Position limit 5\u219215. Drawdown 20%\u219235%. Exposure 60%\u219275%. First full research cycle produced 4 actionable trades from convergent thesis across desks."
   },
   {
     "timestamp": "2026-03-31T19:48:00Z",
     "type": "crash",
-    "title": "WTI T115 bid drops 12c to 70c — single seller in thin market",
-    "detail": "WTI T115 YES bid crashed 82→70c (-12c). Spread blew to 14c (70/84c). Last traded 70.4c. Likely single seller dumping into thin bid near market close. Ask still 84c. Entry 75c → now underwater at bid. Not selling — spread noise, 9mo left."
+    "title": "WTI T115 bid drops 12c to 70c \u2014 single seller in thin market",
+    "detail": "WTI T115 YES bid crashed 82\u219270c (-12c). Spread blew to 14c (70/84c). Last traded 70.4c. Likely single seller dumping into thin bid near market close. Ask still 84c. Entry 75c \u2192 now underwater at bid. Not selling \u2014 spread noise, 9mo left."
   },
   {
     "timestamp": "2026-04-01T04:57:00Z",
     "type": "crash",
-    "title": "WTI T115 bid crashes again to 58c (-18c) — overnight seller",
-    "detail": "WTI T115 YES bid crashed 76→58c (-18c). Spread blew to 25c (58/83c). Last 56.1c. Second overnight crash in same session — same pattern of thin-liquidity seller. Ask stable at 83c. Recurring pattern: bid recovers once normal volume returns."
+    "title": "WTI T115 bid crashes again to 58c (-18c) \u2014 overnight seller",
+    "detail": "WTI T115 YES bid crashed 76\u219258c (-18c). Spread blew to 25c (58/83c). Last 56.1c. Second overnight crash in same session \u2014 same pattern of thin-liquidity seller. Ask stable at 83c. Recurring pattern: bid recovers once normal volume returns."
+  },
+  {
+    "timestamp": "2026-04-01T16:50:00Z",
+    "type": "trade",
+    "title": "v7 first cycle \u2014 NEW SECTOR: Payrolls + WTI T130",
+    "detail": "13 parallel agents (3 core + 10 scouts). Discovered PAYROLLS markets \u2014 2 scouts converged independently. Executed: KXPAYROLLS-26MAR-T100000 YES 10@29c (NFP consensus 135K vs 27% implied) + KXWTIMAX-T130 YES 5@54c. 6 scouts found zero-liquidity sectors (crypto/weather/sports/housing/fed). 11 positions now."
+  },
+  {
+    "timestamp": "2026-04-01T16:50:00Z",
+    "type": "org",
+    "title": "v7 launched \u2014 13 parallel researchers, horizontal scale",
+    "detail": "3 core desks + 10 opportunity scouts. First cycle: 12/13 completed in ~3 min. Scouts mapped Kalshi liquidity landscape: only macro/oil/payrolls have active books. Crypto/weather/sports/housing/fed all dead. Information surface area 10x vs v6."
   }
 ]
