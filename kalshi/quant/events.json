@@ -268,5 +268,11 @@
     "type": "crash",
     "title": "WTI T115 bid drops 12c to 70c — single seller in thin market",
     "detail": "WTI T115 YES bid crashed 82→70c (-12c). Spread blew to 14c (70/84c). Last traded 70.4c. Likely single seller dumping into thin bid near market close. Ask still 84c. Entry 75c → now underwater at bid. Not selling — spread noise, 9mo left."
+  },
+  {
+    "timestamp": "2026-04-01T04:57:00Z",
+    "type": "crash",
+    "title": "WTI T115 bid crashes again to 58c (-18c) — overnight seller",
+    "detail": "WTI T115 YES bid crashed 76→58c (-18c). Spread blew to 25c (58/83c). Last 56.1c. Second overnight crash in same session — same pattern of thin-liquidity seller. Ask stable at 83c. Recurring pattern: bid recovers once normal volume returns."
   }
 ]
