@@ -529,3 +529,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-03-31T21:46:56Z,119.46,9,+10.86,"v6 fast cycle. WTI T115 bid -12c to 70c (seller dump, spread 14c). GDP T2.5 NO 51c (+2c). CPI-Apr 60c. HOLD all 9."
 2026-03-31T22:46:16Z,122.89,9,+14.29,"v6 fast cycle. WTI T115 recovered — last 85.6c (crash reversed). T120 last 81c. CPI-Apr 64c. HOLD all 9."
 2026-03-31T23:46:28Z,121.30,9,+12.70,"v6 fast cycle evening. WTI T115 bid 76c (+5c recovery). GDP T2.5 spread 0.1c. CPI-Apr 60c. HOLD all 9."
+2026-04-01T00:46:21Z,121.43,9,+12.83,"v6 fast cycle night. All ±3c. WTI T115 ask tightening. HOLD all 9."

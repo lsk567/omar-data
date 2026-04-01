@@ -346,3 +346,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-03-31T21:46:56Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v6 fast cycle — $119.46. WTI T115 bid crashed 82→70c (-12c, single seller, ask still 84c). GDP T2.5 NO 51c (+2c). WTI T140 47c (+4c recovery). CPI-Apr 60c. HOLD all 9."
 2026-03-31T22:46:16Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v6 fast cycle — $122.89 (+$3.43). WTI T115 last 85.6c (crash fully reversed from 70c). T120 last 81c. CPI-Apr last 64c. GDP NO 68c. HOLD all 9."
 2026-03-31T23:46:28Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v6 fast cycle evening — $121.30. WTI T115 bid 76c (+5c). T120 67c. T140 45c. GDP T2.5 48c (tight spread). CPI-Apr 60c. HOLD all 9."
+2026-04-01T00:46:21Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v6 fast cycle night — $121.43. All within ±3c. HOLD all 9."
