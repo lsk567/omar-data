@@ -539,3 +539,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-04-01T07:46:26Z,123.13,9,+14.53,"v6 fast overnight. WTI T115 recovered 58→77c. T120 74c. CPI-Apr 60c. HOLD all 9."
 2026-04-01T08:46:43Z,121.72,9,+13.12,"v6 fast overnight. WTI T115 71c (-6c drift). T120 73c. CPI-Apr 61c. HOLD all 9."
 2026-04-01T09:46:23Z,121.82,9,+13.22,"v6 fast overnight. CPI-Apr bid 66c (+5c, 1c spread). WTI T115 78c (+7c). HOLD all 9."
+2026-04-01T10:46:13Z,122.33,9,+13.73,"v6 fast pre-market. WTI T120 last 75c (=entry). CPI-Apr 66c. All ±2c. HOLD all 9."
