@@ -71,5 +71,18 @@
     },
     "color": "rgba(21,101,192,0.12)",
     "border_color": "#1565C0"
+  },
+  {
+    "version": "v7",
+    "label": { "en": "Horizontal Scale", "zh": "水平扩展" },
+    "date": "2026-04-01T16:00:00Z",
+    "agents_persistent": 0,
+    "agents_per_cycle": 15,
+    "summary": {
+      "en": "3 core desks + 10 opportunity scouts in parallel. 13 researchers per full cycle. Horizontal scale for thesis discovery.",
+      "zh": "3 个核心研究组 + 10 个机会侦察员并行。每轮完整周期 13 个研究员。水平扩展发现交易论题。"
+    },
+    "color": "rgba(130,119,23,0.12)",
+    "border_color": "#827717"
   }
 ]

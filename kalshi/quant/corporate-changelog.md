@@ -218,3 +218,32 @@ Root causes:
 - **Full cycles required 2x/day minimum during market hours**
 
 **Expected improvement:** Active thesis generation instead of passive monitoring. New positions in sectors we haven't explored. Diversified portfolio instead of concentrated in 5 war-correlated bets.
+
+---
+
+## v7: Horizontal Scale (2026-04-01)
+
+**Structure:** 3 core desks + 10 opportunity scouts = 13 parallel researchers per full cycle.
+
+**Core Desks (same as v6):**
+- oil-desk, cpi-desk, macro-desk
+
+**Opportunity Scouts (NEW — 10 narrow-scope agents):**
+- qf-opps-fed — Fed rate markets
+- qf-opps-labor — Jobs, unemployment
+- qf-opps-housing — Housing, shelter
+- qf-opps-politics — Elections, policy, tariffs
+- qf-opps-sp500 — S&P 500, indices
+- qf-opps-weather — Weather markets
+- qf-opps-crypto — Bitcoin, crypto
+- qf-opps-sports — Sports with data edge
+- qf-opps-global — Geopolitical, trade
+- qf-opps-calendar — This week's econ releases
+
+**Why the change:**
+
+v6's single qf-opps agent failed twice — timed out scanning 9,280 Kalshi series. The scope was right but the execution model was wrong. One agent can't search everything in 3 minutes.
+
+Solution: horizontal scale. 10 scouts with narrow scope each finish fast and return focused findings. 10 agents × 2 ideas = 20 new thesis candidates vs 0 from v6's single agent.
+
+**Key insight:** Agent count is cheap. Information surface area is the bottleneck. More narrow-scope agents > fewer broad-scope agents.
