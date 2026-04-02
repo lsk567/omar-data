@@ -1,0 +1,88 @@
+{
+  "timestamp": "2026-04-02T06:05:10.309109+00:00",
+  "cash": 57.62,
+  "portfolio_value": 64.68,
+  "total": 122.3,
+  "positions": [
+    {
+      "ticker": "KXPAYROLLS-26MAR-T100000",
+      "quantity": 10,
+      "exposure": 2.9,
+      "cost": 2.9,
+      "realized_pnl": 0.0
+    },
+    {
+      "ticker": "KXWTIMAX-26DEC31-T115",
+      "quantity": 10,
+      "exposure": 7.5,
+      "cost": 7.5,
+      "realized_pnl": 0.0
+    },
+    {
+      "ticker": "KXWTIMAX-26DEC31-T140",
+      "quantity": 8,
+      "exposure": 3.848,
+      "cost": 3.848,
+      "realized_pnl": 0.0
+    },
+    {
+      "ticker": "KXWTIMAX-26DEC31-T130",
+      "quantity": 5,
+      "exposure": 2.7,
+      "cost": 2.7,
+      "realized_pnl": 0.0
+    },
+    {
+      "ticker": "KXWTIMAX-26DEC31-T120",
+      "quantity": 10,
+      "exposure": 7.449,
+      "cost": 7.449,
+      "realized_pnl": 0.0
+    },
+    {
+      "ticker": "KXRECSSNBER-26",
+      "quantity": 10,
+      "exposure": 3.4,
+      "cost": 3.4,
+      "realized_pnl": 0.0
+    },
+    {
+      "ticker": "KXGDP-26APR30-T2.5",
+      "quantity": -15,
+      "exposure": 7.5,
+      "cost": 7.5,
+      "realized_pnl": 0.0
+    },
+    {
+      "ticker": "KXGDP-26APR30-T3.0",
+      "quantity": -16,
+      "exposure": 11.76,
+      "cost": 11.76,
+      "realized_pnl": 0.0
+    },
+    {
+      "ticker": "KXCPI-26MAR-T1.1",
+      "quantity": 15,
+      "exposure": 0.9,
+      "cost": 14.25,
+      "realized_pnl": 1.65
+    },
+    {
+      "ticker": "KXCPI-26APR-T0.5",
+      "quantity": 12,
+      "exposure": 5.76,
+      "cost": 5.76,
+      "realized_pnl": 0.0
+    },
+    {
+      "ticker": "KXGOVTCUTS-28-250",
+      "quantity": -10,
+      "exposure": 7.5,
+      "cost": 7.5,
+      "realized_pnl": 0.0
+    }
+  ],
+  "org_version": "v7",
+  "cycle_type": "full",
+  "notes": "13 agents spawned (3 claude + 10 codex). 2 claude desks reported. Codex scouts stuck at init. No trades."
+}
