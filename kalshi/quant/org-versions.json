@@ -84,5 +84,19 @@
     },
     "color": "rgba(130,119,23,0.12)",
     "border_color": "#827717"
+  },
+  {
+    "version": "v8",
+    "label": { "en": "Hybrid: Bots + Agents", "zh": "混合：机器人+智能体" },
+    "date": "2026-04-02T18:00:00Z",
+    "agents_persistent": 0,
+    "agents_per_cycle": 2,
+    "bots": 2,
+    "summary": {
+      "en": "Weather + econ bots auto-trade known strategies. 2 agent desks (oil/macro) for judgment calls. Quant scouts (2-3/day) develop new strategies. Codex scouts eliminated.",
+      "zh": "天气+经济机器人自动执行已知策略。2个智能体研究组（石油/宏观）处理需判断的仓位。量化侦察员（每天2-3个）开发新策略。Codex侦察员已淘汰。"
+    },
+    "color": "rgba(0,77,64,0.12)",
+    "border_color": "#004D40"
   }
 ]
