@@ -374,3 +374,4 @@ timestamp,team,market,direction,quantity,price,rationale
 2026-04-01T23:46:18Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v7 fast overnight — $119.91. All ±2c. HOLD all 11."
 2026-04-02T00:46:20Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v7 fast overnight — $119.26. Recession 30c (+2c recovering). WTI T130 44c (-5c). GDP NO 71c. HOLD all 11."
 2026-04-02T01:46:21Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v7 fast overnight — $121.96 (+$2.70). WTI T115 73c. T120 last 77.8c (+10c). Recession 33c (+3c). GDP NO 71c. CPI-Apr 67c. All trending up overnight. HOLD all 11."
+2026-04-02T02:46:18Z,quant-firm,CYCLE-LOG,HOLD,0,0,"v7 fast midnight — $121.62. WTI T120 bid 70c (+3.5c). T115 74c. Recession 31c. Payrolls 24c. HOLD all 11."
