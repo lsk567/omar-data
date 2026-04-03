@@ -593,10 +593,10 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-04-02T05:05:25Z,255.63,20,+55.63,"TRADING CYCLE #274 (baseline-trader). $255.63 (+27.8%). WTI T110 ask +6c. CPI-Mar T0.9 ask -3c. NO TRADES — HOLD all 20."
 2026-04-02T19:24:19Z,259.88,20,+59.88,"Snapshot Apr 2. Baseline $259.88 (+29.9%). 20 positions. Cash $127.14, portfolio $132.74."
 2026-04-03T06:10:00Z,263.20,20,+63.20,"Data fix: API refresh. Cash $127.14 + positions $136.06. 20 active market positions."
-2026-04-03 07:21:29,127.14,136.30,263.44,98.91,118.91,15.00,3.39,20,4,"Cycle 18: No trades. $263.44 stable. New day Apr 3. Hold."
-2026-04-03 08:21:34,127.14,136.64,263.78,98.91,118.91,15.00,3.39,20,4,"Cycle 19: No trades. $263.78 flat. Hold."
-2026-04-03 09:21:31,127.14,136.42,263.56,98.91,118.91,15.00,3.39,20,4,"Cycle 20: No trades. $263.56 flat. Hold."
-2026-04-03 10:21:35,127.14,137.56,264.70,98.91,118.91,15.00,3.39,20,4,"Cycle 21: No trades. $264.70 (+1.14). GDP T2.5 bid 0.39 (NO gaining). Hold."
-2026-04-03 11:21:38,127.14,135.48,262.62,98.91,118.91,15.00,3.39,20,4,"Cycle 22: No trades. $262.62. CPI T0.9 bid up 0.37. Hold."
-2026-04-03 12:21:54,127.14,135.22,262.36,98.91,118.91,15.00,3.39,20,4,"Cycle 23: NFP day. No trades. $262.36. Recession bid down 0.31->0.29. Apr CPI T0.8 down 0.32->0.27. Mar CPI T0.9 up 0.37. Pre-NFP positioning. Hold."
-2026-04-03 13:21:39,127.14,136.85,263.99,98.91,118.91,15.00,3.39,20,4,"Cycle 24: Post-NFP. $263.99. Recession bid down 0.28. CPI-MAR T0.9 last 0.39. GDP T2.0 bid up 0.61. Stocks closed Good Friday. No trades. Hold."
+2026-04-03T07:21:29Z,263.44,20,+63.44,Cycle 18: No trades. $263.44 stable. New day Apr 3. Hold.
+2026-04-03T08:21:34Z,263.78,20,+63.78,Cycle 19: No trades. $263.78 flat. Hold.
+2026-04-03T09:21:31Z,263.56,20,+63.56,Cycle 20: No trades. $263.56 flat. Hold.
+2026-04-03T10:21:35Z,264.70,20,+64.70,Cycle 21: No trades. $264.70 (+1.14). GDP T2.5 bid 0.39 (NO gaining). Hold.
+2026-04-03T11:21:38Z,262.62,20,+62.62,Cycle 22: No trades. $262.62. CPI T0.9 bid up 0.37. Hold.
+2026-04-03T12:21:54Z,262.36,20,+62.36,Cycle 23: NFP day. No trades. $262.36. Recession bid down 0.31->0.29. Apr CPI T0.8 down 0.32->0.27. Mar CPI T0.9 up 0.37. Pre-NFP positioning. Hold.
+2026-04-03T13:21:39Z,263.99,20,+63.99,Cycle 24: Post-NFP. $263.99. Recession bid down 0.28. CPI-MAR T0.9 last 0.39. GDP T2.0 bid up 0.61. Stocks closed Good Friday. No trades. Hold.
