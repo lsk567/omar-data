@@ -588,3 +588,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-04-03T18:05:00Z,152.68,18,+24.08,v8 cycle #23 Good Friday PM. CPI-Apr 70c (+46%). Scout reports delivered. Weather bot stdev fix attempted (scout stuck). HOLD all 18.
 2026-04-03T19:05:00Z,152.36,18,+23.76,v8 cycle #24. DEPLOYED weather bot stdev fix (city-specific + 95% cap). All flat. HOLD 18.
 2026-04-03T19:23:00Z,151.88,18,-48.12,Daily monitor snapshot - 20 Apr 03
+2026-04-03T20:23:00Z,149.67,21,21.07,v8 cycle #25 Good Friday. GDP T2.5 32c (-10c; our NO gaining). Oil flat. 21 positions. Hormuz Monday.
