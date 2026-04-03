@@ -608,3 +608,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-04-03T19:03:00Z,265.59,19,50.59,No trades. CPI T0.8 bid 0.68. GDP T2.0 recovering. Recession bid 0.30.
 2026-04-03T19:23:00Z,265.68,20,+65.68,Daily monitor snapshot - 20 Apr 03
 2026-04-03T20:04:00Z,264.68,19,49.68,No trades. Stable. Hold.
+2026-04-03T21:12:00Z,265.08,20,50.08,Fed T3.50 YES filled @0.25! Both Fed bets active. 20 positions.
