@@ -586,3 +586,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-04-03T16:04:00Z,145.01,15,+16.41,v8 cycle #21 Good Friday evening. All flat. Hormuz Monday. HOLD all 15.
 2026-04-03T17:05:00Z,149.87,17,+21.27,v8 cycle #22 Good Friday PM. Bot added MIA positions. All flat. HOLD 17. Hormuz Monday.
 2026-04-03T18:05:00Z,152.68,18,+24.08,v8 cycle #23 Good Friday PM. CPI-Apr 70c (+46%). Scout reports delivered. Weather bot stdev fix attempted (scout stuck). HOLD all 18.
+2026-04-03T19:05:00Z,152.36,18,+23.76,v8 cycle #24. DEPLOYED weather bot stdev fix (city-specific + 95% cap). All flat. HOLD 18.
