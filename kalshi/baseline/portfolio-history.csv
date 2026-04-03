@@ -604,3 +604,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-04-03T15:04:00Z,264.90,19,49.90,WTI T110+T105 settled YES (+$8.05). Fed T3.25 YES filled @0.38. Recession dropping. 3 resting orders.
 2026-04-03T16:04:00Z,264.58,19,49.58,No trades. CPI T0.8 bid up 0.66. Stable post-NFP/settlements.
 2026-04-03T17:03:00Z,264.48,19,49.48,CPI T0.8 bid surged to 0.70. No trades. Hold.
+2026-04-03T18:03:00Z,264.27,19,49.27,No trades. CPI T0.8 bid 0.64. Stable.
