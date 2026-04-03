@@ -1,0 +1,39 @@
+📊 *Kalshi Head-to-Head Report* — Apr 02, 2026 19:24 UTC
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+*Baseline (Claude Intuition)*
+  💰 Cash: $127.14 | Portfolio: $132.74
+  💵 *Total Value: $259.88*
+  📊 *ROI: +29.9%* (from $200)
+  📋 Realized P&L: $15.00 | Fees: $3.39
+  🎯 Positions: 20 open | 51 fills | 4 settlements
+*Top positions:*
+  • `KXWTIMAX-26DEC31-T105`: 15 YES ($10.65 exposed)
+  • `KXCPI-26MAR-T0.9`: 35 YES ($10.05 exposed)
+  • `KXLCPIMAXYOY-27-P3.5`: 10 YES ($7.80 exposed)
+  • `KXCPI-26APR-T0.3`: 10 YES ($7.30 exposed)
+  • `KXLCPIMAXYOY-27-P4`: 15 YES ($6.90 exposed)
+  _...and 15 more_
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+*Quant Firm (Systematic)*
+  💰 Cash: $52.39 | Portfolio: $69.74
+  💵 *Total Value: $122.13*
+  📊 *ROI: -38.9%* (from $200)
+  📋 Realized P&L: $-0.96 | Fees: $4.52
+  🎯 Positions: 16 open | 126 fills | 5 settlements
+*Top positions:*
+  • `KXGDP-26APR30-T3.0`: 16 NO ($11.76 exposed)
+  • `KXGDP-26APR30-T2.5`: 15 NO ($7.50 exposed)
+  • `KXGOVTCUTS-28-250`: 10 NO ($7.50 exposed)
+  • `KXWTIMAX-26DEC31-T120`: 10 YES ($7.45 exposed)
+  • `KXWTIMAX-26DEC31-T115`: 6 YES ($4.50 exposed, P&L $0.48)
+  _...and 11 more_
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+*⚔️ HEAD-TO-HEAD COMPARISON*
+  🏆 Leader: *Baseline* by $137.75
+  Baseline: +29.9% ROI vs Quant: -38.9% ROI
+  Baseline: 20 positions vs Quant: 16 positions
+  Baseline: $3.39 fees vs Quant: $4.52 fees
+  Drawdown: Baseline $0.00 | Quant $-77.87
