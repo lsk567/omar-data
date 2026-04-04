@@ -346,5 +346,11 @@
     "type": "trade",
     "title": "ADD GDP T2.5 NO on thin-liquidity bounce",
     "detail": "GDP T2.5 YES bounced 32c\u219242c on Good Friday (only $55 at bid, 10c spread). Fair value 25-30c per GDPNow 1.6%. Added 10 NO@48c (resting). KKR cut GDP forecast to 2.0%."
+  },
+  {
+    "timestamp": "2026-04-04T12:00:00Z",
+    "type": "loss",
+    "title": "Apr03 weather settled \u2014 net -$15.04 (3/10 win rate)",
+    "detail": "CHI T60 34 YES was total loss (-$6.84) \u2014 official NWS high was below 60\u00b0F despite 62.6\u00b0F reading at 1AM CDT (counted as Apr 2 carryover). DEN B53.5 NO also lost (-$3.38). Winners: MIA B82.5 NO (+$4.59), NYC B67.5 NO (+$3.92). Revenue $27, cost $40.66, fees $1.38. Lesson: early morning warm readings may not count as next-day official high."
   }
 ]
