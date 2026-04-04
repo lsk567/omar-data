@@ -247,3 +247,43 @@ v6's single qf-opps agent failed twice — timed out scanning 9,280 Kalshi serie
 Solution: horizontal scale. 10 scouts with narrow scope each finish fast and return focused findings. 10 agents × 2 ideas = 20 new thesis candidates vs 0 from v6's single agent.
 
 **Key insight:** Agent count is cheap. Information surface area is the bottleneck. More narrow-scope agents > fewer broad-scope agents.
+
+---
+
+## v8: Hybrid — Bots + Agents (2026-04-02)
+
+**Structure:** Automated bots for known-edge strategies + agent desks for judgment calls.
+
+**Bots (persistent code, run independently):**
+- `bots/weather_bot.py` — NWS 7-day forecast API → normal distribution model → Kalshi weather brackets. Runs 1-2x/day.
+- `bots/econ_bot.py` — Cleveland Fed Nowcast / GDPNow → CPI/GDP brackets (planned).
+
+**Agent Desks (2 Claude agents, spawned per cycle):**
+- qf-oil — WTI yearly max, Hormuz, Iran, supply/demand
+- qf-macro — GDP, recession, Fed policy, tariffs, govt cuts
+
+**Quant Scouts (2-3 Claude agents, 1-2x/day):**
+- Market Scanner — find new Kalshi series with free data sources
+- Strategy Developer — backtest/improve bot parameters
+- Performance Analyst — audit win rates by sector, recommend sizing
+
+**Why the change:**
+
+v7's 10 Codex scouts consistently failed — they couldn't use web search, timed out, or produced zero actionable output. Meanwhile, weather markets had a clear statistical edge from NWS data that didn't need agent judgment at all.
+
+Key realization: **separate known edges from judgment calls**.
+- Weather has a repeatable statistical edge (NWS forecast vs market price). A Python script trades it better than an agent — no emotional sizing, consistent execution, no timeouts.
+- Oil/macro positions need synthesis of geopolitical events, economic data, and market sentiment. Agents handle this well.
+
+**Bot limits (strict, auto-approved):**
+- Max 20 contracts/trade, $15/day, $5/market
+- Min 15% edge (model_prob - market_price - fees)
+- Half-Kelly sizing
+- Trades both YES and NO sides
+
+**Results (first 2 days):**
+- Bot settled 5 weather trades: 3 wins, 2 losses = 60% win rate, 6.9x profit factor, +$27.73 net
+- Bot recalibrated after scout analysis: city-specific stdev (CHI 5.0°F, MIA 2.0°F, NYC 2.5°F, DEN 3.0°F) + 95% model prob cap
+- Agent desks discovered Muscat Protocol, tracked GDP T2.5 movement, executed CPI rotation
+
+**Key insight:** The March 9 catastrophe ($1,600 loss on 1508 weather contracts) happened because agents had no position sizing discipline. Bots with hard limits solve this structurally — the code physically cannot buy more than 20 contracts.
