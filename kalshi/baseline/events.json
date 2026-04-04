@@ -1,0 +1,296 @@
+[
+  {
+    "timestamp": "2026-03-07T08:00:00Z",
+    "type": "trade",
+    "title": "Baseline starts trading",
+    "detail": "First positions: CPI-Feb and CPI-Mar bets."
+  },
+  {
+    "timestamp": "2026-03-08T23:01:00Z",
+    "type": "trade",
+    "title": "Expanded to 7 positions",
+    "detail": "CPI-Feb, CPI-Mar, WTI-Oil contracts. Live API data."
+  },
+  {
+    "timestamp": "2026-03-09T01:02:00Z",
+    "type": "crash",
+    "title": "Pricing glitch — flash crash to $144.70",
+    "detail": "Positions briefly mispriced. Recovered to $219.50 within an hour."
+  },
+  {
+    "timestamp": "2026-03-10T18:13:00Z",
+    "type": "macro",
+    "title": "Oil crash — Trump ends Iran tensions",
+    "detail": "WTI positions tanked. Account dropped to $179.85."
+  },
+  {
+    "timestamp": "2026-03-11T08:14:00Z",
+    "type": "macro",
+    "title": "CPI Feb released — +$33 surge",
+    "detail": "CPI-Feb T0.2 surged to 63c bid. Big move day."
+  },
+  {
+    "timestamp": "2026-03-11T13:39:00Z",
+    "type": "win",
+    "title": "CPI Feb settled — T0.2 YES won",
+    "detail": "CPI >0.2% confirmed. Net CPI gain after fees. T0.3 NO also won."
+  },
+  {
+    "timestamp": "2026-03-14T05:38:00Z",
+    "type": "milestone",
+    "title": "ATH $233.32 (+16.7%)",
+    "detail": "WTI T105 surging to 90-91c. Oil spiking. New all-time high."
+  },
+  {
+    "timestamp": "2026-03-16T19:26:24Z",
+    "type": "trade",
+    "title": "Built CPI March inflation strip",
+    "detail": "Bought 10x T0.8 @50c, 5x T0.9 @38c, 15x limit T0.8 @35c. Thesis: Iran war gas surge pushes March CPI >0.8%."
+  },
+  {
+    "timestamp": "2026-03-17T17:11:00Z",
+    "type": "trade",
+    "title": "Bought CPI T1.2 + T1.3 lottery tickets",
+    "detail": "50x T1.3 YES @1c ($0.50) + 50x T1.2 YES @1c ($0.50). $1 total risk, up to $100 payout if CPI >1.3%."
+  },
+  {
+    "timestamp": "2026-03-18T13:37:00Z",
+    "type": "macro",
+    "title": "Feb PPI released — more than 2x expected",
+    "detail": "PPI came in hot. CPI strip surged post-PPI. T1.1 traded at 37c (was 7c). Thesis confirmed."
+  },
+  {
+    "timestamp": "2026-03-18T14:24:00Z",
+    "type": "macro",
+    "title": "ClevFed nowcast: March CPI 0.62% MoM",
+    "detail": "Cleveland Fed model forecasts 0.62% — below our T0.7+ strikes. Market disagrees at 77c. Risk noted but model may lag oil shock."
+  },
+  {
+    "timestamp": "2026-03-18T19:00:00Z",
+    "type": "macro",
+    "title": "FOMC holds at 3.50-3.75%, SEP boosts inflation",
+    "detail": "Fed held as expected. SEP raised inflation projections. T0.8 spiked 53->60c post-decision. Thesis validated by Fed."
+  },
+  {
+    "timestamp": "2026-03-18T20:00:00Z",
+    "type": "trade",
+    "title": "Bought CPI-Apr T0.7 YES @21c",
+    "detail": "10x CPI-Apr T0.7 at 21c ($2.10). Oil shock persists into April — cheap entry for next month's CPI."
+  },
+  {
+    "timestamp": "2026-03-18T22:07:00Z",
+    "type": "milestone",
+    "title": "T0.8 DOUBLED — +103%",
+    "detail": "CPI-Mar T0.8 hit 72c bid from 35c avg entry. First position to double. Portfolio $259 (+29.6%)."
+  },
+  {
+    "timestamp": "2026-03-19T03:30:00Z",
+    "type": "milestone",
+    "title": "T1.2 lottery ticket hit +900%",
+    "detail": "CPI-Mar T1.2 surged to 10c bid from 1c entry. $0.50 became $5.00. Best single-trade return."
+  },
+  {
+    "timestamp": "2026-03-19T05:00:00Z",
+    "type": "milestone",
+    "title": "Portfolio crossed +$40 profit",
+    "detail": "Unrealized P&L hit $40.93. Portfolio $259.13 (+29.6%) from $200 initial. T0.8 +103%, T1.2 +900%."
+  },
+  {
+    "timestamp": "2026-03-19T10:00:00Z",
+    "type": "milestone",
+    "title": "T0.9 nearly tripled — +180%",
+    "detail": "CPI-Mar T0.9 hit 55c from 20c entry. Gained +$3.15 in a single cycle. CPI strip in full melt-up."
+  },
+  {
+    "timestamp": "2026-03-19T17:30:00Z",
+    "type": "loss",
+    "title": "CPI-Apr T0.3 crashed 80c to 29c (-60%)",
+    "detail": "First significant loss. CPI-Apr T0.3 bid collapsed from 80c to 29c. Thin market bid withdrawal. CPI-Mar mid-strikes also pulling back (T0.9 43->35c). Portfolio dropped from $249 to $239."
+  },
+  {
+    "timestamp": "2026-03-20T05:00:00Z",
+    "type": "loss",
+    "title": "CPI-Mar strip broad pullback — T0.7 drops 88c to 74c",
+    "detail": "CPI March strip giving back post-FOMC/PPI gains. T0.7 dropped from 88c peak to 74c. T1.0 from 32c to 16c. Portfolio unrealized fell from +$41 ATH to +$18. Thesis unchanged — CPI data not until Apr 10."
+  },
+  {
+    "timestamp": "2026-03-20T09:25:00Z",
+    "type": "cycle",
+    "title": "Trading cycle #1-2 — network down",
+    "detail": "Network unreachable (IPv4 routing issue). Web research: WTI $93.55, ClevFed nowcast 0.62%. No trades."
+  },
+  {
+    "timestamp": "2026-03-20T10:30:00Z",
+    "type": "cycle",
+    "title": "Trading cycle #3 — network restored",
+    "detail": "Full API access. Portfolio $242.09 (+21.0%). All 13 green. Scanned all macro markets — no opportunities meet criteria. HOLD all."
+  },
+  {
+    "timestamp": "2026-03-20T11:15:00Z",
+    "type": "cycle",
+    "title": "Found KXHIGHINFLATION series — zero volume",
+    "detail": "Discovered inflation-surge markets (KXHIGHINFLATION, KXLCPIMAXYOY) with edge but vol=0 OI=0. Skip per principles."
+  },
+  {
+    "timestamp": "2026-03-20T12:35:00Z",
+    "type": "milestone",
+    "title": "Session high $245.86 (+22.9%)",
+    "detail": "Portfolio hit $245.86 intraday. CPI-Mar T0.8 +82%, T0.9 +116%, T1.2 +350%. Zero macro volume all day — no trades executed."
+  },
+  {
+    "timestamp": "2026-03-20T14:30:00Z",
+    "type": "milestone",
+    "title": "New session high $248.61 (+24.3%)",
+    "detail": "WTIMAX T100 surged to 93c (+23%). CPI-Apr T0.5 crossed +100% return. All 13 positions green. Cash $135.61 (67.8% reserve)."
+  },
+  {
+    "timestamp": "2026-03-20T17:30:00Z",
+    "type": "macro",
+    "title": "WTI pullback — Israel de-escalation pledge",
+    "detail": "WTI pulled back to $93.55 from $98. Israel pledged no more oil facility strikes. Bearish triangle on WTI. CPI-Mar strip giving back post-PPI/FOMC gains."
+  },
+  {
+    "timestamp": "2026-03-21T03:00:00Z",
+    "type": "macro",
+    "title": "Oil re-escalation — Iraq/Kuwait energy attacks",
+    "detail": "WTI $98.32, Brent $112.19. Iraq force majeure at all foreign oilfields. Kuwait refineries struck by drones. IEA: 8M bpd supply contraction."
+  },
+  {
+    "timestamp": "2026-03-21T05:00:00Z",
+    "type": "macro",
+    "title": "Qatar LNG damage + food inflation risk",
+    "detail": "Qatar gas facilities $20B damage, 17% global LNG lost (5yr repair). Fertilizer surge → food inflation. Gas $3.89/gal. Goldman: high prices through 2027."
+  },
+  {
+    "timestamp": "2026-03-21T01:07:00Z",
+    "type": "trade",
+    "title": "Bought 3 new macro positions — inflation + recession",
+    "detail": "15x KXLCPIMAXYOY-27-P4 YES @46c ($6.90) max CPI>4%. 10x KXCPI-26MAR-T0.9 YES @43c ($4.30) Mar CPI>0.9%. 8x KXRECSSNBER-26 YES @36c ($2.88) recession. All filled immediately. $14.66 total incl fees."
+  },
+  {
+    "timestamp": "2026-03-21T02:04:00Z",
+    "type": "trade",
+    "title": "Added inflation strip + stagflation bet",
+    "detail": "10x KXLCPIMAXYOY-27-P3.5 YES @78c ($7.80) max CPI>3.5%. 10x KXPPIVSCPI YES @54c ($5.40) PPI>CPI 3+mo. 10x KXECONPATH-26-STAG YES @27c ($2.70) stagflation. All filled. $16.35 total. Portfolio now 18 positions."
+  },
+  {
+    "timestamp": "2026-03-21T15:30:00Z",
+    "type": "macro",
+    "title": "Unemployment market spikes — KXU3MAX-27-5 ask 50c→55c",
+    "detail": "KXU3MAX-27-5 (unemployment >5% before 2027) jumped +5c on ask side (50→55c), bid 49→52c. 118K OI. Market repricing higher unemployment risk from tariff disruptions and DOGE layoffs. We don't hold this position."
+  },
+  {
+    "timestamp": "2026-03-21T17:00:00Z",
+    "type": "milestone",
+    "title": "CPI-Apr T0.7 doubled — +100%",
+    "detail": "CPI-Apr T0.7 YES hit 37c bid / 47c ask from 21c entry. 10x position cost $2.10 now worth $4.20. First April CPI position to double. Portfolio $249.20 (+24.6%)."
+  },
+  {
+    "timestamp": "2026-03-21T19:30:00Z",
+    "type": "milestone",
+    "title": "Portfolio crossed $250 — new ATH (+25.1%)",
+    "detail": "Account hit $250.30 ($104.60 cash + $145.70 positions). CPI-Apr T0.5 surging to 71/76c (+157%). 18 positions, 15 green. First time above $250 from $200 starting bankroll."
+  },
+  {
+    "timestamp": "2026-03-22T01:30:00Z",
+    "type": "milestone",
+    "title": "New ATH $252.53 (+26.3%) — 17 of 18 green",
+    "detail": "WTI T100 bid surged 89→92c. Stagflation position turned positive. Only 1 of 18 positions red (LCPIMAXYOY P3.5 -1.9%). Portfolio $252.53 from $200 bankroll."
+  },
+  {
+    "timestamp": "2026-03-22T10:00:00Z",
+    "type": "milestone",
+    "title": "CPI-Mar T0.8 doubled — +100%. ATH $254.71 (+27.4%)",
+    "detail": "CPI-Mar T0.8 YES hit 69c bid from 35c avg entry. 16x position cost $5.68 now worth $11.36. Second CPI position to double (after T0.7). CPI-Mar T0.9 also surging to 49c (+74%). Portfolio new ATH $254.71."
+  },
+  {
+    "timestamp": "2026-03-22T21:00:00Z",
+    "type": "macro",
+    "title": "Bankruptcy market surges +10c — tariff disruption fears",
+    "detail": "KXBANKRUPTCY-26-750 (750+ corporate bankruptcies in 2026) bid jumped 73→83c, ask 74→84c in single cycle. WTI T140 simultaneously dropped -7c (48→41c). Market pricing in tariff-driven economic disruption hitting corporates while oil extreme upside fades."
+  },
+  {
+    "timestamp": "2026-03-23T06:00:00Z",
+    "type": "macro",
+    "title": "Trump issues 48hr Hormuz ultimatum to Iran — oil tail risk explodes",
+    "detail": "Trump threatened military action if Iran doesn't open Strait of Hormuz within 48 hours. WTI T160 bid surged +12c (22→34c), T150 +4c, T180 +4c. LCPIMAXYOY P5 bid +6c (21→27c). ~20% of global oil transits Hormuz. Massive tail risk repricing."
+  },
+  {
+    "timestamp": "2026-03-23T06:30:00Z",
+    "type": "trade",
+    "title": "Bought inflation tail positions — P4.5 + P5",
+    "detail": "14x KXLCPIMAXYOY-27-P4.5 YES @36c ($5.04) and 10x KXLCPIMAXYOY-27-P5 YES @28c ($2.80). Hormuz blockade → oil spike → CPI surge above 4.5-5%. Total $8.22 incl fees. Now 20 positions."
+  },
+  {
+    "timestamp": "2026-03-23T13:00:00Z",
+    "type": "macro",
+    "title": "Hormuz deadline passes — markets calm, no panic",
+    "detail": "Trump's 48hr Hormuz ultimatum deadline passed. WTI positions stable (T100 92c, T105 79c). Extreme upside (T140-T180) flat. No escalation premium added. Markets pricing diplomatic resolution. PPIVSCPI surged +5c (59→63c bid, +17.6%) — PPI>CPI thesis strengthening independently."
+  },
+  {
+    "timestamp": "2026-03-23T17:00:00Z",
+    "type": "crash",
+    "title": "Broad selloff — WTI T100 -11c, portfolio -$10.50",
+    "detail": "WTI T100 bid crashed 93→82c (-11c). T105 -6c, T160 -10c (Hormuz premium evaporating). CPI-Mar T0.8 dropped 67→60c. CPI-Apr bids collapsed (T0.5 67→11c, T0.7 42→19c — likely weekend bid withdrawal, asks unchanged). Recession dropped 36→33c. Portfolio $254.87→$244.37 (-$10.50). Possible Hormuz de-escalation or weekend risk-off."
+  },
+  {
+    "timestamp": "2026-03-23T21:00:00Z",
+    "type": "macro",
+    "title": "Trump postpones Hormuz ultimatum 5 days — WTI upside crushed",
+    "detail": "Trump extended Hormuz deadline by 5 days. WTI T120 bid crashed 62→54c (-8c), T140 bid 41→37c (-4c, ask -11c). Near-money stable (T105 recovered 69→73c). PPIVSCPI surged +10c (63→73c bid, +36.1%) — PPI>CPI thesis accelerating independently of oil."
+  },
+  {
+    "timestamp": "2026-03-24T02:00:00Z",
+    "type": "macro",
+    "title": "WTI T105 surged +12c — converging with T100",
+    "detail": "KXWTIMAX T105 bid surged 74→86c (+12c), ask 76→91c (+15c). Now converging with T100 (86/87c). Suggests WTI spot near or above $105. Our 15x T105 position jumped from +2% to ~+25%."
+  },
+  {
+    "timestamp": "2026-03-25T00:30:00Z",
+    "type": "crash",
+    "title": "WTI T100 dropped -6c to 80c — oil de-risking",
+    "detail": "WTI T100 bid/ask both dropped 86→80c (-6c). T105 bid dropped 77→70c (-7c). Portfolio $243.53→$238.94 (-$4.59). Hormuz ultimatum postponement continuing to deflate oil premium. 40x T100 position now only +5.3% (was +21.7% at peak)."
+  },
+  {
+    "timestamp": "2026-03-25T05:00:00Z",
+    "type": "loss",
+    "title": "CPI-Mar T0.9 bid dropped -7c — March CPI repricing lower",
+    "detail": "CPI-Mar T0.9 bid crashed 39→32c (-7c), ask 40→36c. 25x position still profitable but gains eroding (was +81% at peak, now ~+17%). Market repricing March CPI 0.9% threshold lower. CPI-Mar T0.8 holding at 60c."
+  },
+  {
+    "timestamp": "2026-03-25T18:00:00Z",
+    "type": "macro",
+    "title": "Hormuz 5-day pause expired — no re-escalation, WTI T120 -9c",
+    "detail": "Trump's 5-day Hormuz extension expired with no military action. WTI T120 bid crashed 62→53c (-9c), ask 68→56c (-12c). Oil extreme upside continuing to deflate. Near-money WTI (T100 80c, T105 71c) stable — market pricing diplomacy over confrontation."
+  },
+  {
+    "timestamp": "2026-03-26T06:00:00Z",
+    "type": "macro",
+    "title": "Iran rejects Trump plan — WTI T120 surged +8c",
+    "detail": "Iran rejected Trump's Hormuz proposal. WTI T120 bid surged 53→61c (+8c), ask 56→67c (+11c). Hormuz standoff re-escalating. Near-money WTI (T100 76c, T105 70c) flat — upside repricing only. We don't hold T120."
+  },
+  {
+    "timestamp": "2026-03-26T15:00:00Z",
+    "type": "macro",
+    "title": "WTI T100 bid surged +9c to 87c — oil rally",
+    "detail": "WTI T100 bid jumped 78→87c (+9c), ask 84→90c (+6c). Likely Iran rejection fallout reaching near-money strikes. Our 40x T100 position gained ~$3.60 in one cycle. Portfolio $234.31→$236.85."
+  },
+  {
+    "timestamp": "2026-03-26T22:00:00Z",
+    "type": "macro",
+    "title": "Trump extends Hormuz deadline to April 6 — markets shrug",
+    "detail": "Second Hormuz extension (originally 48hr, then 5 days, now to Apr 6). WTI barely reacted (±1-2c). Market has priced in pattern of repeated extensions. T100 82c, T105 74c, T120 61c all stable. Diplomacy over confrontation remains base case."
+  },
+  {
+    "timestamp": "2026-03-30T19:00:00Z",
+    "type": "win",
+    "title": "WTI T100 hit $1.00 — settled YES, +$9.60 profit",
+    "detail": "KXWTIMAX-26DEC31-T100 bid/ask hit 100c — WTI has definitively touched $100. Our 40x position (cost $30.40) will pay $40.00, netting +$9.60 (+31.6%). Biggest single position by cost basis, now effectively locked in."
+  },
+  {
+    "timestamp": "2026-03-31T12:00:00Z",
+    "type": "macro",
+    "title": "Trump threatens Iran oil wells/Kharg — WTI T110 surged +15c",
+    "detail": "War escalation: Trump threatening to strike Iranian oil wells and Kharg Island. WTI T110 bid surged 72→87c (+15c). T120 bid +12c (61→73c). LCPIMAXYOY P4.5 ask +7c. Our 10x T110 position gaining ~$1.50. Oil tail risk repricing sharply higher."
+  }
+]
