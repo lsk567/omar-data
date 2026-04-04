@@ -292,5 +292,59 @@
     "type": "macro",
     "title": "WTI T130 bid surges +10c to 56c \u2014 now profitable",
     "detail": "WTI T130 YES bid jumped 46c\u219256c (+10c overnight). Last 61c. Entry 54c \u2192 now profitable. WTI curve strengthening overnight \u2014 T115 74c, T120 70c, T130 56c, T140 41c. Oil likely rallying on Apr 6 deadline approaching."
+  },
+  {
+    "timestamp": "2026-04-02T18:00:00Z",
+    "type": "org",
+    "title": "v8 launched \u2014 hybrid bots + agents",
+    "detail": "Weather bot (weather_bot.py) auto-trades NWS forecasts. 2 agent desks (oil/macro) for judgment calls. Codex scouts eliminated. Bot limits: $15/day, 20 contracts/trade, 15% min edge."
+  },
+  {
+    "timestamp": "2026-04-02T18:12:00Z",
+    "type": "trade",
+    "title": "Weather bot first live trades \u2014 4 positions",
+    "detail": "Bot executed: CHI T60 17 YES@19c (NWS 50F, model 100%), MIA B81.5 15 NO@17c, MIA B82.5 5 NO@40c, DEN B71.5 3 NO@42c. First automated weather trades."
+  },
+  {
+    "timestamp": "2026-04-03T11:07:00Z",
+    "type": "win",
+    "title": "Apr 2 weather settled \u2014 bot nets +$28 profit",
+    "detail": "DEN T71 13 NO +$9.49, MIA B81.5 25 NO +$20.75, CHI B72.5 4 NO +$2.21. Losses: CHI B70.5 9 NO -$3.40, DEN B71.5 3 NO -$1.32. Bot net: +$27.73. Win rate 3/5 = 60%. Profit factor 6.9x."
+  },
+  {
+    "timestamp": "2026-04-03T12:30:00Z",
+    "type": "macro",
+    "title": "NFP +65K (consensus +60K) \u2014 inline, Feb revised -92K",
+    "detail": "March payrolls inline at +65K. Feb revised down to -92K. Good Friday = markets closed, no reaction. GDP T2.5 YES dropped to 32c pre-NFP (our NO gaining). Weak labor trend supports recession thesis."
+  },
+  {
+    "timestamp": "2026-04-03T19:04:00Z",
+    "type": "milestone",
+    "title": "Weather bot stdev recalibration deployed",
+    "detail": "City-specific stdev implemented: CHI 5.0F (lake effect), DEN 3.0F, NYC 2.5F, MIA 2.0F. Was using uniform 2.5F which gave false 100% confidence on Chicago. Added 95% model prob cap. Scout-driven improvement."
+  },
+  {
+    "timestamp": "2026-04-03T21:09:00Z",
+    "type": "trade",
+    "title": "CUT CPI-Apr YES, ADD recession YES",
+    "detail": "Macro desk recommended rotation: sold 6 CPI-Apr T0.5 YES@20c (0.5% bar too high, March was 0.3%). Added 5 recession YES@26c (resting). Recession 25c underpriced vs 35-50% Street estimates."
+  },
+  {
+    "timestamp": "2026-04-03T22:04:00Z",
+    "type": "macro",
+    "title": "Major Iran escalation \u2014 F-15 downed, Kuwait refinery burning",
+    "detail": "US F-15E shot down over Iran. Kuwait Mina Al-Ahmadi refinery hit by drones and burning. Abu Dhabi gas facility also struck. Brent +8% to $109. WTI $111.54. Hormuz still blocked. 40-nation summit convened without US/Israel."
+  },
+  {
+    "timestamp": "2026-04-03T23:07:00Z",
+    "type": "macro",
+    "title": "Muscat Protocol \u2014 Iran-Oman Hormuz governance deal",
+    "detail": "Iran and Oman signed joint Hormuz governance deal creating Green Channel for commercial shipping with moratorium on vessel boardings. Triggered relief rally (S&P/Nasdaq best session in 18 months). T120 dropped 5.8c on de-escalation pricing despite military escalation. Trump paused energy strikes until Apr 6 8PM ET."
+  },
+  {
+    "timestamp": "2026-04-03T23:07:00Z",
+    "type": "trade",
+    "title": "ADD GDP T2.5 NO on thin-liquidity bounce",
+    "detail": "GDP T2.5 YES bounced 32c\u219242c on Good Friday (only $55 at bid, 10c spread). Fair value 25-30c per GDPNow 1.6%. Added 10 NO@48c (resting). KKR cut GDP forecast to 2.0%."
   }
 ]
