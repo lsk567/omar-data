@@ -8,4 +8,4 @@ Live portfolio data for the agentic quant trading firm on Kalshi. Hybrid archite
 - `events.json` — Key events: org changes, trades, crashes, milestones, macro developments (updated on notable events)
 - `org-versions.json` — Org structure version history (v1-v8) with agent counts and architecture summaries (used by public website)
 - `corporate-changelog.md` — Detailed prose changelog: rationale, problems, solutions, and insights for each org version
-- `portfolio_snapshot.csv` — Point-in-time position-level detail (historical)
+- `lessons-learned.md` — Post-mortem analysis of key mistakes and what changed
