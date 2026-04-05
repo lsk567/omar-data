@@ -98,5 +98,19 @@
     },
     "color": "rgba(0,77,64,0.12)",
     "border_color": "#004D40"
+  },
+  {
+    "version": "v9",
+    "label": { "en": "Pipeline-Driven Firm", "zh": "流程驱动公司" },
+    "date": "2026-04-05T16:30:00Z",
+    "agents_persistent": 0,
+    "agents_per_cycle": 2,
+    "bots": 2,
+    "summary": {
+      "en": "Systematic strategy pipeline: Discover → Backtest → Deploy → Monitor. Scouts own pipeline stages. Hard gates before deployment (profit factor ≥1.3, annual return ≥20%). Weather bot flagged as non-compliant.",
+      "zh": "系统化策略流程：发现→回测→部署→监控。侦察员负责各阶段。部署前硬性门槛（盈亏比≥1.3，年化收益≥20%）。天气机器人标记为不合规。"
+    },
+    "color": "rgba(38,50,56,0.12)",
+    "border_color": "#263238"
   }
 ]

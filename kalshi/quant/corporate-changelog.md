@@ -287,3 +287,36 @@ Key realization: **separate known edges from judgment calls**.
 - Agent desks discovered Muscat Protocol, tracked GDP T2.5 movement, executed CPI rotation
 
 **Key insight:** The March 9 catastrophe ($1,600 loss on 1508 weather contracts) happened because agents had no position sizing discipline. Bots with hard limits solve this structurally — the code physically cannot buy more than 20 contracts.
+
+---
+
+## v9: Pipeline-Driven Firm (2026-04-05)
+
+**Structure:** Same 2 agent desks + 2 bots + quant scouts. **What changed is the process, not the headcount.**
+
+**Strategy Pipeline (4 stages):**
+- **Stage 1 Discover** — Market Scanner scout writes hypothesis docs in `strategies/discovery/`. No code, just documented edge.
+- **Stage 2 Backtest** — Strategy Developer scout builds backtest in `strategies/backtests/`. Requires 60+ days historical data, 70/30 train/test split, realistic fee simulation, calibration check.
+- **Stage 3 Deploy** — Gated by acceptance criteria: profit factor ≥1.3, win rate ≥50%, projected annual return ≥20%, max drawdown ≤25%, ≥30 OOS trades. Deployed strategies start in probationary mode at half size for first 30 live trades.
+- **Stage 4 Monitor** — Performance Analyst scout runs daily, compares live metrics to backtest baseline. Decay triggers (30-day negative P&L, win rate drop >15pp, 5 consecutive losses, profit factor <0.8 for 14d) → investigation → fix or archive.
+
+**Scout roles formalized:**
+- Market Scanner → Stage 1 owner
+- Strategy Developer → Stage 2 owner + Stage 4 investigator
+- Performance Analyst → Stage 4 owner (daily runs)
+
+**Why the change:**
+
+The weather bot exposed the problem. It was deployed on Apr 2 with zero backtesting, got lucky day 1 (+$28), then lost on days 2 and 3 (−$15 and −$25). On Apr 3 evening, we "recalibrated" the stdev parameters based on N=1 day of live data — classic overfitting to noise. Net result: 30% win rate, −$12 cumulative P&L, and no way to know if the strategy is fundamentally broken or just running bad.
+
+Lesson: **every parameter change, every new bot, every strategy tweak is a gamble unless backtested first.** The firm was playing live-data roulette dressed up as quant research.
+
+**v9 fixes this structurally:**
+- No parameter changes without backtest evidence
+- No new bots deployed without passing acceptance gates
+- No continuing to run a decaying strategy without formal investigation
+- Failed strategies get archived with post-mortems, not quietly forgotten
+
+**Immediate consequence:** Weather bot is flagged as **non-compliant** — it must pass a retroactive Stage 2 backtest or be archived.
+
+**Key insight:** Process discipline beats improvisation. A well-defined pipeline with acceptance gates is cheap to implement and catches exactly the errors we've been making (overfitting, premature deployment, strategy decay blindness).
