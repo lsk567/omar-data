@@ -364,5 +364,17 @@
     "type": "org",
     "title": "v9 launched — Pipeline-Driven Firm",
     "detail": "Systematic strategy pipeline: Discover → Backtest → Deploy → Monitor. Hard gates for deployment: profit factor ≥1.3, win rate ≥50%, projected annual return ≥20%, max drawdown ≤25%, ≥30 OOS trades. Scouts own pipeline stages (Market Scanner=Discover, Strategy Developer=Backtest+Investigate, Performance Analyst=Monitor). Weather bot flagged as non-compliant — deployed with zero backtest, now -$12 cumulative, overfit stdev recalibration on N=1 day data. Must pass retroactive backtest or be archived."
+  },
+  {
+    "timestamp": "2026-04-08T16:50:00Z",
+    "type": "crash",
+    "title": "Oil crash + weather bot blowup — account drops 41% in 2 days",
+    "detail": "Account fell from $97.90 (Apr 6) to $56.62. Three causes: (1) WTI crashed 17.5% ($113→$93) on Pakistan-brokered US-Iran ceasefire with temporary Hormuz reopening — all oil positions hit hard; (2) Weather bot bought 128 CHI T63 contracts (6.4x the 20-contract limit!) now worth 1c each — near total $11 loss; (3) Recession YES dropped 34c→22c on de-escalation. Response: CUT T140/T130, trimmed T120 to 2, trimmed recession to 15, disabled weather bot cron. Cash recovered from $9.52 to $17.06. Weather bot disabled permanently pending review."
+  },
+  {
+    "timestamp": "2026-04-08T16:56:00Z",
+    "type": "trade",
+    "title": "Emergency oil + recession trim — 4 sells to recover cash",
+    "detail": "Sold: 4 T140 YES @28c, 5 T130 YES @38c, 3 T120 YES @54c, 10 recession YES @22c. Total proceeds $6.48 net of fees. Oil exposure reduced from $9.84 to $2.99 (T115×2 + T120×2 as ceasefire-collapse lottery). Recession trimmed from 25 to 15 (hold through Apr 10 CPI). GDP NOs untouched — strongest positions with GDPNow at 1.6%."
   }
 ]
