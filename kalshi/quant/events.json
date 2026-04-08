@@ -376,5 +376,17 @@
     "type": "trade",
     "title": "Emergency oil + recession trim — 4 sells to recover cash",
     "detail": "Sold: 4 T140 YES @28c, 5 T130 YES @38c, 3 T120 YES @54c, 10 recession YES @22c. Total proceeds $6.48 net of fees. Oil exposure reduced from $9.84 to $2.99 (T115×2 + T120×2 as ceasefire-collapse lottery). Recession trimmed from 25 to 15 (hold through Apr 10 CPI). GDP NOs untouched — strongest positions with GDPNow at 1.6%."
+  },
+  {
+    "timestamp": "2026-04-08T17:22:00Z",
+    "type": "org",
+    "title": "v10 launched — Coordinator Model",
+    "detail": "Firm head becomes pure coordinator. Every cycle step (1-9) delegated to Claude Code subagents. Steps 1+2 run in parallel. Step 4 risk check is now a dedicated subagent that cannot be skipped. Triggered by v9 cycle #97 where firm head skipped formal risk check and missed 80.7% drawdown breach. Weather bot cron disabled."
+  },
+  {
+    "timestamp": "2026-04-08T17:22:00Z",
+    "type": "trade",
+    "title": "Recession ADD blocked by risk check — drawdown halt",
+    "detail": "Macro desk recommended adding 5-10 recession YES at 22c (analyst consensus 30-50% vs market). Step 4 risk subagent BLOCKED: 80.7% drawdown from $292.49 ATH (limit 35%), cash $17.06 (limit $40), exposure 79.9% (limit 75%), macro sector 59% (limit 20%). First trade blocked under v10 mandatory risk gates."
   }
 ]

@@ -112,5 +112,19 @@
     },
     "color": "rgba(38,50,56,0.12)",
     "border_color": "#263238"
+  },
+  {
+    "version": "v10",
+    "label": { "en": "Coordinator Model", "zh": "协调者模式" },
+    "date": "2026-04-08T17:22:00Z",
+    "agents_persistent": 0,
+    "agents_per_cycle": 9,
+    "bots": 0,
+    "summary": {
+      "en": "Firm head becomes pure coordinator — every cycle step delegated to subagents. Mandatory risk gates (step 4) cannot be skipped. Weather bot disabled. Steps 1+2 parallel, 8+9 parallel.",
+      "zh": "公司负责人变为纯协调者——每个周期步骤委托给子代理。强制风控门槛（步骤4）不可跳过。天气机器人已禁用。步骤1+2并行，8+9并行。"
+    },
+    "color": "rgba(183,28,28,0.12)",
+    "border_color": "#B71C1C"
   }
 ]
