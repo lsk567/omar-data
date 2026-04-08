@@ -115,14 +115,14 @@
   },
   {
     "version": "v10",
-    "label": { "en": "Coordinator Model", "zh": "协调者模式" },
+    "label": { "en": "Research-First Coordinator", "zh": "研究优先协调者" },
     "date": "2026-04-08T17:22:00Z",
     "agents_persistent": 0,
     "agents_per_cycle": 9,
     "bots": 0,
     "summary": {
-      "en": "Firm head becomes pure coordinator — every cycle step delegated to subagents. Mandatory risk gates (step 4) cannot be skipped. Weather bot disabled. Steps 1+2 parallel, 8+9 parallel.",
-      "zh": "公司负责人变为纯协调者——每个周期步骤委托给子代理。强制风控门槛（步骤4）不可跳过。天气机器人已禁用。步骤1+2并行，8+9并行。"
+      "en": "Research pipeline is the core product, trading is just the output. Firm head is pure coordinator — all steps delegated to subagents. Scouts MANDATORY every cycle to discover hidden cross-source correlations (Renaissance-style). Weather bot disabled (single-source edge violates philosophy). Mandatory risk gates. 5 new strategy candidates in pipeline.",
+      "zh": "研究流水线是核心产品，交易只是输出。公司负责人为纯协调者——所有步骤委托给子代理。侦察员每周期强制执行，发现跨源隐藏关联（文艺复兴风格）。天气机器人已禁用（单源优势违反理念）。强制风控门槛。5个新策略候选进入流水线。"
     },
     "color": "rgba(183,28,28,0.12)",
     "border_color": "#B71C1C"
