@@ -391,8 +391,8 @@
   },
   {
     "timestamp": "2026-04-09T04:30:00Z",
-    "type": "settlement",
-    "title": "KXHIGHCHI-26APR08-T63 YES settles WIN",
-    "detail": "Chicago high 71.6F vs 63F threshold. 110 YES contracts win. Payout $110; cost $11.77 inc fees. Net profit ~$98.23 (835% ROI). Legacy weather position; weather bot cron disabled."
+    "type": "macro",
+    "title": "KXHIGHCHI-26APR08-T63 — pending settlement; outcome uncertain",
+    "detail": "128 YES contracts (high <63F to win). Contract settles on NWS Climatological Report (Daily) for Chicago Midway. Official CF6 not yet published (expected ~08:00 UTC Apr 9). Raw NWS obs API showed 66.9F at Midway but Google Weather shows 62F high. Contract threshold is 63F — outcome genuinely uncertain until official report. Cost $11.37 + $0.64 fees. Expected settlement ~14:00 UTC Apr 9."
   }
 ]
