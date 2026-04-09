@@ -400,5 +400,11 @@
     "type": "milestone",
     "title": "Tornado composite passes ALL 7 deployment gates",
     "detail": "v4b with isotonic calibration + confidence filter. PF 3.58, WR 78.4%, p<0.001, DD 9.1%, calibration 7.9%, 990 OOS trades. 4 iterations over 14 cycles. Awaiting Shaokai approval for deployment."
+  },
+  {
+    "timestamp": "2026-04-09T12:00:00Z",
+    "type": "milestone",
+    "title": "ISM PMI composite ALSO passes all 7 gates",
+    "detail": "v4 with 60/40 split + edge threshold 22% + bootstrap p-value. PF 2.70, WR 31%, bootstrap p=0.0485, cal 9.9%. Two strategies (tornado + ISM PMI) pass all gates in same session. Both awaiting Shaokai approval."
   }
 ]
