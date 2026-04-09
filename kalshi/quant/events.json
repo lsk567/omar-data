@@ -388,5 +388,11 @@
     "type": "trade",
     "title": "Recession ADD blocked by risk check — drawdown halt",
     "detail": "Macro desk recommended adding 5-10 recession YES at 22c (analyst consensus 30-50% vs market). Step 4 risk subagent BLOCKED: 80.7% drawdown from $292.49 ATH (limit 35%), cash $17.06 (limit $40), exposure 79.9% (limit 75%), macro sector 59% (limit 20%). First trade blocked under v10 mandatory risk gates."
+  },
+  {
+    "timestamp": "2026-04-09T04:30:00Z",
+    "type": "settlement",
+    "title": "KXHIGHCHI-26APR08-T63 YES settles WIN",
+    "detail": "Chicago high 71.6F vs 63F threshold. 110 YES contracts win. Payout $110; cost $11.77 inc fees. Net profit ~$98.23 (835% ROI). Legacy weather position; weather bot cron disabled."
   }
 ]
