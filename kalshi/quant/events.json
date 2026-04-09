@@ -390,10 +390,10 @@
     "detail": "Macro desk recommended adding 5-10 recession YES at 22c (analyst consensus 30-50% vs market). Step 4 risk subagent BLOCKED: 80.7% drawdown from $292.49 ATH (limit 35%), cash $17.06 (limit $40), exposure 79.9% (limit 75%), macro sector 59% (limit 20%). First trade blocked under v10 mandatory risk gates."
   },
   {
-    "timestamp": "2026-04-09T04:30:00Z",
-    "type": "macro",
-    "title": "KXHIGHCHI-26APR08-T63 \u2014 pending settlement; outcome uncertain",
-    "detail": "128 YES contracts (high <63F to win). Contract settles on NWS Climatological Report (Daily) for Chicago Midway. Official CF6 not yet published (expected ~08:00 UTC Apr 9). Raw NWS obs API showed 66.9F at Midway but Google Weather shows 62F high. Contract threshold is 63F \u2014 outcome genuinely uncertain until official report. Cost $11.37 + $0.64 fees. Expected settlement ~14:00 UTC Apr 9."
+    "timestamp": "2026-04-09T11:30:00Z",
+    "type": "loss",
+    "title": "KXHIGHCHI-26APR08-T63 settles NO \u2014 we lose $11.37",
+    "detail": "Chicago high was >= 63F (result=no). Our 128 YES contracts (betting <63F) are worthless. Cost $11.37 + $0.64 fees = $12.01 total loss. NWS raw obs showed 66.9F at Midway. Google showed 62F but official data was >= 63F. Lesson: always verify contract direction and trust official settlement source over Google."
   },
   {
     "timestamp": "2026-04-09T10:53:00Z",
