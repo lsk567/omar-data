@@ -454,5 +454,23 @@
     "type": "milestone",
     "title": "canada-cpi-yoy-composite advanced to dual-auditor stage (fallback APPROVE)",
     "detail": "Scout cycle 20260410-1441: canada-cpi-yoy-composite advanced to dual-auditor stage. audit-opus SIGN-OFF with 185-line independent review; hash chain verified; backtest reproduces exactly. audit-gpt attempt1 REJECTed for independence+scope violations (quarantined as attempt1-invalid); attempts 2 and 3 with codex/opencode backends hung in interactive modals. firm-head took over audit-gpt.md as disclosed fallback APPROVE with conditions. NOT deployed \u2014 Shaokai approval still pending via Slack. Also: 5 scanner candidates scaffolded as discovery stubs (kxcodingmodel-composite, kxusacompanystake-composite, kxnfprod-composite, kxnasdaq100miny-composite, kxnycbillionaires-composite); README Current Strategy Status drift corrected (1 truly deployed: unemployment-composite HEALTHY-IDLE until ~May 1; tornado + canada-cpi-yoy reclassified BACKTEST; allocation table reduced from 5 to 1)."
+  },
+  {
+    "timestamp": "2026-04-10T22:53:00Z",
+    "type": "org",
+    "title": "unemployment-composite HALTED (bot file missing)",
+    "detail": "v10 cycle: unemployment-composite strategy HALTED due to technical failure; bot file missing from deployment. Only deployed strategy taken offline pending reship. 0 live positions; 1 stale resting order KXGDP-26APR30-T2.5 5 NO @ $0.22."
+  },
+  {
+    "timestamp": "2026-04-10T22:53:00Z",
+    "type": "milestone",
+    "title": "kxnfprod-composite first-pass backtest CONDITIONAL_PASS",
+    "detail": "stratdev first-pass backtest of kxnfprod-composite achieved CONDITIONAL_PASS; awaiting dual audit (independent reviewer + Shaokai approval) before advancing to next stage."
+  },
+  {
+    "timestamp": "2026-04-10T22:53:00Z",
+    "type": "org",
+    "title": "Scanner discoveries: 4 new scaffolds queued",
+    "detail": "v10 scout cycle scanner produced 4 new discovery scaffolds: KXIPOSPACEX; KXNBERRECESSQ; KXSPACEXSTARSHIP; KXTOPAI. Scouts MANDATORY ran."
   }
 ]
