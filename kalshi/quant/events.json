@@ -422,13 +422,19 @@
   {
     "timestamp": "2026-04-10T04:00:00Z",
     "type": "macro",
-    "title": "Gas-prices-weekly dual audit FAILED — target leakage",
-    "detail": "Dual auditor Opus 4.6 + GPT 5.2 independently confirmed target leakage in gas-prices-weekly backtest: feature prev_price == actual_price in 98/111 rows (88%), including the locked holdout. The PF 46.8 / WR 97% metrics are artifacts of looking at the answer. Strategy flipped back to backtest stage, active=false, not archived — can be rebuilt with a leak-free feature pipeline. wti-weekly-composite flagged SUSPECT since its metrics (PF 254, WR 99%) match the same pattern; requires independent review before any dual audit."
+    "title": "Gas-prices-weekly dual audit FAILED \u2014 target leakage",
+    "detail": "Dual auditor Opus 4.6 + GPT 5.2 independently confirmed target leakage in gas-prices-weekly backtest: feature prev_price == actual_price in 98/111 rows (88%), including the locked holdout. The PF 46.8 / WR 97% metrics are artifacts of looking at the answer. Strategy flipped back to backtest stage, active=false, not archived \u2014 can be rebuilt with a leak-free feature pipeline. wti-weekly-composite flagged SUSPECT since its metrics (PF 254, WR 99%) match the same pattern; requires independent review before any dual audit."
   },
   {
     "timestamp": "2026-04-10T17:02:00Z",
     "type": "milestone",
     "title": "shelter-cpi-composite backtest CONDITIONAL_PASS",
     "detail": "stratdev backtested shelter-cpi-composite: CONDITIONAL_PASS with all 4/4 predictive gates passing. WR 56.4%, PF 2.92, p=0.0088, ECE 0.087 across 39 events. Tier2 classification. Ready for next-stage review."
+  },
+  {
+    "timestamp": "2026-04-10T17:57:22Z",
+    "type": "pipeline",
+    "title": "Cycle 11 \u2014 payrolls iter2 near-pass, +5 discoveries",
+    "detail": "payrolls-composite passed all 4 predictive gates (p=0.0001 n=63) but missed 20% annual exec threshold at 19.3%. 5 new cross-source discovery scaffolds created. Fleet halted pending reship; registry reconciliation needed for cpi-yoy jobless-claims tsa-composite."
   }
 ]
