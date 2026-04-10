@@ -304,5 +304,11 @@
     "type": "crash",
     "title": "CPI strip crashed \u2014 portfolio -$34 (-12%)",
     "detail": "CPI-MAR T0.9 bid 0.58->0.27 (-53%). T0.8 0.81->0.63. T1.0 0.21->0.06. LCPI P4 0.61->0.44. Portfolio $283->$248. Possible oil de-escalation or CPI nowcast revision over weekend."
+  },
+  {
+    "timestamp": "2026-04-10T15:00:00Z",
+    "type": "win",
+    "title": "CPI-MAR settled \u2014 March CPI between 0.8% and 0.9%",
+    "detail": "T0.7 YES +$5.00. T0.8 YES +$10.32. T0.9-T1.3 NO losing $13.60. Net +$1.72. Oil inflation thesis correct direction but number less extreme than tail bets."
   }
 ]

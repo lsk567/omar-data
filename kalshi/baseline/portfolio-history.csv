@@ -740,3 +740,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-04-10 10:17:13,142.95,108.98,251.93,91.06,111.06,15.00,3.48,20,1,"Cycle 139: No trades. $251.93. CPI-MAR pending. Hold."
 2026-04-10 11:17:08,142.95,109.90,252.85,91.06,111.06,15.00,3.48,20,1,"Cycle 140: No trades. $252.85. CPI-MAR pending. Hold."
 2026-04-10 12:17:12,142.95,110.51,253.46,91.06,111.06,15.00,3.48,20,1,"Cycle 141: No trades. $253.46. CPI-MAR pending. Hold."
+2026-04-10 13:17:29,168.95,71.38,240.33,66.78,66.78,0.00,2.07,14,0,"Cycle 142: No trades. $240.33. CPI-MAR SETTLED. Hold."
