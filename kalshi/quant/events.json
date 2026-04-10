@@ -406,5 +406,17 @@
     "type": "milestone",
     "title": "ISM PMI composite ALSO passes all 7 gates",
     "detail": "v4 with 60/40 split + edge threshold 22% + bootstrap p-value. PF 2.70, WR 31%, bootstrap p=0.0485, cal 9.9%. Two strategies (tornado + ISM PMI) pass all gates in same session. Both awaiting Shaokai approval."
+  },
+  {
+    "timestamp": "2026-04-10T02:50:00Z",
+    "type": "org",
+    "title": "HALTED tornado-composite + tsa-composite bots",
+    "detail": "Both bots have broken scaffolds (missing place_order function). Crons disabled in crontab. Metadata moved to backtest stage, active=false. Must re-pass full pipeline before redeployment per Technical Issue Halt Protocol."
+  },
+  {
+    "timestamp": "2026-04-10T02:50:00Z",
+    "type": "milestone",
+    "title": "gas-prices-weekly ready for dual audit",
+    "detail": "CONDITIONAL_PASS: All 7 gates passed (WR 97%, PF 46.8, p=0.0001, ECE 4.3%, DD 2.2%, 34 OOS events). Synthetic fills caveat noted. Awaiting Opus 4.6 + GPT 5.2 dual audit."
   }
 ]

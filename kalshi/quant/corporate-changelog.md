@@ -320,3 +320,18 @@ Lesson: **every parameter change, every new bot, every strategy tweak is a gambl
 **Immediate consequence:** Weather bot is flagged as **non-compliant** — it must pass a retroactive Stage 2 backtest or be archived.
 
 **Key insight:** Process discipline beats improvisation. A well-defined pipeline with acceptance gates is cheap to implement and catches exactly the errors we've been making (overfitting, premature deployment, strategy decay blindness).
+
+### 2026-04-10 — Technical Halt: tornado-composite + tsa-composite
+
+**Action**: HALTED both bots per Technical Issue Halt Protocol.
+
+**Root cause**: Both bots have broken scaffolds — missing `place_order` function. The bot files load without error but cannot execute trades. This is a technical failure, not a performance issue.
+
+**Steps taken**:
+1. Disabled cron entries for both bots (commented out with HALTED prefix and date)
+2. TSA metadata moved from `deployed` → `backtest`, `active: false`
+3. Tornado was already at `backtest`, `active: false` — confirmed correct
+
+**Path to redeployment**: Fix `place_order` in both bot scripts → re-run `gate_checker.py` → dual audit (Opus 4.6 + GPT 5.2) → Shaokai approval.
+
+**gas-prices-weekly**: CONDITIONAL_PASS (WR 97%, PF 46.8, p=0.0001, all 7 gates). Queued for dual audit. Synthetic fills caveat requires extended probation if deployed.
