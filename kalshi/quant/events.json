@@ -418,5 +418,11 @@
     "type": "milestone",
     "title": "gas-prices-weekly ready for dual audit",
     "detail": "CONDITIONAL_PASS: All 7 gates passed (WR 97%, PF 46.8, p=0.0001, ECE 4.3%, DD 2.2%, 34 OOS events). Synthetic fills caveat noted. Awaiting Opus 4.6 + GPT 5.2 dual audit."
+  },
+  {
+    "timestamp": "2026-04-10T04:00:00Z",
+    "type": "macro",
+    "title": "Gas-prices-weekly dual audit FAILED — target leakage",
+    "detail": "Dual auditor Opus 4.6 + GPT 5.2 independently confirmed target leakage in gas-prices-weekly backtest: feature prev_price == actual_price in 98/111 rows (88%), including the locked holdout. The PF 46.8 / WR 97% metrics are artifacts of looking at the answer. Strategy flipped back to backtest stage, active=false, not archived — can be rebuilt with a leak-free feature pipeline. wti-weekly-composite flagged SUSPECT since its metrics (PF 254, WR 99%) match the same pattern; requires independent review before any dual audit."
   }
 ]
