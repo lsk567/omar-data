@@ -436,5 +436,11 @@
     "type": "pipeline",
     "title": "Cycle 11 \u2014 payrolls iter2 near-pass, +5 discoveries",
     "detail": "payrolls-composite passed all 4 predictive gates (p=0.0001 n=63) but missed 20% annual exec threshold at 19.3%. 5 new cross-source discovery scaffolds created. Fleet halted pending reship; registry reconciliation needed for cpi-yoy jobless-claims tsa-composite."
+  },
+  {
+    "timestamp": "2026-04-10T19:00:00Z",
+    "type": "research",
+    "title": "Cycle 2026-04-10 scouts + discoveries",
+    "detail": "5 new discoveries queued from scanner; retail-sales advanced to backtest stage with marginal calibration (ECE 0.12)."
   }
 ]
