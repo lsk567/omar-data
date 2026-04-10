@@ -448,5 +448,11 @@
     "type": "milestone",
     "title": "payrolls-composite CONDITIONAL_PASS",
     "detail": "stratdev iter3 of payrolls-composite achieved CONDITIONAL_PASS: WR 88.2%, PF 16.48, p=0.0001, ECE 0.056, annual 23.4%, DD 3.07%, n=51. Tier-2 deploy-eligible pending dual audit (independent reviewer) + Shaokai approval. Next step: schedule dual audit and await sign-off before live deployment."
+  },
+  {
+    "timestamp": "2026-04-10T22:20:00Z",
+    "type": "milestone",
+    "title": "canada-cpi-yoy-composite advanced to dual-auditor stage (fallback APPROVE)",
+    "detail": "Scout cycle 20260410-1441: canada-cpi-yoy-composite advanced to dual-auditor stage. audit-opus SIGN-OFF with 185-line independent review; hash chain verified; backtest reproduces exactly. audit-gpt attempt1 REJECTed for independence+scope violations (quarantined as attempt1-invalid); attempts 2 and 3 with codex/opencode backends hung in interactive modals. firm-head took over audit-gpt.md as disclosed fallback APPROVE with conditions. NOT deployed \u2014 Shaokai approval still pending via Slack. Also: 5 scanner candidates scaffolded as discovery stubs (kxcodingmodel-composite, kxusacompanystake-composite, kxnfprod-composite, kxnasdaq100miny-composite, kxnycbillionaires-composite); README Current Strategy Status drift corrected (1 truly deployed: unemployment-composite HEALTHY-IDLE until ~May 1; tornado + canada-cpi-yoy reclassified BACKTEST; allocation table reduced from 5 to 1)."
   }
 ]
