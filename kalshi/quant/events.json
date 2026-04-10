@@ -472,5 +472,11 @@
     "type": "org",
     "title": "Scanner discoveries: 4 new scaffolds queued",
     "detail": "v10 scout cycle scanner produced 4 new discovery scaffolds: KXIPOSPACEX; KXNBERRECESSQ; KXSPACEXSTARSHIP; KXTOPAI. Scouts MANDATORY ran."
+  },
+  {
+    "timestamp": "2026-04-10T23:55:00Z",
+    "type": "org",
+    "title": "canada-cpi-yoy-composite passes all 7 gates",
+    "detail": "v10 cycle: canada-cpi-yoy-composite iter2 all 7 gates PASS after scale-only fix (adjusted position sizing scale without changing underlying signal logic). Pending Shaokai approval before deployment. Also this cycle: 5 new discovery scaffolds (KXIPOOPENAI; KXMUSKTRILLION; KXU3MAX; KXCOMPANYACTIONMERGER; KXBESTLLMCHINA); unemployment-composite metadata drift flagged; 0 active positions; $55.17 cash idle; resting sell KXGDP-26APR30-T2.5."
   }
 ]
