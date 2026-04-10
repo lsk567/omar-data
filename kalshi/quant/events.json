@@ -442,5 +442,11 @@
     "type": "research",
     "title": "Cycle 2026-04-10 scouts + discoveries",
     "detail": "5 new discoveries queued from scanner; retail-sales advanced to backtest stage with marginal calibration (ECE 0.12)."
+  },
+  {
+    "timestamp": "2026-04-10T20:51:00Z",
+    "type": "milestone",
+    "title": "payrolls-composite CONDITIONAL_PASS",
+    "detail": "stratdev iter3 of payrolls-composite achieved CONDITIONAL_PASS: WR 88.2%, PF 16.48, p=0.0001, ECE 0.056, annual 23.4%, DD 3.07%, n=51. Tier-2 deploy-eligible pending dual audit (independent reviewer) + Shaokai approval. Next step: schedule dual audit and await sign-off before live deployment."
   }
 ]
