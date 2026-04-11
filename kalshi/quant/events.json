@@ -496,5 +496,17 @@
     "type": "org",
     "title": "6 strategies CONDITIONAL_PASS awaiting Shaokai Stage-3 approval",
     "detail": "qf-analyst flagged 6 CONDITIONAL_PASS strategies awaiting Shaokai Stage-3 sign-off: payrolls-composite; shelter-cpi-composite; canada-cpi-yoy-composite; kxnfprod-composite; us-debt-monitor-composite; housing-starts-composite. README drift noted: unemployment-composite line 389 still claims DEPLOYED but bot file missing and cron disabled."
+  },
+  {
+    "timestamp": "2026-04-11T01:02:00Z",
+    "type": "research",
+    "title": "fomc-dissent-composite v2 FAIL exposes v1 data leak",
+    "detail": "v1 self-reported 8/8 gates invalidated: 70/30 two-way split leaked the 2019 Powell dissent cluster into train, and gates were computed trade-level rather than event-level. v2 canonical three-way split (train 2012-2018 / tune 2019-2020 / lockbox 2021-2024, 48 events) FAILS predictive gates: WR 0.208, PF 0.848, p_signflip=1.0, ECE 0.283."
+  },
+  {
+    "timestamp": "2026-04-11T01:02:00Z",
+    "type": "research",
+    "title": "Two new cross-source discoveries: us-credit-rating + quantum-milestone",
+    "detail": "Scanner scout found KXCREDITRATING (sovereign downgrade, 7+ independent signals: Fitch/Moody/S&P panels + CDS + CBO + debt-ceiling calendar + methodology papers) and KXQUANTUM (24 settlement sources, capability milestones, arXiv velocity + corporate roadmaps + NIST benchmarks). Both HIGH priority."
   }
 ]
