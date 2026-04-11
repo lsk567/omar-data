@@ -508,5 +508,11 @@
     "type": "research",
     "title": "Two new cross-source discoveries: us-credit-rating + quantum-milestone",
     "detail": "Scanner scout found KXCREDITRATING (sovereign downgrade, 7+ independent signals: Fitch/Moody/S&P panels + CDS + CBO + debt-ceiling calendar + methodology papers) and KXQUANTUM (24 settlement sources, capability milestones, arXiv velocity + corporate roadmaps + NIST benchmarks). Both HIGH priority."
+  },
+  {
+    "timestamp": "2026-04-11T01:53:00Z",
+    "type": "macro",
+    "title": "Unemployment bot halted; 5 event positions settled",
+    "detail": "v10 cycle. 0 positions; cash 5517. Scouts mandatory: analyst healthy; stratdev wti-weekly FAIL n=18; scanner 5 candidates. Advances: unemployment-composite HALTED missing bot file; wti-weekly FAIL logged; 2 new discovery KXWTIMAX+KXMORTGAGERATE."
   }
 ]
