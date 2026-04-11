@@ -622,5 +622,17 @@
     "type": "org",
     "title": "Cycle 2026-04-11: pipeline advanced",
     "detail": "v10 cycle. Dormant account ($55.17 cash; 0 positions; 1 resting KXGDP T2.5 NO sell). Scout added 5 new cross-source discoveries: eggs, oil-rigs, trade-deficit, nyc-rent, usdx. us-retail-sales composite ready for audit. unemployment and tsa pipelines halted due to missing bot/artifacts."
+  },
+  {
+    "timestamp": "2026-04-11T17:23:00Z",
+    "type": "org",
+    "title": "README drift detected: 5 claimed deployed, 0 actually live",
+    "detail": "v10 cycle. README claims 5 composites deployed (tornado/unemployment/jobless/tsa/cpi-yoy) but 0 are actually live: metadata active=false across the board, bots missing, crons disabled. cpi-yoy settles Apr 13 and will not fire. Account $55.17 cash, 0 positions, 0 orders. Scanner surfaced new cross-source candidates: KXUSDBRLMAX, KXTROPSTORM, KXUSDTTBILL."
+  },
+  {
+    "timestamp": "2026-04-11T17:23:01Z",
+    "type": "milestone",
+    "title": "brazil-inflation-composite discovery advanced",
+    "detail": "qf-stratdev advanced brazil-inflation-composite discovery document — new cross-source candidate progressing through pipeline toward backtest."
   }
 ]
