@@ -580,5 +580,17 @@
     "type": "macro",
     "title": "v10 research-only cycle — scanner adds KXGDP/KXFED, shelter-cpi PASS Tier 3",
     "detail": "Research-only cycle. Balance $5517.00, all positions closed, 0pct exposure, 1 resting order. Net realized ~+$6.50. Scanner discovered new KXGDP and KXFED candidates. shelter-cpi-composite backtest CONDITIONAL_PASS gating to Tier 3 (no Kalshi tape available). Analyst flagged metadata issues across strategies; unemployment-composite bot file missing. No trades executed."
+  },
+  {
+    "timestamp": "2026-04-11T09:23:00Z",
+    "type": "research",
+    "title": "cpi-yoy-composite FAIL 1/4 gates — DEMOTED",
+    "detail": "v10 cycle 2026-04-11. qf-stratdev ran OOS backtest on cpi-yoy-composite: passed only 1 of 4 predictive gates, strategy DEMOTED from pipeline. qf-scanner surfaced 5 new candidates including KXWTIMAX, KXU3MAX, KXUSDX. Discovery docs opened for cpi-core-mom and cpi-headline-mom. qf-analyst reported unemployment bot file MISSING and tsa-composite artifacts MISSING."
+  },
+  {
+    "timestamp": "2026-04-11T09:23:30Z",
+    "type": "org",
+    "title": "v10 research-only cycle — flat book, scouts active",
+    "detail": "Balance $55.17, 0 positions, 0pct exposure. No trades executed. Scouts qf-scanner + qf-stratdev + qf-analyst all ran. Pipeline hygiene: cpi-yoy demoted; missing artifacts flagged on unemployment and tsa strategies; 2 new discovery dirs seeded (cpi-core-mom, cpi-headline-mom)."
   }
 ]
