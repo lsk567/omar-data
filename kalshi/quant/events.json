@@ -634,5 +634,11 @@
     "type": "milestone",
     "title": "brazil-inflation-composite discovery advanced",
     "detail": "qf-stratdev advanced brazil-inflation-composite discovery document — new cross-source candidate progressing through pipeline toward backtest."
+  },
+  {
+    "timestamp": "2026-04-11T21:06:00Z",
+    "type": "milestone",
+    "title": "cpi-headline-mom CONDITIONAL_PASS + new discovery fed-balance-sheet",
+    "detail": "v10 cycle 2026-04-11. cpi-headline-mom-composite achieved CONDITIONAL_PASS via pipeline/gate_checker.py (Tier 2 Silver; win rate 79.2%; p=0.0001; ECE=0.049; n=72; BH-FDR adj_p=0.000150 across 15-strategy family) — ready for dual audit. NEW discovery fed-balance-sheet-composite added: 9-source WALCL nowcast on KXBALANCESHEET. Account flat $55.17 cash; 0 positions; 0% exposure. spx-monday-fade shows dangling bot symlink (bots/spx_monday_fade_bot.py) and decay=insufficient_data (n=0); state unchanged."
   }
 ]
