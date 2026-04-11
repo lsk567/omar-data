@@ -556,5 +556,11 @@
     "type": "macro",
     "title": "README reconciliation + housing-starts-composite 7/7 backtest pass",
     "detail": "Cycle 2026-04-10 v10. (a) analyst confirmed all 5 README-claimed deployed bots are structurally halted (missing files / archived stubs); dashboard reconciled to show 0 deployed on branch cycle-2026-04-10-reconcile. (b) stratdev advanced housing-starts-composite to CONDITIONAL_PASS v2 with 7/7 gates: WR 67.4%, PF 3.16, p 0.0033, annual 27.2%, 43 lockbox events. (c) scanner surfaced 5 new candidates (KXAAAGASMIN top; KXTESLADELIVERYBY/KXAVGMEASLESDJT/KXTESLAENERGYBY/KXECONPATH). Account flat $5517; 0 positions. Next: dual audit on housing-starts then Shaokai approval."
+  },
+  {
+    "timestamp": "2026-04-11T06:48:00Z",
+    "type": "milestone",
+    "title": "5 strategies awaiting dual audit + white-collar-layoffs discovery",
+    "detail": "v10 cycle. Research pipeline advanced: (a) scanner discovered white-collar-layoffs-composite (KXLAYOFFSYPBS) as new Stage-1 candidate. (b) stratdev iterated payrolls-composite to iter2 CONDITIONAL_PASS (PF 4.33, WR 52.9%, p=0.0003, 51 lockbox events). (c) 5 strategies now AWAITING DUAL AUDIT: housing-starts, building-permits, shelter-cpi, us-debt-monitor, payrolls. (d) analyst verified 5 halted strategies remain offline. Account flat $55.17; 0 positions; 1 resting order KXGDP-26APR30-T2.5 NO sell 5."
   }
 ]
