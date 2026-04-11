@@ -544,5 +544,11 @@
     "type": "research",
     "title": "nhsales iter1 FAIL + 5 new scanner candidates",
     "detail": "Cycle 2026-04-10 scouts-mandate. qf-stratdev new-home-sales-composite iter1 FRED-only FAILED predictive gates: WR 11.5%, p_signflip 0.33 (insufficient edge). qf-scanner surfaced 5 new cross-source candidates with top pick KXGDPYEAR. qf-analyst 0 active bots; spx-monday-fade disabled; tornado + unemployment still missing bot files. Account $55.17 flat, 0 positions, 0pct exposure."
+  },
+  {
+    "timestamp": "2026-04-10T06:00:00Z",
+    "type": "milestone",
+    "title": "building-permits-composite passes 7/7 gates",
+    "detail": "Stage 2 backtest CONDITIONAL_PASS with 43 lockbox events, Tier 2 synthetic fills. Awaiting dual-auditor review (Opus 4.6 + GPT 5.2) and Shaokai approval per 3-step approval chain."
   }
 ]
