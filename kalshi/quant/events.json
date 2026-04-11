@@ -598,5 +598,17 @@
     "type": "milestone",
     "title": "cpi-headline-mom-composite CONDITIONAL_PASS + 2 new cross-source discoveries",
     "detail": "v10 cycle. qf-stratdev completed cpi-headline-mom-composite backtest CONDITIONAL_PASS (WR 79%, p<0.0001, ECE 0.049, 72 events, PF 5.48) — needs dual audit + Shaokai approval before deploy. qf-scanner surfaced 2 NEW cross-source discoveries: us-retail-sales-composite and nh-new-home-sales-composite. qf-analyst confirmed 5 phantom-deployed strategies (tornado/unemployment/jobless/tsa/cpi-yoy) still not trading — persistent blocker. Account $55.17 cash only, 0 positions."
+  },
+  {
+    "timestamp": "2026-04-11T13:24:00Z",
+    "type": "macro",
+    "title": "High-inflation-composite backtest failed ECE gate",
+    "detail": "qf-stratdev ran high-inflation-composite backtest: FAILED predictive gates with ECE 0.19 (> 0.10 threshold) and annual return below threshold. WR 60.7%; p<0.0001; Tier 3 — not deployable."
+  },
+  {
+    "timestamp": "2026-04-11T13:24:01Z",
+    "type": "org",
+    "title": "Scanner found 2 new cross-source candidates",
+    "detail": "KXBUILDPERMS (5-source municipal permits nowcast) and KXCACPIYOY (cross-source Canada CPI composite) added to discovery stage."
   }
 ]
