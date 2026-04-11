@@ -616,5 +616,11 @@
     "type": "research",
     "title": "Cycle discoveries 2026-04-11",
     "detail": "v10 FULL cycle. 3 new cross-source discoveries added: brazil-selic (KXCBDECISIONBRAZIL), uk-retail (KXUKRETAIL), us-effective-tariff (KXEFFTARIFF). housing-starts-composite v2 backtest CONDITIONAL_PASS Tier 2 — awaiting dual audit + Shaokai approval. Deployment blockers persist: all 5 deployed composites show active=false drift; tornado awaits Shaokai v6 review; cpi-yoy URGENT for Mon 04-13 settlement; unemployment bot missing; jobless/tsa remain stubs. Account flat 0 positions; 1 resting order KXGDP T2.5 NO."
+  },
+  {
+    "timestamp": "2026-04-11T15:48:00Z",
+    "type": "org",
+    "title": "Cycle 2026-04-11: pipeline advanced",
+    "detail": "v10 cycle. Dormant account ($55.17 cash; 0 positions; 1 resting KXGDP T2.5 NO sell). Scout added 5 new cross-source discoveries: eggs, oil-rigs, trade-deficit, nyc-rent, usdx. us-retail-sales composite ready for audit. unemployment and tsa pipelines halted due to missing bot/artifacts."
   }
 ]
