@@ -526,5 +526,11 @@
     "type": "milestone",
     "title": "Cycle 2026-04-10: 4 new discoveries + shelter-cpi queued for dual audit",
     "detail": "v10 research cycle. (a) Scanner discovered 4 new cross-source candidates as Stage-1 discovery dirs: measles-weekly, spacex-launches, fed-employees-rif, topai-2027. (b) stratdev advanced shelter-cpi-composite with mandatory LaTeX and gate_checker CONDITIONAL_PASS; Tier 2 Silver queued for dual audit. (c) Dashboard drift: analyst found 0 of 5 README-deployed strategies actually active on disk; README vs metadata needs remediation. Account 5517 flat; 0 positions; 0pct exposure."
+  },
+  {
+    "timestamp": "2026-04-10T22:00:00Z",
+    "type": "org",
+    "title": "Dashboard-vs-metadata structural mismatch",
+    "detail": "qf-analyst cycle12 found the 5 strategies README lists as DEPLOYED are actually halted/gutted: tornado backtest/halt, unemployment backtest/halt, jobless-claims no metadata, cpi-yoy no metadata, tsa archived stub. Pipeline needs rebuild next cycles."
   }
 ]
