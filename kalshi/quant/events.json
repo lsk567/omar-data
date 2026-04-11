@@ -562,5 +562,11 @@
     "type": "milestone",
     "title": "5 strategies awaiting dual audit + white-collar-layoffs discovery",
     "detail": "v10 cycle. Research pipeline advanced: (a) scanner discovered white-collar-layoffs-composite (KXLAYOFFSYPBS) as new Stage-1 candidate. (b) stratdev iterated payrolls-composite to iter2 CONDITIONAL_PASS (PF 4.33, WR 52.9%, p=0.0003, 51 lockbox events). (c) 5 strategies now AWAITING DUAL AUDIT: housing-starts, building-permits, shelter-cpi, us-debt-monitor, payrolls. (d) analyst verified 5 halted strategies remain offline. Account flat $55.17; 0 positions; 1 resting order KXGDP-26APR30-T2.5 NO sell 5."
+  },
+  {
+    "timestamp": "2026-04-11T07:10:00Z",
+    "type": "org",
+    "title": "3 new cross-source candidates enter discovery",
+    "detail": "Market scanner found KXADP (HIGH); KXCBDECISIONCANADA (HIGH); KXCBDECISIONJAPAN (MEDIUM). Discovery dirs created. pce-core-composite flagged for archival after OOS backtest failed 3/4 predictive gates."
   }
 ]
