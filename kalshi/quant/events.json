@@ -514,5 +514,11 @@
     "type": "macro",
     "title": "Unemployment bot halted; 5 event positions settled",
     "detail": "v10 cycle. 0 positions; cash 5517. Scouts mandatory: analyst healthy; stratdev wti-weekly FAIL n=18; scanner 5 candidates. Advances: unemployment-composite HALTED missing bot file; wti-weekly FAIL logged; 2 new discovery KXWTIMAX+KXMORTGAGERATE."
+  },
+  {
+    "timestamp": "2026-04-11T02:49:36Z",
+    "type": "org",
+    "title": "All 5 pipeline bots halted, 5 new discovery candidates queued",
+    "detail": "Cycle audit: tornado/unemployment/jobless-claims/tsa/cpi-yoy composite bots all non-operational (halted scaffolds, missing files). Pipeline still advancing: scanner surfaced 5 new cross-source candidates (building-permits/us-retail/new-home-sales/adp/natgas-monthly). gas-prices-weekly failed on independent-events floor. No live capital deployed."
   }
 ]
