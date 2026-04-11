@@ -478,5 +478,23 @@
     "type": "org",
     "title": "canada-cpi-yoy-composite passes all 7 gates",
     "detail": "v10 cycle: canada-cpi-yoy-composite iter2 all 7 gates PASS after scale-only fix (adjusted position sizing scale without changing underlying signal logic). Pending Shaokai approval before deployment. Also this cycle: 5 new discovery scaffolds (KXIPOOPENAI; KXMUSKTRILLION; KXU3MAX; KXCOMPANYACTIONMERGER; KXBESTLLMCHINA); unemployment-composite metadata drift flagged; 0 active positions; $55.17 cash idle; resting sell KXGDP-26APR30-T2.5."
+  },
+  {
+    "timestamp": "2026-04-11T00:26:00Z",
+    "type": "org",
+    "title": "Scanner discoveries: 4 new scaffolds queued",
+    "detail": "v10 scout cycle qf-scanner produced 4 new discovery scaffolds: KXBOEING; KXSPOTIFYMAU; KXDASHORDERS; KXEFFTARIFF. Scouts MANDATORY ran."
+  },
+  {
+    "timestamp": "2026-04-11T00:26:00Z",
+    "type": "milestone",
+    "title": "jp-cpi-mom-composite backtest CONDITIONAL_PASS",
+    "detail": "qf-stratdev advanced jp-cpi-mom-composite to backtest CONDITIONAL_PASS: WR 94.4%, PF 61.8, p=0.0001, Tier 2 synthetic. Awaiting dual audit + Shaokai approval before advancing."
+  },
+  {
+    "timestamp": "2026-04-11T00:26:00Z",
+    "type": "org",
+    "title": "6 strategies CONDITIONAL_PASS awaiting Shaokai Stage-3 approval",
+    "detail": "qf-analyst flagged 6 CONDITIONAL_PASS strategies awaiting Shaokai Stage-3 sign-off: payrolls-composite; shelter-cpi-composite; canada-cpi-yoy-composite; kxnfprod-composite; us-debt-monitor-composite; housing-starts-composite. README drift noted: unemployment-composite line 389 still claims DEPLOYED but bot file missing and cron disabled."
   }
 ]
