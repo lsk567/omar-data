@@ -568,5 +568,11 @@
     "type": "org",
     "title": "3 new cross-source candidates enter discovery",
     "detail": "Market scanner found KXADP (HIGH); KXCBDECISIONCANADA (HIGH); KXCBDECISIONJAPAN (MEDIUM). Discovery dirs created. pce-core-composite flagged for archival after OOS backtest failed 3/4 predictive gates."
+  },
+  {
+    "timestamp": "2026-04-11T07:53:00Z",
+    "type": "crash",
+    "title": "wti-weekly-composite INVALID — T-1 temporal leakage",
+    "detail": "qf-stratdev flagged wti-weekly-composite as INVALID due to T-1 temporal leakage (feature uses same-period data as target). Strategy retracted from pipeline. Cycle v10 2026-04-11: account flat $517, 0 positions, 0pct exposure. Scanner produced 5 new candidates (3 HIGH); 3 new discovery dirs created: gdpnom-global-composite, nonus-unemployment-composite, spacex-launch-count-composite. 1 active strategy healthy per analyst. No trades."
   }
 ]
