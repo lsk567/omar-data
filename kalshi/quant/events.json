@@ -532,5 +532,11 @@
     "type": "org",
     "title": "Dashboard-vs-metadata structural mismatch",
     "detail": "qf-analyst cycle12 found the 5 strategies README lists as DEPLOYED are actually halted/gutted: tornado backtest/halt, unemployment backtest/halt, jobless-claims no metadata, cpi-yoy no metadata, tsa archived stub. Pipeline needs rebuild next cycles."
+  },
+  {
+    "timestamp": "2026-04-11T04:48:00Z",
+    "type": "milestone",
+    "title": "3 new discovery strategies from scanner",
+    "detail": "Firm-head full cycle 2026-04-10 evening. Account $5517 all flat; zero active strategies (spx-monday-fade halted gate-fail). Stratdev failed adp-employment-composite gates (recommend stall). Scanner surfaced 5 new candidates; created 3 new discovery dirs: u3-annual-max-composite, nber-recession-2026-composite, aaa-gas-annual-max-composite. Pipeline now 26 discovery 11 backtest."
   }
 ]
