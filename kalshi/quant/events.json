@@ -610,5 +610,11 @@
     "type": "org",
     "title": "Scanner found 2 new cross-source candidates",
     "detail": "KXBUILDPERMS (5-source municipal permits nowcast) and KXCACPIYOY (cross-source Canada CPI composite) added to discovery stage."
+  },
+  {
+    "timestamp": "2026-04-11T15:09:00Z",
+    "type": "research",
+    "title": "Cycle discoveries 2026-04-11",
+    "detail": "v10 FULL cycle. 3 new cross-source discoveries added: brazil-selic (KXCBDECISIONBRAZIL), uk-retail (KXUKRETAIL), us-effective-tariff (KXEFFTARIFF). housing-starts-composite v2 backtest CONDITIONAL_PASS Tier 2 — awaiting dual audit + Shaokai approval. Deployment blockers persist: all 5 deployed composites show active=false drift; tornado awaits Shaokai v6 review; cpi-yoy URGENT for Mon 04-13 settlement; unemployment bot missing; jobless/tsa remain stubs. Account flat 0 positions; 1 resting order KXGDP T2.5 NO."
   }
 ]
