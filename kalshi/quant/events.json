@@ -592,5 +592,11 @@
     "type": "org",
     "title": "v10 research-only cycle — flat book, scouts active",
     "detail": "Balance $55.17, 0 positions, 0pct exposure. No trades executed. Scouts qf-scanner + qf-stratdev + qf-analyst all ran. Pipeline hygiene: cpi-yoy demoted; missing artifacts flagged on unemployment and tsa strategies; 2 new discovery dirs seeded (cpi-core-mom, cpi-headline-mom)."
+  },
+  {
+    "timestamp": "2026-04-11T03:20:00Z",
+    "type": "milestone",
+    "title": "cpi-headline-mom-composite CONDITIONAL_PASS + 2 new cross-source discoveries",
+    "detail": "v10 cycle. qf-stratdev completed cpi-headline-mom-composite backtest CONDITIONAL_PASS (WR 79%, p<0.0001, ECE 0.049, 72 events, PF 5.48) — needs dual audit + Shaokai approval before deploy. qf-scanner surfaced 2 NEW cross-source discoveries: us-retail-sales-composite and nh-new-home-sales-composite. qf-analyst confirmed 5 phantom-deployed strategies (tornado/unemployment/jobless/tsa/cpi-yoy) still not trading — persistent blocker. Account $55.17 cash only, 0 positions."
   }
 ]
