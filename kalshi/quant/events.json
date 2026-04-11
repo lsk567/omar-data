@@ -550,5 +550,11 @@
     "type": "milestone",
     "title": "building-permits-composite passes 7/7 gates",
     "detail": "Stage 2 backtest CONDITIONAL_PASS with 43 lockbox events, Tier 2 synthetic fills. Awaiting dual-auditor review (Opus 4.6 + GPT 5.2) and Shaokai approval per 3-step approval chain."
+  },
+  {
+    "timestamp": "2026-04-11T06:26:00Z",
+    "type": "macro",
+    "title": "README reconciliation + housing-starts-composite 7/7 backtest pass",
+    "detail": "Cycle 2026-04-10 v10. (a) analyst confirmed all 5 README-claimed deployed bots are structurally halted (missing files / archived stubs); dashboard reconciled to show 0 deployed on branch cycle-2026-04-10-reconcile. (b) stratdev advanced housing-starts-composite to CONDITIONAL_PASS v2 with 7/7 gates: WR 67.4%, PF 3.16, p 0.0033, annual 27.2%, 43 lockbox events. (c) scanner surfaced 5 new candidates (KXAAAGASMIN top; KXTESLADELIVERYBY/KXAVGMEASLESDJT/KXTESLAENERGYBY/KXECONPATH). Account flat $5517; 0 positions. Next: dual audit on housing-starts then Shaokai approval."
   }
 ]
