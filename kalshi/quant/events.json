@@ -646,5 +646,11 @@
     "type": "org",
     "title": "Archived gas-prices-weekly and wti-weekly-composite",
     "detail": "Both strategies confirmed INVALID due to data leakage. gas-prices-weekly: target leakage (prev_price/wow_change derived from target). wti-weekly: temporal leakage (T-1 cutoff vs T-7 decision horizon). Pipeline now 8 backtest; 10 archived. cpi-headline-mom-composite awaiting Shaokai deploy approval (all 3 pipeline steps cleared)."
+  },
+  {
+    "timestamp": "2026-04-12T22:26:00Z",
+    "type": "macro",
+    "title": "banxico-decision-composite CONDITIONAL_PASS",
+    "detail": "Tier 2 backtest with WR 70.6%; p=0.0001; ECE 0.0174; n=109 events. Ready for dual-auditor review."
   }
 ]
