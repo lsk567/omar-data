@@ -652,5 +652,11 @@
     "type": "macro",
     "title": "banxico-decision-composite CONDITIONAL_PASS",
     "detail": "Tier 2 backtest with WR 70.6%; p=0.0001; ECE 0.0174; n=109 events. Ready for dual-auditor review."
+  },
+  {
+    "timestamp": "2026-04-12T23:29:00Z",
+    "type": "milestone",
+    "title": "Coffee-monthly consolidated; 2 new cross-source discoveries",
+    "detail": "v10 full cycle 23:25 UTC. Stratdev consolidated coffee-monthly-composite into single-script bot (--backtest/--live); Tier 2 CONDITIONAL_PASS with WR 83.6% p<0.0001 ECE 0.091 but annual return 16.7% < 20% gate \u2014 NOT deploy-eligible without iteration. banxico/cocoa/copper-monthly-composite re-audited CONDITIONAL_PASS (copper borderline ECE 0.0815 DD 23.27%). Scanner surveyed ~30 of 9597 Kalshi series; added 2 NEW cross-source discoveries: kxhoilmon-composite (NYH ULSD monthly; OI 2989; WTI+EIA distillate+NOAA HDD+ICE Gasoil+Henry Hub) and kxairfarecpi-composite (BLS Airline Fares CPI; OI 100; jet-fuel-lag+EIA distillate+TSA+Hopper+USD). Pipeline: 13 backtest; 75 discovery; 14 archived; 0 deployed. Account flat $55.17 cash; 0 positions; 1 stale KXGDP resting order."
   }
 ]
