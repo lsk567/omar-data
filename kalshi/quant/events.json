@@ -682,5 +682,11 @@
     "type": "org",
     "title": "gate_checker symlink bug fixed",
     "detail": "pipeline/gate_checker.py was hard-coded to backtest.py blocking consolidated bot.py strategies; patched to resolve symlinks; next unlock is re-running gate_checker on 14 frozen composites"
+  },
+  {
+    "timestamp": "2026-04-13T09:26:00Z",
+    "type": "milestone",
+    "title": "qf-scanner discovered eo-weekly-composite (KXEOWEEK)",
+    "detail": "v10 cycle. qf-scanner surfaced new multi-source cross-validated candidate eo-weekly-composite on KXEOWEEK weekly market. qf-stratdev re-ran gold-monthly-composite: CONDITIONAL_PASS 4/4 predictive gates but Tier2 synthetic-fill RED flag persists \u2014 orderbook_replay audit required before deploy eligibility. qf-analyst logged jp-cpi-mom-composite new CONDITIONAL_PASS (n=120, PF 3.52) entering fill-validation queue. Stale order KXGDP-26APR30-T2.5 5@0.78 vs market 0.68 flagged for cancel. Account idle: $55.17 cash, 0 positions, 0 active bots."
   }
 ]
