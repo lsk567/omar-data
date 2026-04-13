@@ -670,5 +670,11 @@
     "type": "milestone",
     "title": "brent-monthly backtest re-run CONDITIONAL_PASS; 2 new discoveries lake-mead + avian-flu",
     "detail": "v10 firm-head cycle. qf-stratdev re-ran brent-monthly-composite backtest: Tier 2 CONDITIONAL_PASS (WR 93.2%; PF 130; ECE 0.083; n=74) but annual return 16.4% FAILS 20% gate \u2014 needs pipeline/orderbook_replay.py temporal-integrity audit before deploy eligibility. qf-scanner added 2 NEW cross-source discoveries: lake-mead-composite and avian-flu-composite. qf-analyst audited 14 archived strategies; tornado-composite flagged for regression review; 4 postmortem stubs need backfill. Account fully idle $55.17 cash; 0 positions; stale KXGDP-26APR30-T2.5 sell NO @0.78 resting order flagged for cancel."
+  },
+  {
+    "timestamp": "2026-04-13T05:22:27Z",
+    "type": "milestone",
+    "title": "Corn P0 leakage root cause found and fixed",
+    "detail": "qf-stratdev identified P0 leakage in corn-monthly-composite: a static empirical_base_rate computed over the entire train+tune window was reused for every lockbox event, and combined with strikes generated around prediction (autocorrelated to corn_last) it manufactured WR=100% / PF=inf / DD=0. Patched backtest.py with a 24-month rolling-window walk-forward across Steps 6/7a/7b. Re-run results: WR 82.2%, PF 126.7, DD 0.3%, annual 16.6%, p=0.0001, ECE 0.087, n=73. gate_checker now CONDITIONAL_PASS with 4/4 predictive gates; leakage fingerprint cleared and matches the sugar/cocoa GREEN cohort. Same rolling-window patch applies to gold, silver, soybean, wheat, coffee, and kxhoilmon."
   }
 ]
