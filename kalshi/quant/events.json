@@ -664,5 +664,11 @@
     "type": "research",
     "title": "kxhoilmon backtest advance + leakage flag; 5 new discoveries onboarded",
     "detail": "v10 firm-head cycle 2026-04-12. qf-stratdev advanced kxhoilmon-composite from discovery to backtest with Tier 2 CONDITIONAL_PASS (WR 100% PF inf annual 27.9% ECE 0.0468 p=0.0001 n=44 lockbox events via gate_checker). qf-analyst raised P0 leakage flag: PF=inf / WR=100% / 0%DD pattern matches gold-monthly / silver-monthly / soybean-monthly bots previously confirmed as harness leakage. kxhoilmon deployment BLOCKED pending pipeline/orderbook_replay.py temporal-integrity audit and code review of bots/kxhoilmon_composite_bot.py for label leakage. qf-scanner picked 5 NEW cross-source candidates (KXCRITICALITY nuclear criticality; KXMUSKWEALTH two-asset net-worth; KXMETAHEADCOUNT Meta state-space; KXIPHONERELEASE Foxconn+FCC; KXEMERCUTS Fed stress-logit); all 5 onboarded as Stage-1 discovery in strategies/ with metadata, 01-discovery.md, and history.csv. Pipeline: 14 backtest (1 blocked); 80 discovery; 14 archived; 0 deployed. Account $55.17 cash; 0 positions; 0 active bots."
+  },
+  {
+    "timestamp": "2026-04-13T04:18:00Z",
+    "type": "milestone",
+    "title": "brent-monthly backtest re-run CONDITIONAL_PASS; 2 new discoveries lake-mead + avian-flu",
+    "detail": "v10 firm-head cycle. qf-stratdev re-ran brent-monthly-composite backtest: Tier 2 CONDITIONAL_PASS (WR 93.2%; PF 130; ECE 0.083; n=74) but annual return 16.4% FAILS 20% gate \u2014 needs pipeline/orderbook_replay.py temporal-integrity audit before deploy eligibility. qf-scanner added 2 NEW cross-source discoveries: lake-mead-composite and avian-flu-composite. qf-analyst audited 14 archived strategies; tornado-composite flagged for regression review; 4 postmortem stubs need backfill. Account fully idle $55.17 cash; 0 positions; stale KXGDP-26APR30-T2.5 sell NO @0.78 resting order flagged for cancel."
   }
 ]
