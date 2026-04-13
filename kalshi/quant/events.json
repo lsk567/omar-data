@@ -676,5 +676,11 @@
     "type": "milestone",
     "title": "Corn P0 leakage root cause found and fixed",
     "detail": "qf-stratdev identified P0 leakage in corn-monthly-composite: a static empirical_base_rate computed over the entire train+tune window was reused for every lockbox event, and combined with strikes generated around prediction (autocorrelated to corn_last) it manufactured WR=100% / PF=inf / DD=0. Patched backtest.py with a 24-month rolling-window walk-forward across Steps 6/7a/7b. Re-run results: WR 82.2%, PF 126.7, DD 0.3%, annual 16.6%, p=0.0001, ECE 0.087, n=73. gate_checker now CONDITIONAL_PASS with 4/4 predictive gates; leakage fingerprint cleared and matches the sugar/cocoa GREEN cohort. Same rolling-window patch applies to gold, silver, soybean, wheat, coffee, and kxhoilmon."
+  },
+  {
+    "timestamp": "2026-04-13T06:33:00Z",
+    "type": "org",
+    "title": "gate_checker symlink bug fixed",
+    "detail": "pipeline/gate_checker.py was hard-coded to backtest.py blocking consolidated bot.py strategies; patched to resolve symlinks; next unlock is re-running gate_checker on 14 frozen composites"
   }
 ]
