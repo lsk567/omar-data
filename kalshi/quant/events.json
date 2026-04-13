@@ -658,5 +658,11 @@
     "type": "milestone",
     "title": "Coffee-monthly consolidated; 2 new cross-source discoveries",
     "detail": "v10 full cycle 23:25 UTC. Stratdev consolidated coffee-monthly-composite into single-script bot (--backtest/--live); Tier 2 CONDITIONAL_PASS with WR 83.6% p<0.0001 ECE 0.091 but annual return 16.7% < 20% gate \u2014 NOT deploy-eligible without iteration. banxico/cocoa/copper-monthly-composite re-audited CONDITIONAL_PASS (copper borderline ECE 0.0815 DD 23.27%). Scanner surveyed ~30 of 9597 Kalshi series; added 2 NEW cross-source discoveries: kxhoilmon-composite (NYH ULSD monthly; OI 2989; WTI+EIA distillate+NOAA HDD+ICE Gasoil+Henry Hub) and kxairfarecpi-composite (BLS Airline Fares CPI; OI 100; jet-fuel-lag+EIA distillate+TSA+Hopper+USD). Pipeline: 13 backtest; 75 discovery; 14 archived; 0 deployed. Account flat $55.17 cash; 0 positions; 1 stale KXGDP resting order."
+  },
+  {
+    "timestamp": "2026-04-13T00:30:00Z",
+    "type": "research",
+    "title": "kxhoilmon backtest advance + leakage flag; 5 new discoveries onboarded",
+    "detail": "v10 firm-head cycle 2026-04-12. qf-stratdev advanced kxhoilmon-composite from discovery to backtest with Tier 2 CONDITIONAL_PASS (WR 100% PF inf annual 27.9% ECE 0.0468 p=0.0001 n=44 lockbox events via gate_checker). qf-analyst raised P0 leakage flag: PF=inf / WR=100% / 0%DD pattern matches gold-monthly / silver-monthly / soybean-monthly bots previously confirmed as harness leakage. kxhoilmon deployment BLOCKED pending pipeline/orderbook_replay.py temporal-integrity audit and code review of bots/kxhoilmon_composite_bot.py for label leakage. qf-scanner picked 5 NEW cross-source candidates (KXCRITICALITY nuclear criticality; KXMUSKWEALTH two-asset net-worth; KXMETAHEADCOUNT Meta state-space; KXIPHONERELEASE Foxconn+FCC; KXEMERCUTS Fed stress-logit); all 5 onboarded as Stage-1 discovery in strategies/ with metadata, 01-discovery.md, and history.csv. Pipeline: 14 backtest (1 blocked); 80 discovery; 14 archived; 0 deployed. Account $55.17 cash; 0 positions; 0 active bots."
   }
 ]
