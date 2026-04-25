@@ -688,5 +688,11 @@
     "type": "milestone",
     "title": "qf-scanner discovered eo-weekly-composite (KXEOWEEK)",
     "detail": "v10 cycle. qf-scanner surfaced new multi-source cross-validated candidate eo-weekly-composite on KXEOWEEK weekly market. qf-stratdev re-ran gold-monthly-composite: CONDITIONAL_PASS 4/4 predictive gates but Tier2 synthetic-fill RED flag persists \u2014 orderbook_replay audit required before deploy eligibility. qf-analyst logged jp-cpi-mom-composite new CONDITIONAL_PASS (n=120, PF 3.52) entering fill-validation queue. Stale order KXGDP-26APR30-T2.5 5@0.78 vs market 0.68 flagged for cancel. Account idle: $55.17 cash, 0 positions, 0 active bots."
+  },
+  {
+    "timestamp": "2026-04-25T19:51:00Z",
+    "type": "org",
+    "title": "Pipeline resumes after 12-day gap",
+    "detail": "v10 cycle 2026-04-25. Pipeline resumes after 12-day stall (last entry 2026-04-13; portfolio-history last row 2026-04-11). Account flat: $55.17 cash; 0 positions; exposure 0%. qf-scanner added 3 NEW Stage-1 cross-source discoveries: tsla-quarterly-prod-deliv-composite (TSLA Q production/deliveries vs Wall St whisper); fusion-timeline-hazard-composite (Helion/CFS/TAE first-power timeline hazard model); oai-anth-ipo-race-composite (OpenAI vs Anthropic IPO/listing race). jp-cpi-mom-composite gate_check rerun verified CONDITIONAL_PASS with 4/4 predictive PASS and deploy_eligible=true \u2014 pending dual-auditor + Shaokai sign-off. qf-analyst ranked top-3 backtest strategies as Shaokai-ready: us-debt-monitor-composite; cpi-headline-mom-composite; banxico-decision-composite. 18 backtest strategies remain stale 12 days; refresh needed next cycle. Stray KXGDP-26APR30-T2.5 NO sell 5 @ $0.22 flagged by qf-step1 for cancel."
   }
 ]
