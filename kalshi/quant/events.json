@@ -694,5 +694,11 @@
     "type": "org",
     "title": "Pipeline resumes after 12-day gap",
     "detail": "v10 cycle 2026-04-25. Pipeline resumes after 12-day stall (last entry 2026-04-13; portfolio-history last row 2026-04-11). Account flat: $55.17 cash; 0 positions; exposure 0%. qf-scanner added 3 NEW Stage-1 cross-source discoveries: tsla-quarterly-prod-deliv-composite (TSLA Q production/deliveries vs Wall St whisper); fusion-timeline-hazard-composite (Helion/CFS/TAE first-power timeline hazard model); oai-anth-ipo-race-composite (OpenAI vs Anthropic IPO/listing race). jp-cpi-mom-composite gate_check rerun verified CONDITIONAL_PASS with 4/4 predictive PASS and deploy_eligible=true \u2014 pending dual-auditor + Shaokai sign-off. qf-analyst ranked top-3 backtest strategies as Shaokai-ready: us-debt-monitor-composite; cpi-headline-mom-composite; banxico-decision-composite. 18 backtest strategies remain stale 12 days; refresh needed next cycle. Stray KXGDP-26APR30-T2.5 NO sell 5 @ $0.22 flagged by qf-step1 for cancel."
+  },
+  {
+    "timestamp": "2026-04-25T20:30:00Z",
+    "type": "milestone",
+    "title": "brazil-inflation-composite advanced discovery -> backtest (CONDITIONAL_PASS)",
+    "detail": "Strategy Developer scout consolidated bots/brazil_inflation_composite_bot.py and ran --backtest. gate_checker.py verdict CONDITIONAL_PASS. Predictive gates passed (event-level win rate, sign-flip p-value, ECE 10-bin, min events). Execution gates marked SYNTHETIC: annual return 13.6% < 20% gate. Per Tier 2 Silver protocol, strategy needs improved fill model and 60 live trades probation before Stage 3 deploy. Companion scanner queued 3 cross-source candidates for next discovery cycle: KXGAMBLINGREPEAL-26JAN-27 (gambling repeal), KXTAIWANLVL4-27JAN01 (Taiwan crisis), KXLLM1-26DEC31-A (LLM benchmark)."
   }
 ]
