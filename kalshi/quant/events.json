@@ -718,5 +718,11 @@
     "type": "org",
     "title": "Cycle 2026-04-26 PM: KXMTA discovery; kxgdp gate FAIL; Kalshi-history infra blocker",
     "detail": "v10 cycle 2026-04-26 PM. Account flat $55.17 cash; 0 positions; 0% exposure; 0 deployed strategies. All bots disabled (weather archived; SPX-Mon-Fade FAIL p=0.066). (1) qf-scanner promoted KXMTA (weekly NYC subway ridership) to discovery as new primary pick — Stage-1 cross-source candidate spanning MTA + NOAA + DOE + events + Kastle + holidays + service-alerts. (2) qf-stratdev advanced kxgdp-composite first iteration; gate_checker FAIL on Tier-3 predictive gates; flagged shared infrastructure blocker — need pipeline/collectors/pin_kalshi_history.py to canonicalize Kalshi market history before further iteration on macro composites. (3) qf-analyst: zero deployed strategies; no decay work this cycle. No trades executed; no deployments. Pipeline status: scanner promoted 1 new pick (KXMTA); stratdev 1 iteration FAIL pending shared collector."
+  },
+  {
+    "timestamp": "2026-04-26T10:40:00Z",
+    "type": "milestone",
+    "title": "Cycle: kxusdurable-composite discovered, kxhpi-composite Stage-2 advanced",
+    "detail": "v10 cycle 2026-04-26 (research-only). Account flat $55.17 cash; 0 positions; 0 resting orders; 0% exposure; lifetime realized P&L +$6.49. All deployed bots dormant since 2026-04-11 (cron jobs disabled). (1) qf-scanner discovered NEW Stage-1 cross-source candidate KXUSDURABLE (Durable Goods Orders MoM) — see scout-reports/2026-04-26-scanner-kxusdurable.md; 8 independent sources spanning Census M3 advance/full report; Bloomberg/Reuters/WSJ consensus; ISM PMI new-orders subindex; Cass Freight Index; Boeing/Lockheed order announcements; Atlanta Fed nowcast; private-sector capex surveys. New strategy directory strategies/kxusdurable-composite created in discovery stage. (2) qf-stratdev advanced kxhpi-composite Stage-2 — added build_feature_panel() and emitted fhfa_feature_panel.csv (421 rows × 12 columns) feeding the FHFA HPI composite backtest harness. (3) No analyst action this cycle; no trades executed. Pipeline advance: kxusdurable-composite registered in discovery; kxhpi-composite Stage-2 feature panel materialized."
   }
 ]
