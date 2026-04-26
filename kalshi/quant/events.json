@@ -736,5 +736,11 @@
     "type": "org",
     "title": "Cycle 2026-04-26: btc-monthly-onetouch Stage-2 CONDITIONAL_PASS; meta-dap onboarded; 0/160 deployed",
     "detail": "v10 cycle 2026-04-26 (money-making-quant). Account flat: 0 positions; cash $55.17; lifetime realized P&L +$6.49; no fills since 2026-04-09 (17d). STALE order: KXGDP-26APR30-T2.5 sell 5x NO @ 0.78 (22d old; settles 2026-04-30); recommend cancel/reprice next cycle. (1) qf-scanner onboarded NEW Stage-1 discovery meta-dap-composite (KXMETADAP) and queued KXCBVOLUME for next sweep. (2) qf-stratdev advanced btc-monthly-onetouch-composite to Stage-2 backtest with verdict CONDITIONAL_PASS (Tier-2 SYNTHETIC; WR=67.65% p=0.0058 ECE=0.055 PF=3.05 ann=34.9% max DD=19.3%). Caveats: only 1/7 data sources actually wired; no LaTeX strategy.tex doc; --live entrypoint is dry-run skeleton; NOT deployable until consolidated and audited. (3) qf-analyst reports 0 of 160 strategies active/deployed; flagged us-retail-sales-composite missing metadata. (4) Bots healthy: market_logger (cron */30) and housing_starts_capture (cron */15) both running. No trades executed; no deployments."
+  },
+  {
+    "timestamp": "2026-04-26T17:42:00Z",
+    "type": "milestone",
+    "title": "coffee-monthly-composite CONDITIONAL_PASS",
+    "detail": "v10 cycle 2026-04-26 (money-making-quant). qf-stratdev advanced coffee-monthly-composite to Stage-2 backtest with gate_checker verdict CONDITIONAL_PASS — Tier-2 deploy-eligible. Gate metrics: WR=94.5%; PF=122.35; p=0.0001; ECE=0.0494; n=73 lockbox events. Per Tier-2 deploy protocol, NOT deployed: awaiting dual-auditor sign-off + Shaokai approval before any Stage-3 live capital. Companion cycle: qf-scanner produced 4 NEW Stage-1 cross-source discoveries (ism-services-composite; michigan-sentiment-composite; industrial-production-composite; jolts-composite). qf-analyst confirms 0 active strategies; no decay flags; weather bot dormant since 2026-04-08. Account flat: cash $55.17; 0 positions; 0% exposure; lifetime realized P&L +$6.48. Stale resting order flagged for Shaokai: KXGDP-26APR30-T2.5 sell NO @ 0.78 (22d old; settles 2026-04-30). No trades executed; no deployments this cycle."
   }
 ]
