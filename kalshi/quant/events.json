@@ -748,5 +748,11 @@
     "type": "research",
     "title": "Cycle 2026-04-26: Euro Area CPI discovery and LAX flight stage advance",
     "detail": "v10 FULL cycle 2026-04-26. Step 3 advanced the research pipeline after fresh scouts: created strategies/kxezcpiyoyf-composite in discovery from the Euro Area flash CPI scanner report and advanced strategies/flightlax-composite from discovery to backtest for Stage-2 data collection. No backtest metrics or deployment claimed. Account remained flat at $55.17 cash with 0 nonzero positions and one resting KXGDP-26APR30-T2.5 sell NO order for 5 contracts at 78c. No trades placed."
+  },
+  {
+    "timestamp": "2026-04-26T22:50:00Z",
+    "type": "org",
+    "title": "cobalt-monthly-composite (KXCOBALTMON) onboarded Stage-1 + fed-balance-sheet advanced to backtest",
+    "detail": "v10 cycle 2026-04-26 (money-making-quant). Account flat $5517; all 10 positions settled this cycle; 1 stale resting order KXGDP-26APR30-T2.5 sell NO @ 0.22 still open. (1) qf-scanner onboarded NEW Stage-1 cross-source discovery cobalt-monthly-composite (KXCOBALTMON) — ~11 independent signals spanning EV battery production telemetry, aerospace superalloy demand, HPAL (high-pressure acid leach) refinery output from Indonesia/Philippines, LME cobalt cash/3M spreads, DRC export licenses, Cobalt Institute monthly statistics, Glencore/CMOC quarterly guidance, Tesla/CATL/BYD battery chemistry mix shifts, recyclate supply, and Chinese strategic stockpile flows. (2) qf-stratdev advanced fed-balance-sheet-composite from discovery → backtest: WALCL + RRP + TGA pinned as the canonical three-leg liability structure; bot scaffolded; sigma=0.302T baseline measured on the pinned series; current blocker is NotImplementedError on compute_signal — no live signal yet. (3) qf-analyst flagged 12 strategies stuck at stage=backtest awaiting promotion review and surfaced systemic missing lessons-learned.md across the strategy directories. No live bots; no agent trading per v10 policy; pipeline status: 1 new discovery + 1 stage advance; promotion queue backed up."
   }
 ]
