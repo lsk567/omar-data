@@ -14,13 +14,13 @@
   {
     "timestamp": "2026-03-09T14:07:00Z",
     "type": "milestone",
-    "title": "ATH $292.49 — Miami weather bets explode",
+    "title": "ATH $292.49 \u2014 Miami weather bets explode",
     "detail": "MIA-T87 2100 YES surging. Up 46.2% from start. Balance $110.77 + portfolio $181.72."
   },
   {
     "timestamp": "2026-03-09T15:04:00Z",
     "type": "crash",
-    "title": "Weather crash — $142 in minutes",
+    "title": "Weather crash \u2014 $142 in minutes",
     "detail": "MIA-T87 2100 collapsing. Down 28.7% from start. Extreme volatility."
   },
   {
@@ -44,31 +44,31 @@
   {
     "timestamp": "2026-03-10T12:46:00Z",
     "type": "loss",
-    "title": "Weather settled — Miami T87 total loss",
+    "title": "Weather settled \u2014 Miami T87 total loss",
     "detail": "MIA high was 84.2F, needed 87F. $45+ loss on weather bets."
   },
   {
     "timestamp": "2026-03-10T18:48:00Z",
     "type": "milestone",
-    "title": "ATL $108.77 — deepest drawdown -45.6%",
+    "title": "ATL $108.77 \u2014 deepest drawdown -45.6%",
     "detail": "Cash $83.85 + positions $24.92. 3 remaining: CPI-Feb, GDP NO, GOVTCUTS NO."
   },
   {
     "timestamp": "2026-03-11T10:44:00Z",
     "type": "org",
-    "title": "v3: Lean team — killed executor + bookkeeper",
+    "title": "v3: Lean team \u2014 killed executor + bookkeeper",
     "detail": "2 persistent agents. 90%+ cycles were HOLD. Fast path / full path protocol."
   },
   {
     "timestamp": "2026-03-11T13:44:00Z",
     "type": "win",
-    "title": "CPI Feb settled — T0.2 YES won",
+    "title": "CPI Feb settled \u2014 T0.2 YES won",
     "detail": "CPI YES settled. +$20 payout. Balance recovered to $103.85."
   },
   {
     "timestamp": "2026-03-14T00:00:00Z",
     "type": "org",
-    "title": "v4: Solo operator — 0 persistent agents",
+    "title": "v4: Solo operator \u2014 0 persistent agents",
     "detail": "All roles on-demand. 95% of cycles were HOLD. Multi-backend capable."
   },
   {
@@ -86,7 +86,7 @@
   {
     "timestamp": "2026-03-18T13:22:00Z",
     "type": "macro",
-    "title": "Feb PPI hot — 0.7% vs 0.3% consensus",
+    "title": "Feb PPI hot \u2014 0.7% vs 0.3% consensus",
     "detail": "Headline PPI more than double consensus. Core 0.5% vs 0.3%. Pre-war data showing inflation already accelerating."
   },
   {
@@ -98,13 +98,13 @@
   {
     "timestamp": "2026-03-18T18:22:00Z",
     "type": "macro",
-    "title": "FOMC holds rates — less hawkish than feared",
+    "title": "FOMC holds rates \u2014 less hawkish than feared",
     "detail": "Dot plot: one cut in 2026 (not zero). SEP PCE 2.7%. No 'transitory' language."
   },
   {
     "timestamp": "2026-03-18T20:31:00Z",
     "type": "trade",
-    "title": "v5 first cycle — 3 new positions",
+    "title": "v5 first cycle \u2014 3 new positions",
     "detail": "WTI T115 YES 10@75c (oil-desk), CPI Apr T0.5 YES 12@48c (cpi-desk), CPI Mar T1.1 YES 30@6c lottery (cpi-desk)."
   },
   {
@@ -116,134 +116,134 @@
   {
     "timestamp": "2026-03-19T12:26:00Z",
     "type": "trade",
-    "title": "Lottery ticket profit take — CPI T1.1",
+    "title": "Lottery ticket profit take \u2014 CPI T1.1",
     "detail": "Sold 15 of 30 CPI Mar T1.1 YES @17c (bought @6c). Realized +$1.65. Holding 15."
   },
   {
     "timestamp": "2026-03-19T07:00:00Z",
     "type": "macro",
-    "title": "Oil surges — ME energy facility attacks",
+    "title": "Oil surges \u2014 ME energy facility attacks",
     "detail": "Brent $108.50 (+5%), WTI $98.91 (+2.8%). Attacks on Middle East energy infrastructure. WTI only $16 from our T115 strike. All 5 positions aligned with oil-inflation thesis."
   },
   {
     "timestamp": "2026-03-20T17:30:00Z",
     "type": "macro",
     "title": "WTI pullback on de-escalation signals",
-    "detail": "WTI $93.55 (from $98). Israel pledged no more oil facility strikes. Bearish triangle forming. GOVTCUTS YES crashed to 7c (our NO best performer). Hormuz still disrupted — 10M bpd off."
+    "detail": "WTI $93.55 (from $98). Israel pledged no more oil facility strikes. Bearish triangle forming. GOVTCUTS YES crashed to 7c (our NO best performer). Hormuz still disrupted \u2014 10M bpd off."
   },
   {
     "timestamp": "2026-03-21T03:00:00Z",
     "type": "macro",
-    "title": "Oil re-escalation — Iraq force majeure, Kuwait struck",
+    "title": "Oil re-escalation \u2014 Iraq force majeure, Kuwait struck",
     "detail": "WTI $98.32 (+2.3%), Brent $112.19. Iraq force majeure at all foreign oilfields. Kuwait refineries hit by drones. 8M bpd global supply contraction (IEA). Analysts estimate March CPI 0.9% MoM."
   },
   {
     "timestamp": "2026-03-21T04:00:00Z",
     "type": "macro",
-    "title": "Israel strikes South Pars — Iran retaliates on Gulf energy",
-    "detail": "Israel bombed South Pars gas field. Iran zero-restraint retaliation — Kuwait Mina Al-Ahmadi (largest refinery) hit. Oil spiked $112 then pulled to $109. IEA: months/years to restore ME oil/gas flows."
+    "title": "Israel strikes South Pars \u2014 Iran retaliates on Gulf energy",
+    "detail": "Israel bombed South Pars gas field. Iran zero-restraint retaliation \u2014 Kuwait Mina Al-Ahmadi (largest refinery) hit. Oil spiked $112 then pulled to $109. IEA: months/years to restore ME oil/gas flows."
   },
   {
     "timestamp": "2026-03-21T05:00:00Z",
     "type": "macro",
-    "title": "Qatar gas facilities $20B damage — food inflation risk",
-    "detail": "17% global LNG capacity lost, 5yr repair estimate. Fertilizer prices soaring → spring planting disruption → food inflation on top of energy. Gas $3.89/gal (+90c from pre-war). New CPI risk factor beyond energy."
+    "title": "Qatar gas facilities $20B damage \u2014 food inflation risk",
+    "detail": "17% global LNG capacity lost, 5yr repair estimate. Fertilizer prices soaring \u2192 spring planting disruption \u2192 food inflation on top of energy. Gas $3.89/gal (+90c from pre-war). New CPI risk factor beyond energy."
   },
   {
     "timestamp": "2026-03-21T10:00:00Z",
     "type": "milestone",
-    "title": "Portfolio stabilized at $121 — 5 positions, all thesis-aligned",
+    "title": "Portfolio stabilized at $121 \u2014 5 positions, all thesis-aligned",
     "detail": "Cash $86.37 + portfolio $35.03 = $121.40. GDP NO +$5.36, GOVTCUTS NO +$6.40 (best performers). CPI-Apr YES +$1.56. WTI T115 -$0.60. CPI-Mar T1.1 free ride. Drawdown -39.3%."
   },
   {
     "timestamp": "2026-03-21T18:00:00Z",
     "type": "macro",
     "title": "CPI-Apr T0.5 bid surges +10c over weekend to 71c",
-    "detail": "CPI-Apr T0.5 YES bid moved 61c (Sat AM) → 71c (Sun evening), +10c weekend repricing. Our entry 48c → +48% at bid. Gas +26.9% MoM (largest since Katrina), diesel driving broad goods inflation. Market absorbing oil-shock CPI narrative."
+    "detail": "CPI-Apr T0.5 YES bid moved 61c (Sat AM) \u2192 71c (Sun evening), +10c weekend repricing. Our entry 48c \u2192 +48% at bid. Gas +26.9% MoM (largest since Katrina), diesel driving broad goods inflation. Market absorbing oil-shock CPI narrative."
   },
   {
     "timestamp": "2026-03-22T06:00:00Z",
     "type": "macro",
-    "title": "WTI T115 surges +9c to 74c bid, last 77c — above entry",
-    "detail": "WTI T115 YES bid moved 65c (Fri) → 74c (Mon AM), +9c over weekend. Last traded 77c vs 75c entry = now profitable. WTI spot $97.36, $18 from $115 strike with 9mo left. Iraq force majeure + Kuwait attacks + Hormuz closure driving structural supply loss."
+    "title": "WTI T115 surges +9c to 74c bid, last 77c \u2014 above entry",
+    "detail": "WTI T115 YES bid moved 65c (Fri) \u2192 74c (Mon AM), +9c over weekend. Last traded 77c vs 75c entry = now profitable. WTI spot $97.36, $18 from $115 strike with 9mo left. Iraq force majeure + Kuwait attacks + Hormuz closure driving structural supply loss."
   },
   {
     "timestamp": "2026-03-23T00:00:00Z",
     "type": "macro",
-    "title": "Trump 48hr ultimatum to Iran — reopen Hormuz or power plants bombed",
-    "detail": "Trump demanded Iran fully reopen Strait of Hormuz within 48 hours or face bombing of power plants. Iran threatened to attack key ME infrastructure in retaliation. Iran struck near Dimona (Israel's nuclear center) — first time in war. WTI ~$98, Brent ~$112. Binary escalation event for all positions."
+    "title": "Trump 48hr ultimatum to Iran \u2014 reopen Hormuz or power plants bombed",
+    "detail": "Trump demanded Iran fully reopen Strait of Hormuz within 48 hours or face bombing of power plants. Iran threatened to attack key ME infrastructure in retaliation. Iran struck near Dimona (Israel's nuclear center) \u2014 first time in war. WTI ~$98, Brent ~$112. Binary escalation event for all positions."
   },
   {
     "timestamp": "2026-03-23T11:00:00Z",
     "type": "crash",
-    "title": "CPI-Apr T0.5 liquidity crisis — spread blows to 81c, last 63c",
+    "title": "CPI-Apr T0.5 liquidity crisis \u2014 spread blows to 81c, last 63c",
     "detail": "CPI-Apr T0.5 YES spread blew out to 11c/92c (81c wide). Last traded 63c (was 76c = -13c drop). Market book empty ahead of Trump Hormuz ultimatum deadline (7:44PM ET tonight). All MMs pulled bids. IEA warns crisis worse than 1970s oil shocks."
   },
   {
     "timestamp": "2026-03-23T15:00:00Z",
     "type": "macro",
-    "title": "Trump postpones Hormuz ultimatum 5 days — oil drops 6.2%",
-    "detail": "Trump delayed strikes citing 'productive talks' with Tehran. WTI and Brent both dropped 6.2%. Iran denies any talks, claims Trump 'retreated out of fear.' Stocks surging. WTI T115 bid dropped 75c→66c over 2 days. 5-day delay not resolution — risk remains."
+    "title": "Trump postpones Hormuz ultimatum 5 days \u2014 oil drops 6.2%",
+    "detail": "Trump delayed strikes citing 'productive talks' with Tehran. WTI and Brent both dropped 6.2%. Iran denies any talks, claims Trump 'retreated out of fear.' Stocks surging. WTI T115 bid dropped 75c\u219266c over 2 days. 5-day delay not resolution \u2014 risk remains."
   },
   {
     "timestamp": "2026-03-24T02:00:00Z",
     "type": "macro",
-    "title": "CPI-Apr T0.5 last traded 70c — recovering from liquidity crisis",
-    "detail": "CPI-Apr T0.5 YES last traded 70c (was 60c = +10c). Bid still illiquid at 27c but real value confirmed around 70c. MMs slowly returning post-postponement. Entry 48c → +46% on last trade. GDP NO hit 68c ATH."
+    "title": "CPI-Apr T0.5 last traded 70c \u2014 recovering from liquidity crisis",
+    "detail": "CPI-Apr T0.5 YES last traded 70c (was 60c = +10c). Bid still illiquid at 27c but real value confirmed around 70c. MMs slowly returning post-postponement. Entry 48c \u2192 +46% on last trade. GDP NO hit 68c ATH."
   },
   {
     "timestamp": "2026-03-24T19:00:00Z",
     "type": "macro",
-    "title": "CPI-Apr T0.5 bid recovers +12c to 41c — liquidity crisis over",
-    "detail": "CPI-Apr T0.5 YES bid jumped 29c→41c (+12c). Spread narrowed to 19c (41/60c) from 81c peak crisis. MMs fully returned post-Trump postponement. Last trade 69c. Entry 48c. Bid still below entry but real value ~69c confirmed."
+    "title": "CPI-Apr T0.5 bid recovers +12c to 41c \u2014 liquidity crisis over",
+    "detail": "CPI-Apr T0.5 YES bid jumped 29c\u219241c (+12c). Spread narrowed to 19c (41/60c) from 81c peak crisis. MMs fully returned post-Trump postponement. Last trade 69c. Entry 48c. Bid still below entry but real value ~69c confirmed."
   },
   {
     "timestamp": "2026-03-24T21:00:00Z",
     "type": "macro",
-    "title": "WTI T115 bid drops 10c to 57c — oil crashed 10% on postponement",
-    "detail": "WTI T115 YES bid dropped 67c→57c (-10c). WTI spot crashed 10.28% to $88.13 Mon, recovering +2.5% to $90 Tue. Trump 5-day pause driving de-escalation pricing. Iran denies talks. Hormuz still closed. Entry 75c → -$1.80 unrealized. 9mo timeframe."
+    "title": "WTI T115 bid drops 10c to 57c \u2014 oil crashed 10% on postponement",
+    "detail": "WTI T115 YES bid dropped 67c\u219257c (-10c). WTI spot crashed 10.28% to $88.13 Mon, recovering +2.5% to $90 Tue. Trump 5-day pause driving de-escalation pricing. Iran denies talks. Hormuz still closed. Entry 75c \u2192 -$1.80 unrealized. 9mo timeframe."
   },
   {
     "timestamp": "2026-03-25T14:00:00Z",
     "type": "macro",
-    "title": "CPI-Apr T0.5 last crashes 69c→49c (-20c) — de-escalation repricing",
-    "detail": "CPI-Apr T0.5 YES last traded 49c (was 69c = -20c). Tight 4c spread (44/48c) confirms real repricing not illiquidity. Oil de-escalation (Trump 5-day pause, 15-point plan) driving market to price cooler CPI. Entry 48c → now at bid 44c (-8%). CPI-Mar T1.1 also fading to 4c."
+    "title": "CPI-Apr T0.5 last crashes 69c\u219249c (-20c) \u2014 de-escalation repricing",
+    "detail": "CPI-Apr T0.5 YES last traded 49c (was 69c = -20c). Tight 4c spread (44/48c) confirms real repricing not illiquidity. Oil de-escalation (Trump 5-day pause, 15-point plan) driving market to price cooler CPI. Entry 48c \u2192 now at bid 44c (-8%). CPI-Mar T1.1 also fading to 4c."
   },
   {
     "timestamp": "2026-03-25T18:00:00Z",
     "type": "macro",
-    "title": "Iran rejects Trump 15-point plan — demands Hormuz sovereignty",
+    "title": "Iran rejects Trump 15-point plan \u2014 demands Hormuz sovereignty",
     "detail": "Iran called US proposal 'maximalist, unreasonable.' Issued 5-point counteroffer: halt killings of officials, reparations, no future wars, end hostilities, Iran sovereignty over Hormuz + toll collection (Suez model). Quick resolution unlikely. 5-day pause expires ~Mar 28. WTI recovering to $92, Brent $104."
   },
   {
     "timestamp": "2026-03-26T20:00:00Z",
     "type": "macro",
-    "title": "Trump extends Hormuz deadline to April 6 — 9 more days",
-    "detail": "Trump extended power plant strike deadline from Mar 28 to Mon Apr 6 at 8PM ET, citing ongoing talks. Israel struck Isfahan Thu, Iran fired missiles at central Israel — war continues during pause. GDP NO hit 70c (new ATH). Pause only covers US strikes on power plants, not broader military ops."
+    "title": "Trump extends Hormuz deadline to April 6 \u2014 9 more days",
+    "detail": "Trump extended power plant strike deadline from Mar 28 to Mon Apr 6 at 8PM ET, citing ongoing talks. Israel struck Isfahan Thu, Iran fired missiles at central Israel \u2014 war continues during pause. GDP NO hit 70c (new ATH). Pause only covers US strikes on power plants, not broader military ops."
   },
   {
     "timestamp": "2026-03-27T00:00:00Z",
     "type": "macro",
-    "title": "CPI-Apr T0.5 bid surges +18c to 63c — inflation re-pricing",
-    "detail": "CPI-Apr T0.5 YES bid jumped 45c→63c (+18c in one cycle). Entry 48c → +31% at bid. Market re-pricing hot CPI despite pause extension — gas at $3.91 already baked into March data, April CPI >0.5% increasingly certain. GDP NO steady at 70c ATH."
+    "title": "CPI-Apr T0.5 bid surges +18c to 63c \u2014 inflation re-pricing",
+    "detail": "CPI-Apr T0.5 YES bid jumped 45c\u219263c (+18c in one cycle). Entry 48c \u2192 +31% at bid. Market re-pricing hot CPI despite pause extension \u2014 gas at $3.91 already baked into March data, April CPI >0.5% increasingly certain. GDP NO steady at 70c ATH."
   },
   {
     "timestamp": "2026-03-27T06:00:00Z",
     "type": "macro",
-    "title": "CPI-Apr T0.5 last trades at 96c (+23c) — near-certainty",
+    "title": "CPI-Apr T0.5 last trades at 96c (+23c) \u2014 near-certainty",
     "detail": "CPI-Apr T0.5 YES last traded 96c (was 73c = +23c). NO bid 3c. Market pricing April CPI >0.5% as near-certain. Our 12 contracts at 48c entry = +100% unrealized gain. Thin weekend liquidity but NO bid confirms real repricing."
   },
   {
     "timestamp": "2026-03-28T00:00:00Z",
     "type": "macro",
-    "title": "CPI-Apr normalizes 97→55c; WTI surges +9c to 67c bid",
-    "detail": "CPI-Apr T0.5 last 55c (was 97c — anomalous thin-liquidity trade normalized). Bid returned at 47c (near 48c entry). WTI T115 bid surged 58→67c (+9c). Both markets repricing as MMs return to normal weekend. Real CPI-Apr value settling ~47-55c."
+    "title": "CPI-Apr normalizes 97\u219255c; WTI surges +9c to 67c bid",
+    "detail": "CPI-Apr T0.5 last 55c (was 97c \u2014 anomalous thin-liquidity trade normalized). Bid returned at 47c (near 48c entry). WTI T115 bid surged 58\u219267c (+9c). Both markets repricing as MMs return to normal weekend. Real CPI-Apr value settling ~47-55c."
   },
   {
     "timestamp": "2026-03-28T04:00:00Z",
     "type": "macro",
-    "title": "GDP NO bid -11c to 59c — weekend spread; GDPNow drops to 2.0%",
-    "detail": "GDP T3.0 NO bid dropped 70→59c (-11c). Likely weekend spread widening (YES bid 29→35c, spread 1c→6c both sides). GDPNow dropped to 2.0% on Mar 23 (from 2.3%) — thesis even stronger but market illiquid. WTI last 77.7c (above 75c entry)."
+    "title": "GDP NO bid -11c to 59c \u2014 weekend spread; GDPNow drops to 2.0%",
+    "detail": "GDP T3.0 NO bid dropped 70\u219259c (-11c). Likely weekend spread widening (YES bid 29\u219235c, spread 1c\u21926c both sides). GDPNow dropped to 2.0% on Mar 23 (from 2.3%) \u2014 thesis even stronger but market illiquid. WTI last 77.7c (above 75c entry)."
   },
   {
     "timestamp": "2026-03-30T18:00:00Z",
@@ -254,67 +254,67 @@
   {
     "timestamp": "2026-03-31T18:03:00Z",
     "type": "trade",
-    "title": "v6 first cycle — 4 new trades from parallel research desks",
+    "title": "v6 first cycle \u2014 4 new trades from parallel research desks",
     "detail": "4 research agents (oil/cpi/macro/opps) ran in parallel. Executed: WTI T120 YES 10@75c, WTI T140 YES 8@49c, GDP T2.5 NO 15@50c, Recession YES 10@34c. Total deployed $22.21. Portfolio now 9 positions. First trades in 3 weeks."
   },
   {
     "timestamp": "2026-03-31T18:03:00Z",
     "type": "org",
-    "title": "v6 org launched — research-driven firm with 4 parallel desks",
-    "detail": "Upgraded from solo operator to 4 parallel research desks (oil/cpi/macro/opportunity). Position limit 5→15. Drawdown 20%→35%. Exposure 60%→75%. First full research cycle produced 4 actionable trades from convergent thesis across desks."
+    "title": "v6 org launched \u2014 research-driven firm with 4 parallel desks",
+    "detail": "Upgraded from solo operator to 4 parallel research desks (oil/cpi/macro/opportunity). Position limit 5\u219215. Drawdown 20%\u219235%. Exposure 60%\u219275%. First full research cycle produced 4 actionable trades from convergent thesis across desks."
   },
   {
     "timestamp": "2026-03-31T19:48:00Z",
     "type": "crash",
-    "title": "WTI T115 bid drops 12c to 70c — single seller in thin market",
-    "detail": "WTI T115 YES bid crashed 82→70c (-12c). Spread blew to 14c (70/84c). Last traded 70.4c. Likely single seller dumping into thin bid near market close. Ask still 84c. Entry 75c → now underwater at bid. Not selling — spread noise, 9mo left."
+    "title": "WTI T115 bid drops 12c to 70c \u2014 single seller in thin market",
+    "detail": "WTI T115 YES bid crashed 82\u219270c (-12c). Spread blew to 14c (70/84c). Last traded 70.4c. Likely single seller dumping into thin bid near market close. Ask still 84c. Entry 75c \u2192 now underwater at bid. Not selling \u2014 spread noise, 9mo left."
   },
   {
     "timestamp": "2026-04-01T04:57:00Z",
     "type": "crash",
-    "title": "WTI T115 bid crashes again to 58c (-18c) — overnight seller",
-    "detail": "WTI T115 YES bid crashed 76→58c (-18c). Spread blew to 25c (58/83c). Last 56.1c. Second overnight crash in same session — same pattern of thin-liquidity seller. Ask stable at 83c. Recurring pattern: bid recovers once normal volume returns."
+    "title": "WTI T115 bid crashes again to 58c (-18c) \u2014 overnight seller",
+    "detail": "WTI T115 YES bid crashed 76\u219258c (-18c). Spread blew to 25c (58/83c). Last 56.1c. Second overnight crash in same session \u2014 same pattern of thin-liquidity seller. Ask stable at 83c. Recurring pattern: bid recovers once normal volume returns."
   },
   {
     "timestamp": "2026-04-01T16:50:00Z",
     "type": "trade",
-    "title": "v7 first cycle — NEW SECTOR: Payrolls + WTI T130",
-    "detail": "13 parallel agents (3 core + 10 scouts). Discovered PAYROLLS markets — 2 scouts converged independently. Executed: KXPAYROLLS-26MAR-T100000 YES 10@29c (NFP consensus 135K vs 27% implied) + KXWTIMAX-T130 YES 5@54c. 6 scouts found zero-liquidity sectors (crypto/weather/sports/housing/fed). 11 positions now."
+    "title": "v7 first cycle \u2014 NEW SECTOR: Payrolls + WTI T130",
+    "detail": "13 parallel agents (3 core + 10 scouts). Discovered PAYROLLS markets \u2014 2 scouts converged independently. Executed: KXPAYROLLS-26MAR-T100000 YES 10@29c (NFP consensus 135K vs 27% implied) + KXWTIMAX-T130 YES 5@54c. 6 scouts found zero-liquidity sectors (crypto/weather/sports/housing/fed). 11 positions now."
   },
   {
     "timestamp": "2026-04-01T16:50:00Z",
     "type": "org",
-    "title": "v7 launched — 13 parallel researchers, horizontal scale",
+    "title": "v7 launched \u2014 13 parallel researchers, horizontal scale",
     "detail": "3 core desks + 10 opportunity scouts. First cycle: 12/13 completed in ~3 min. Scouts mapped Kalshi liquidity landscape: only macro/oil/payrolls have active books. Crypto/weather/sports/housing/fed all dead. Information surface area 10x vs v6."
   },
   {
     "timestamp": "2026-04-02T05:00:00Z",
     "type": "macro",
-    "title": "WTI T130 bid surges +10c to 56c — now profitable",
-    "detail": "WTI T130 YES bid jumped 46c→56c (+10c overnight). Last 61c. Entry 54c → now profitable. WTI curve strengthening overnight — T115 74c, T120 70c, T130 56c, T140 41c. Oil likely rallying on Apr 6 deadline approaching."
+    "title": "WTI T130 bid surges +10c to 56c \u2014 now profitable",
+    "detail": "WTI T130 YES bid jumped 46c\u219256c (+10c overnight). Last 61c. Entry 54c \u2192 now profitable. WTI curve strengthening overnight \u2014 T115 74c, T120 70c, T130 56c, T140 41c. Oil likely rallying on Apr 6 deadline approaching."
   },
   {
     "timestamp": "2026-04-02T18:00:00Z",
     "type": "org",
-    "title": "v8 launched — hybrid bots + agents",
+    "title": "v8 launched \u2014 hybrid bots + agents",
     "detail": "Weather bot (weather_bot.py) auto-trades NWS forecasts. 2 agent desks (oil/macro) for judgment calls. Codex scouts eliminated. Bot limits: $15/day, 20 contracts/trade, 15% min edge."
   },
   {
     "timestamp": "2026-04-02T18:12:00Z",
     "type": "trade",
-    "title": "Weather bot first live trades — 4 positions",
+    "title": "Weather bot first live trades \u2014 4 positions",
     "detail": "Bot executed: CHI T60 17 YES@19c (NWS 50F, model 100%), MIA B81.5 15 NO@17c, MIA B82.5 5 NO@40c, DEN B71.5 3 NO@42c. First automated weather trades."
   },
   {
     "timestamp": "2026-04-03T11:07:00Z",
     "type": "win",
-    "title": "Apr 2 weather settled — bot nets +$28 profit",
+    "title": "Apr 2 weather settled \u2014 bot nets +$28 profit",
     "detail": "DEN T71 13 NO +$9.49, MIA B81.5 25 NO +$20.75, CHI B72.5 4 NO +$2.21. Losses: CHI B70.5 9 NO -$3.40, DEN B71.5 3 NO -$1.32. Bot net: +$27.73. Win rate 3/5 = 60%. Profit factor 6.9x."
   },
   {
     "timestamp": "2026-04-03T12:30:00Z",
     "type": "macro",
-    "title": "NFP +65K (consensus +60K) — inline, Feb revised -92K",
+    "title": "NFP +65K (consensus +60K) \u2014 inline, Feb revised -92K",
     "detail": "March payrolls inline at +65K. Feb revised down to -92K. Good Friday = markets closed, no reaction. GDP T2.5 YES dropped to 32c pre-NFP (our NO gaining). Weak labor trend supports recession thesis."
   },
   {
@@ -332,67 +332,67 @@
   {
     "timestamp": "2026-04-03T22:04:00Z",
     "type": "macro",
-    "title": "Major Iran escalation — F-15 downed, Kuwait refinery burning",
+    "title": "Major Iran escalation \u2014 F-15 downed, Kuwait refinery burning",
     "detail": "US F-15E shot down over Iran. Kuwait Mina Al-Ahmadi refinery hit by drones and burning. Abu Dhabi gas facility also struck. Brent +8% to $109. WTI $111.54. Hormuz still blocked. 40-nation summit convened without US/Israel."
   },
   {
     "timestamp": "2026-04-03T23:07:00Z",
     "type": "macro",
-    "title": "Muscat Protocol — Iran-Oman Hormuz governance deal",
+    "title": "Muscat Protocol \u2014 Iran-Oman Hormuz governance deal",
     "detail": "Iran and Oman signed joint Hormuz governance deal creating Green Channel for commercial shipping with moratorium on vessel boardings. Triggered relief rally (S&P/Nasdaq best session in 18 months). T120 dropped 5.8c on de-escalation pricing despite military escalation. Trump paused energy strikes until Apr 6 8PM ET."
   },
   {
     "timestamp": "2026-04-03T23:07:00Z",
     "type": "trade",
     "title": "ADD GDP T2.5 NO on thin-liquidity bounce",
-    "detail": "GDP T2.5 YES bounced 32c→42c on Good Friday (only $55 at bid, 10c spread). Fair value 25-30c per GDPNow 1.6%. Added 10 NO@48c (resting). KKR cut GDP forecast to 2.0%."
+    "detail": "GDP T2.5 YES bounced 32c\u219242c on Good Friday (only $55 at bid, 10c spread). Fair value 25-30c per GDPNow 1.6%. Added 10 NO@48c (resting). KKR cut GDP forecast to 2.0%."
   },
   {
     "timestamp": "2026-04-04T12:00:00Z",
     "type": "loss",
-    "title": "Apr03 weather settled — net -$15.04 (3/10 win rate)",
-    "detail": "CHI T60 34 YES was total loss (-$6.84) — official NWS high was below 60°F despite 62.6°F reading at 1AM CDT (counted as Apr 2 carryover). DEN B53.5 NO also lost (-$3.38). Winners: MIA B82.5 NO (+$4.59), NYC B67.5 NO (+$3.92). Revenue $27, cost $40.66, fees $1.38. Lesson: early morning warm readings may not count as next-day official high."
+    "title": "Apr03 weather settled \u2014 net -$15.04 (3/10 win rate)",
+    "detail": "CHI T60 34 YES was total loss (-$6.84) \u2014 official NWS high was below 60\u00b0F despite 62.6\u00b0F reading at 1AM CDT (counted as Apr 2 carryover). DEN B53.5 NO also lost (-$3.38). Winners: MIA B82.5 NO (+$4.59), NYC B67.5 NO (+$3.92). Revenue $27, cost $40.66, fees $1.38. Lesson: early morning warm readings may not count as next-day official high."
   },
   {
     "timestamp": "2026-04-05T12:00:00Z",
     "type": "loss",
-    "title": "Apr04 weather settled — net -$24.73 (1/5 win rate)",
-    "detail": "Worst weather day yet. MIA B82.5 26 NO -$11.99 (high >82.5). CHI B59.5 59 NO -$9.82 (high <59.5). NYC T68 52 YES -$4.71 (high <68). CHI T55 20 YES -$1.65. Only winner: CHI B57.5 7 NO +$3.44. Bot day-1 forecasts all wrong. Weather bot net since v8 launch: +$27.73 - $15.04 - $24.73 = -$12.04. Bot is underperforming — needs strategy review."
+    "title": "Apr04 weather settled \u2014 net -$24.73 (1/5 win rate)",
+    "detail": "Worst weather day yet. MIA B82.5 26 NO -$11.99 (high >82.5). CHI B59.5 59 NO -$9.82 (high <59.5). NYC T68 52 YES -$4.71 (high <68). CHI T55 20 YES -$1.65. Only winner: CHI B57.5 7 NO +$3.44. Bot day-1 forecasts all wrong. Weather bot net since v8 launch: +$27.73 - $15.04 - $24.73 = -$12.04. Bot is underperforming \u2014 needs strategy review."
   },
   {
     "timestamp": "2026-04-05T16:30:00Z",
     "type": "org",
-    "title": "v9 launched — Pipeline-Driven Firm",
-    "detail": "Systematic strategy pipeline: Discover → Backtest → Deploy → Monitor. Hard gates for deployment: profit factor ≥1.3, win rate ≥50%, projected annual return ≥20%, max drawdown ≤25%, ≥30 OOS trades. Scouts own pipeline stages (Market Scanner=Discover, Strategy Developer=Backtest+Investigate, Performance Analyst=Monitor). Weather bot flagged as non-compliant — deployed with zero backtest, now -$12 cumulative, overfit stdev recalibration on N=1 day data. Must pass retroactive backtest or be archived."
+    "title": "v9 launched \u2014 Pipeline-Driven Firm",
+    "detail": "Systematic strategy pipeline: Discover \u2192 Backtest \u2192 Deploy \u2192 Monitor. Hard gates for deployment: profit factor \u22651.3, win rate \u226550%, projected annual return \u226520%, max drawdown \u226425%, \u226530 OOS trades. Scouts own pipeline stages (Market Scanner=Discover, Strategy Developer=Backtest+Investigate, Performance Analyst=Monitor). Weather bot flagged as non-compliant \u2014 deployed with zero backtest, now -$12 cumulative, overfit stdev recalibration on N=1 day data. Must pass retroactive backtest or be archived."
   },
   {
     "timestamp": "2026-04-08T16:50:00Z",
     "type": "crash",
-    "title": "Oil crash + weather bot blowup — account drops 41% in 2 days",
-    "detail": "Account fell from $97.90 (Apr 6) to $56.62. Three causes: (1) WTI crashed 17.5% ($113→$93) on Pakistan-brokered US-Iran ceasefire with temporary Hormuz reopening — all oil positions hit hard; (2) Weather bot bought 128 CHI T63 contracts (6.4x the 20-contract limit!) now worth 1c each — near total $11 loss; (3) Recession YES dropped 34c→22c on de-escalation. Response: CUT T140/T130, trimmed T120 to 2, trimmed recession to 15, disabled weather bot cron. Cash recovered from $9.52 to $17.06. Weather bot disabled permanently pending review."
+    "title": "Oil crash + weather bot blowup \u2014 account drops 41% in 2 days",
+    "detail": "Account fell from $97.90 (Apr 6) to $56.62. Three causes: (1) WTI crashed 17.5% ($113\u2192$93) on Pakistan-brokered US-Iran ceasefire with temporary Hormuz reopening \u2014 all oil positions hit hard; (2) Weather bot bought 128 CHI T63 contracts (6.4x the 20-contract limit!) now worth 1c each \u2014 near total $11 loss; (3) Recession YES dropped 34c\u219222c on de-escalation. Response: CUT T140/T130, trimmed T120 to 2, trimmed recession to 15, disabled weather bot cron. Cash recovered from $9.52 to $17.06. Weather bot disabled permanently pending review."
   },
   {
     "timestamp": "2026-04-08T16:56:00Z",
     "type": "trade",
-    "title": "Emergency oil + recession trim — 4 sells to recover cash",
-    "detail": "Sold: 4 T140 YES @28c, 5 T130 YES @38c, 3 T120 YES @54c, 10 recession YES @22c. Total proceeds $6.48 net of fees. Oil exposure reduced from $9.84 to $2.99 (T115×2 + T120×2 as ceasefire-collapse lottery). Recession trimmed from 25 to 15 (hold through Apr 10 CPI). GDP NOs untouched — strongest positions with GDPNow at 1.6%."
+    "title": "Emergency oil + recession trim \u2014 4 sells to recover cash",
+    "detail": "Sold: 4 T140 YES @28c, 5 T130 YES @38c, 3 T120 YES @54c, 10 recession YES @22c. Total proceeds $6.48 net of fees. Oil exposure reduced from $9.84 to $2.99 (T115\u00d72 + T120\u00d72 as ceasefire-collapse lottery). Recession trimmed from 25 to 15 (hold through Apr 10 CPI). GDP NOs untouched \u2014 strongest positions with GDPNow at 1.6%."
   },
   {
     "timestamp": "2026-04-08T17:22:00Z",
     "type": "org",
-    "title": "v10 launched — Coordinator Model",
+    "title": "v10 launched \u2014 Coordinator Model",
     "detail": "Firm head becomes pure coordinator. Every cycle step (1-9) delegated to Claude Code subagents. Steps 1+2 run in parallel. Step 4 risk check is now a dedicated subagent that cannot be skipped. Triggered by v9 cycle #97 where firm head skipped formal risk check and missed 80.7% drawdown breach. Weather bot cron disabled."
   },
   {
     "timestamp": "2026-04-08T17:22:00Z",
     "type": "trade",
-    "title": "Recession ADD blocked by risk check — drawdown halt",
+    "title": "Recession ADD blocked by risk check \u2014 drawdown halt",
     "detail": "Macro desk recommended adding 5-10 recession YES at 22c (analyst consensus 30-50% vs market). Step 4 risk subagent BLOCKED: 80.7% drawdown from $292.49 ATH (limit 35%), cash $17.06 (limit $40), exposure 79.9% (limit 75%), macro sector 59% (limit 20%). First trade blocked under v10 mandatory risk gates."
   },
   {
     "timestamp": "2026-04-09T11:30:00Z",
     "type": "loss",
-    "title": "KXHIGHCHI-26APR08-T63 settles NO — we lose $11.37",
+    "title": "KXHIGHCHI-26APR08-T63 settles NO \u2014 we lose $11.37",
     "detail": "Chicago high was >= 63F (result=no). Our 128 YES contracts (betting <63F) are worthless. Cost $11.37 + $0.64 fees = $12.01 total loss. NWS raw obs showed 66.9F at Midway. Google showed 62F but official data was >= 63F. Lesson: always verify contract direction and trust official settlement source over Google."
   },
   {
@@ -422,8 +422,8 @@
   {
     "timestamp": "2026-04-10T04:00:00Z",
     "type": "macro",
-    "title": "Gas-prices-weekly dual audit FAILED — target leakage",
-    "detail": "Dual auditor Opus 4.6 + GPT 5.2 independently confirmed target leakage in gas-prices-weekly backtest: feature prev_price == actual_price in 98/111 rows (88%), including the locked holdout. The PF 46.8 / WR 97% metrics are artifacts of looking at the answer. Strategy flipped back to backtest stage, active=false, not archived — can be rebuilt with a leak-free feature pipeline. wti-weekly-composite flagged SUSPECT since its metrics (PF 254, WR 99%) match the same pattern; requires independent review before any dual audit."
+    "title": "Gas-prices-weekly dual audit FAILED \u2014 target leakage",
+    "detail": "Dual auditor Opus 4.6 + GPT 5.2 independently confirmed target leakage in gas-prices-weekly backtest: feature prev_price == actual_price in 98/111 rows (88%), including the locked holdout. The PF 46.8 / WR 97% metrics are artifacts of looking at the answer. Strategy flipped back to backtest stage, active=false, not archived \u2014 can be rebuilt with a leak-free feature pipeline. wti-weekly-composite flagged SUSPECT since its metrics (PF 254, WR 99%) match the same pattern; requires independent review before any dual audit."
   },
   {
     "timestamp": "2026-04-10T17:02:00Z",
@@ -434,7 +434,7 @@
   {
     "timestamp": "2026-04-10T17:57:22Z",
     "type": "pipeline",
-    "title": "Cycle 11 — payrolls iter2 near-pass, +5 discoveries",
+    "title": "Cycle 11 \u2014 payrolls iter2 near-pass, +5 discoveries",
     "detail": "payrolls-composite passed all 4 predictive gates (p=0.0001 n=63) but missed 20% annual exec threshold at 19.3%. 5 new cross-source discovery scaffolds created. Fleet halted pending reship; registry reconciliation needed for cpi-yoy jobless-claims tsa-composite."
   },
   {
@@ -453,7 +453,7 @@
     "timestamp": "2026-04-10T22:20:00Z",
     "type": "milestone",
     "title": "canada-cpi-yoy-composite advanced to dual-auditor stage (fallback APPROVE)",
-    "detail": "Scout cycle 20260410-1441: canada-cpi-yoy-composite advanced to dual-auditor stage. audit-opus SIGN-OFF with 185-line independent review; hash chain verified; backtest reproduces exactly. audit-gpt attempt1 REJECTed for independence+scope violations (quarantined as attempt1-invalid); attempts 2 and 3 with codex/opencode backends hung in interactive modals. firm-head took over audit-gpt.md as disclosed fallback APPROVE with conditions. NOT deployed — Shaokai approval still pending via Slack. Also: 5 scanner candidates scaffolded as discovery stubs (kxcodingmodel-composite, kxusacompanystake-composite, kxnfprod-composite, kxnasdaq100miny-composite, kxnycbillionaires-composite); README Current Strategy Status drift corrected (1 truly deployed: unemployment-composite HEALTHY-IDLE until ~May 1; tornado + canada-cpi-yoy reclassified BACKTEST; allocation table reduced from 5 to 1)."
+    "detail": "Scout cycle 20260410-1441: canada-cpi-yoy-composite advanced to dual-auditor stage. audit-opus SIGN-OFF with 185-line independent review; hash chain verified; backtest reproduces exactly. audit-gpt attempt1 REJECTed for independence+scope violations (quarantined as attempt1-invalid); attempts 2 and 3 with codex/opencode backends hung in interactive modals. firm-head took over audit-gpt.md as disclosed fallback APPROVE with conditions. NOT deployed \u2014 Shaokai approval still pending via Slack. Also: 5 scanner candidates scaffolded as discovery stubs (kxcodingmodel-composite, kxusacompanystake-composite, kxnfprod-composite, kxnasdaq100miny-composite, kxnycbillionaires-composite); README Current Strategy Status drift corrected (1 truly deployed: unemployment-composite HEALTHY-IDLE until ~May 1; tornado + canada-cpi-yoy reclassified BACKTEST; allocation table reduced from 5 to 1)."
   },
   {
     "timestamp": "2026-04-10T22:53:00Z",
@@ -572,38 +572,38 @@
   {
     "timestamp": "2026-04-11T07:53:00Z",
     "type": "crash",
-    "title": "wti-weekly-composite INVALID — T-1 temporal leakage",
+    "title": "wti-weekly-composite INVALID \u2014 T-1 temporal leakage",
     "detail": "qf-stratdev flagged wti-weekly-composite as INVALID due to T-1 temporal leakage (feature uses same-period data as target). Strategy retracted from pipeline. Cycle v10 2026-04-11: account flat $517, 0 positions, 0pct exposure. Scanner produced 5 new candidates (3 HIGH); 3 new discovery dirs created: gdpnom-global-composite, nonus-unemployment-composite, spacex-launch-count-composite. 1 active strategy healthy per analyst. No trades."
   },
   {
     "timestamp": "2026-04-11T08:20:00Z",
     "type": "macro",
-    "title": "v10 research-only cycle — scanner adds KXGDP/KXFED, shelter-cpi PASS Tier 3",
+    "title": "v10 research-only cycle \u2014 scanner adds KXGDP/KXFED, shelter-cpi PASS Tier 3",
     "detail": "Research-only cycle. Balance $5517.00, all positions closed, 0pct exposure, 1 resting order. Net realized ~+$6.50. Scanner discovered new KXGDP and KXFED candidates. shelter-cpi-composite backtest CONDITIONAL_PASS gating to Tier 3 (no Kalshi tape available). Analyst flagged metadata issues across strategies; unemployment-composite bot file missing. No trades executed."
   },
   {
     "timestamp": "2026-04-11T09:23:00Z",
     "type": "research",
-    "title": "cpi-yoy-composite FAIL 1/4 gates — DEMOTED",
+    "title": "cpi-yoy-composite FAIL 1/4 gates \u2014 DEMOTED",
     "detail": "v10 cycle 2026-04-11. qf-stratdev ran OOS backtest on cpi-yoy-composite: passed only 1 of 4 predictive gates, strategy DEMOTED from pipeline. qf-scanner surfaced 5 new candidates including KXWTIMAX, KXU3MAX, KXUSDX. Discovery docs opened for cpi-core-mom and cpi-headline-mom. qf-analyst reported unemployment bot file MISSING and tsa-composite artifacts MISSING."
   },
   {
     "timestamp": "2026-04-11T09:23:30Z",
     "type": "org",
-    "title": "v10 research-only cycle — flat book, scouts active",
+    "title": "v10 research-only cycle \u2014 flat book, scouts active",
     "detail": "Balance $55.17, 0 positions, 0pct exposure. No trades executed. Scouts qf-scanner + qf-stratdev + qf-analyst all ran. Pipeline hygiene: cpi-yoy demoted; missing artifacts flagged on unemployment and tsa strategies; 2 new discovery dirs seeded (cpi-core-mom, cpi-headline-mom)."
   },
   {
     "timestamp": "2026-04-11T03:20:00Z",
     "type": "milestone",
     "title": "cpi-headline-mom-composite CONDITIONAL_PASS + 2 new cross-source discoveries",
-    "detail": "v10 cycle. qf-stratdev completed cpi-headline-mom-composite backtest CONDITIONAL_PASS (WR 79%, p<0.0001, ECE 0.049, 72 events, PF 5.48) — needs dual audit + Shaokai approval before deploy. qf-scanner surfaced 2 NEW cross-source discoveries: us-retail-sales-composite and nh-new-home-sales-composite. qf-analyst confirmed 5 phantom-deployed strategies (tornado/unemployment/jobless/tsa/cpi-yoy) still not trading — persistent blocker. Account $55.17 cash only, 0 positions."
+    "detail": "v10 cycle. qf-stratdev completed cpi-headline-mom-composite backtest CONDITIONAL_PASS (WR 79%, p<0.0001, ECE 0.049, 72 events, PF 5.48) \u2014 needs dual audit + Shaokai approval before deploy. qf-scanner surfaced 2 NEW cross-source discoveries: us-retail-sales-composite and nh-new-home-sales-composite. qf-analyst confirmed 5 phantom-deployed strategies (tornado/unemployment/jobless/tsa/cpi-yoy) still not trading \u2014 persistent blocker. Account $55.17 cash only, 0 positions."
   },
   {
     "timestamp": "2026-04-11T13:24:00Z",
     "type": "macro",
     "title": "High-inflation-composite backtest failed ECE gate",
-    "detail": "qf-stratdev ran high-inflation-composite backtest: FAILED predictive gates with ECE 0.19 (> 0.10 threshold) and annual return below threshold. WR 60.7%; p<0.0001; Tier 3 — not deployable."
+    "detail": "qf-stratdev ran high-inflation-composite backtest: FAILED predictive gates with ECE 0.19 (> 0.10 threshold) and annual return below threshold. WR 60.7%; p<0.0001; Tier 3 \u2014 not deployable."
   },
   {
     "timestamp": "2026-04-11T13:24:01Z",
@@ -615,7 +615,7 @@
     "timestamp": "2026-04-11T15:09:00Z",
     "type": "research",
     "title": "Cycle discoveries 2026-04-11",
-    "detail": "v10 FULL cycle. 3 new cross-source discoveries added: brazil-selic (KXCBDECISIONBRAZIL), uk-retail (KXUKRETAIL), us-effective-tariff (KXEFFTARIFF). housing-starts-composite v2 backtest CONDITIONAL_PASS Tier 2 — awaiting dual audit + Shaokai approval. Deployment blockers persist: all 5 deployed composites show active=false drift; tornado awaits Shaokai v6 review; cpi-yoy URGENT for Mon 04-13 settlement; unemployment bot missing; jobless/tsa remain stubs. Account flat 0 positions; 1 resting order KXGDP T2.5 NO."
+    "detail": "v10 FULL cycle. 3 new cross-source discoveries added: brazil-selic (KXCBDECISIONBRAZIL), uk-retail (KXUKRETAIL), us-effective-tariff (KXEFFTARIFF). housing-starts-composite v2 backtest CONDITIONAL_PASS Tier 2 \u2014 awaiting dual audit + Shaokai approval. Deployment blockers persist: all 5 deployed composites show active=false drift; tornado awaits Shaokai v6 review; cpi-yoy URGENT for Mon 04-13 settlement; unemployment bot missing; jobless/tsa remain stubs. Account flat 0 positions; 1 resting order KXGDP T2.5 NO."
   },
   {
     "timestamp": "2026-04-11T15:48:00Z",
@@ -633,13 +633,13 @@
     "timestamp": "2026-04-11T17:23:01Z",
     "type": "milestone",
     "title": "brazil-inflation-composite discovery advanced",
-    "detail": "qf-stratdev advanced brazil-inflation-composite discovery document — new cross-source candidate progressing through pipeline toward backtest."
+    "detail": "qf-stratdev advanced brazil-inflation-composite discovery document \u2014 new cross-source candidate progressing through pipeline toward backtest."
   },
   {
     "timestamp": "2026-04-11T21:06:00Z",
     "type": "milestone",
     "title": "cpi-headline-mom CONDITIONAL_PASS + new discovery fed-balance-sheet",
-    "detail": "v10 cycle 2026-04-11. cpi-headline-mom-composite achieved CONDITIONAL_PASS via pipeline/gate_checker.py (Tier 2 Silver; win rate 79.2%; p=0.0001; ECE=0.049; n=72; BH-FDR adj_p=0.000150 across 15-strategy family) — ready for dual audit. NEW discovery fed-balance-sheet-composite added: 9-source WALCL nowcast on KXBALANCESHEET. Account flat $55.17 cash; 0 positions; 0% exposure. spx-monday-fade shows dangling bot symlink (bots/spx_monday_fade_bot.py) and decay=insufficient_data (n=0); state unchanged."
+    "detail": "v10 cycle 2026-04-11. cpi-headline-mom-composite achieved CONDITIONAL_PASS via pipeline/gate_checker.py (Tier 2 Silver; win rate 79.2%; p=0.0001; ECE=0.049; n=72; BH-FDR adj_p=0.000150 across 15-strategy family) \u2014 ready for dual audit. NEW discovery fed-balance-sheet-composite added: 9-source WALCL nowcast on KXBALANCESHEET. Account flat $55.17 cash; 0 positions; 0% exposure. spx-monday-fade shows dangling bot symlink (bots/spx_monday_fade_bot.py) and decay=insufficient_data (n=0); state unchanged."
   },
   {
     "timestamp": "2026-04-12T07:00:00Z",
@@ -657,7 +657,7 @@
     "timestamp": "2026-04-12T23:29:00Z",
     "type": "milestone",
     "title": "Coffee-monthly consolidated; 2 new cross-source discoveries",
-    "detail": "v10 full cycle 23:25 UTC. Stratdev consolidated coffee-monthly-composite into single-script bot (--backtest/--live); Tier 2 CONDITIONAL_PASS with WR 83.6% p<0.0001 ECE 0.091 but annual return 16.7% < 20% gate — NOT deploy-eligible without iteration. banxico/cocoa/copper-monthly-composite re-audited CONDITIONAL_PASS (copper borderline ECE 0.0815 DD 23.27%). Scanner surveyed ~30 of 9597 Kalshi series; added 2 NEW cross-source discoveries: kxhoilmon-composite (NYH ULSD monthly; OI 2989; WTI+EIA distillate+NOAA HDD+ICE Gasoil+Henry Hub) and kxairfarecpi-composite (BLS Airline Fares CPI; OI 100; jet-fuel-lag+EIA distillate+TSA+Hopper+USD). Pipeline: 13 backtest; 75 discovery; 14 archived; 0 deployed. Account flat $55.17 cash; 0 positions; 1 stale KXGDP resting order."
+    "detail": "v10 full cycle 23:25 UTC. Stratdev consolidated coffee-monthly-composite into single-script bot (--backtest/--live); Tier 2 CONDITIONAL_PASS with WR 83.6% p<0.0001 ECE 0.091 but annual return 16.7% < 20% gate \u2014 NOT deploy-eligible without iteration. banxico/cocoa/copper-monthly-composite re-audited CONDITIONAL_PASS (copper borderline ECE 0.0815 DD 23.27%). Scanner surveyed ~30 of 9597 Kalshi series; added 2 NEW cross-source discoveries: kxhoilmon-composite (NYH ULSD monthly; OI 2989; WTI+EIA distillate+NOAA HDD+ICE Gasoil+Henry Hub) and kxairfarecpi-composite (BLS Airline Fares CPI; OI 100; jet-fuel-lag+EIA distillate+TSA+Hopper+USD). Pipeline: 13 backtest; 75 discovery; 14 archived; 0 deployed. Account flat $55.17 cash; 0 positions; 1 stale KXGDP resting order."
   },
   {
     "timestamp": "2026-04-13T00:30:00Z",
@@ -669,7 +669,7 @@
     "timestamp": "2026-04-13T04:18:00Z",
     "type": "milestone",
     "title": "brent-monthly backtest re-run CONDITIONAL_PASS; 2 new discoveries lake-mead + avian-flu",
-    "detail": "v10 firm-head cycle. qf-stratdev re-ran brent-monthly-composite backtest: Tier 2 CONDITIONAL_PASS (WR 93.2%; PF 130; ECE 0.083; n=74) but annual return 16.4% FAILS 20% gate — needs pipeline/orderbook_replay.py temporal-integrity audit before deploy eligibility. qf-scanner added 2 NEW cross-source discoveries: lake-mead-composite and avian-flu-composite. qf-analyst audited 14 archived strategies; tornado-composite flagged for regression review; 4 postmortem stubs need backfill. Account fully idle $55.17 cash; 0 positions; stale KXGDP-26APR30-T2.5 sell NO @0.78 resting order flagged for cancel."
+    "detail": "v10 firm-head cycle. qf-stratdev re-ran brent-monthly-composite backtest: Tier 2 CONDITIONAL_PASS (WR 93.2%; PF 130; ECE 0.083; n=74) but annual return 16.4% FAILS 20% gate \u2014 needs pipeline/orderbook_replay.py temporal-integrity audit before deploy eligibility. qf-scanner added 2 NEW cross-source discoveries: lake-mead-composite and avian-flu-composite. qf-analyst audited 14 archived strategies; tornado-composite flagged for regression review; 4 postmortem stubs need backfill. Account fully idle $55.17 cash; 0 positions; stale KXGDP-26APR30-T2.5 sell NO @0.78 resting order flagged for cancel."
   },
   {
     "timestamp": "2026-04-13T05:22:27Z",
@@ -687,13 +687,13 @@
     "timestamp": "2026-04-13T09:26:00Z",
     "type": "milestone",
     "title": "qf-scanner discovered eo-weekly-composite (KXEOWEEK)",
-    "detail": "v10 cycle. qf-scanner surfaced new multi-source cross-validated candidate eo-weekly-composite on KXEOWEEK weekly market. qf-stratdev re-ran gold-monthly-composite: CONDITIONAL_PASS 4/4 predictive gates but Tier2 synthetic-fill RED flag persists — orderbook_replay audit required before deploy eligibility. qf-analyst logged jp-cpi-mom-composite new CONDITIONAL_PASS (n=120, PF 3.52) entering fill-validation queue. Stale order KXGDP-26APR30-T2.5 5@0.78 vs market 0.68 flagged for cancel. Account idle: $55.17 cash, 0 positions, 0 active bots."
+    "detail": "v10 cycle. qf-scanner surfaced new multi-source cross-validated candidate eo-weekly-composite on KXEOWEEK weekly market. qf-stratdev re-ran gold-monthly-composite: CONDITIONAL_PASS 4/4 predictive gates but Tier2 synthetic-fill RED flag persists \u2014 orderbook_replay audit required before deploy eligibility. qf-analyst logged jp-cpi-mom-composite new CONDITIONAL_PASS (n=120, PF 3.52) entering fill-validation queue. Stale order KXGDP-26APR30-T2.5 5@0.78 vs market 0.68 flagged for cancel. Account idle: $55.17 cash, 0 positions, 0 active bots."
   },
   {
     "timestamp": "2026-04-25T19:51:00Z",
     "type": "org",
     "title": "Pipeline resumes after 12-day gap",
-    "detail": "v10 cycle 2026-04-25. Pipeline resumes after 12-day stall (last entry 2026-04-13; portfolio-history last row 2026-04-11). Account flat: $55.17 cash; 0 positions; exposure 0%. qf-scanner added 3 NEW Stage-1 cross-source discoveries: tsla-quarterly-prod-deliv-composite (TSLA Q production/deliveries vs Wall St whisper); fusion-timeline-hazard-composite (Helion/CFS/TAE first-power timeline hazard model); oai-anth-ipo-race-composite (OpenAI vs Anthropic IPO/listing race). jp-cpi-mom-composite gate_check rerun verified CONDITIONAL_PASS with 4/4 predictive PASS and deploy_eligible=true — pending dual-auditor + Shaokai sign-off. qf-analyst ranked top-3 backtest strategies as Shaokai-ready: us-debt-monitor-composite; cpi-headline-mom-composite; banxico-decision-composite. 18 backtest strategies remain stale 12 days; refresh needed next cycle. Stray KXGDP-26APR30-T2.5 NO sell 5 @ $0.22 flagged by qf-step1 for cancel."
+    "detail": "v10 cycle 2026-04-25. Pipeline resumes after 12-day stall (last entry 2026-04-13; portfolio-history last row 2026-04-11). Account flat: $55.17 cash; 0 positions; exposure 0%. qf-scanner added 3 NEW Stage-1 cross-source discoveries: tsla-quarterly-prod-deliv-composite (TSLA Q production/deliveries vs Wall St whisper); fusion-timeline-hazard-composite (Helion/CFS/TAE first-power timeline hazard model); oai-anth-ipo-race-composite (OpenAI vs Anthropic IPO/listing race). jp-cpi-mom-composite gate_check rerun verified CONDITIONAL_PASS with 4/4 predictive PASS and deploy_eligible=true \u2014 pending dual-auditor + Shaokai sign-off. qf-analyst ranked top-3 backtest strategies as Shaokai-ready: us-debt-monitor-composite; cpi-headline-mom-composite; banxico-decision-composite. 18 backtest strategies remain stale 12 days; refresh needed next cycle. Stray KXGDP-26APR30-T2.5 NO sell 5 @ $0.22 flagged by qf-step1 for cancel."
   },
   {
     "timestamp": "2026-04-25T20:30:00Z",
@@ -705,30 +705,36 @@
     "timestamp": "2026-04-26T05:42:05Z",
     "type": "org",
     "title": "btc-monthly-onetouch-composite added Stage1",
-    "detail": "v10 cycle 2026-04-25. qf-scanner proposed new Stage-1 discovery btc-monthly-onetouch-composite on Kalshi BTC monthly one-touch barrier markets. Strategy directory created with current_stage=discovery. Hypothesis: monthly BTC one-touch barriers misprice tail probabilities relative to realized-vol + funding-rate cross-source signals. Cross-source ingredients: spot BTC (Coinbase/Binance), CME BTC futures basis, perp funding rates (Binance/Bybit), 30-day realized volatility, on-chain MVRV/SOPR. Companion stratdev advance: us-tariff-revenue-composite drafted bots/us_tariff_revenue_composite_bot.py 488-line --backtest/--live skeleton with six documented data sources (Treasury DTS daily customs receipts; USTR tariff schedules; Census FT900 imports; CBP daily collections; WTO MFN baseline; Atlanta Fed nowcast); symlinked into 02-backtest/bot.py; metadata not flipped to backtest stage — data not yet collected (honest gating). Analyst flags: kxhpi-composite missing artifacts (results.json/gate_report.json absent); brazil-inflation-composite annual_return discrepancy results.json reports 730.69% vs gate_report.json 13.6%; 11/19 strategies missing strategy.tex. Account flat $55.17 cash, 0 positions, 0 deployed bots (all halted/missing). Stale resting NO sell 5x KXGDP-26APR30-T2.5 still resting; not cancelled this cycle."
+    "detail": "v10 cycle 2026-04-25. qf-scanner proposed new Stage-1 discovery btc-monthly-onetouch-composite on Kalshi BTC monthly one-touch barrier markets. Strategy directory created with current_stage=discovery. Hypothesis: monthly BTC one-touch barriers misprice tail probabilities relative to realized-vol + funding-rate cross-source signals. Cross-source ingredients: spot BTC (Coinbase/Binance), CME BTC futures basis, perp funding rates (Binance/Bybit), 30-day realized volatility, on-chain MVRV/SOPR. Companion stratdev advance: us-tariff-revenue-composite drafted bots/us_tariff_revenue_composite_bot.py 488-line --backtest/--live skeleton with six documented data sources (Treasury DTS daily customs receipts; USTR tariff schedules; Census FT900 imports; CBP daily collections; WTO MFN baseline; Atlanta Fed nowcast); symlinked into 02-backtest/bot.py; metadata not flipped to backtest stage \u2014 data not yet collected (honest gating). Analyst flags: kxhpi-composite missing artifacts (results.json/gate_report.json absent); brazil-inflation-composite annual_return discrepancy results.json reports 730.69% vs gate_report.json 13.6%; 11/19 strategies missing strategy.tex. Account flat $55.17 cash, 0 positions, 0 deployed bots (all halted/missing). Stale resting NO sell 5x KXGDP-26APR30-T2.5 still resting; not cancelled this cycle."
   },
   {
     "timestamp": "2026-04-26T06:48:18Z",
     "type": "org",
     "title": "Cycle 2026-04-26: scanner onboarded topmodel-weekly-composite",
-    "detail": "v10 FULL cycle 2026-04-26 06:30 UTC. Account flat $55.17 cash; 0 positions; 0% exposure; 0 deployed strategies. (1) qf-scanner onboarded NEW Stage-1 cross-source discovery KXTOPMODEL Top-AI-model weekly+monthly composite at strategies/topmodel-weekly-composite (31 events; 11 independent sources spanning LMSYS Chatbot Arena; HuggingFace Open LLM leaderboard; Artificial Analysis; SWE-bench; MMLU; HumanEval; OpenAI/Anthropic/Google/Meta/xAI release telemetry). (2) qf-stratdev refreshed sugar-monthly-composite gate_report.json: CONDITIONAL_PASS WR=0.9158; PF=39.56; ECE=0.0055; p=0.0001; n=95 lockbox events; gate-rerun confirmed sugar cohort GREEN with no leakage fingerprint. (3) qf-analyst flagged brazil-inflation-composite P0 send-back (annual_return discrepancy results.json 730.69% vs gate_report.json 13.6% requires reconciliation before any audit advance); silver-monthly-composite hard-block (PF=inf / WR=100% / 0%DD leakage fingerprint matches gold/soybean cohort — needs rolling-window walk-forward patch per corn-monthly fix); sugar gate-rerun confirmed clean. (4) Stale GDP-T2.5 sell-5-NO order @ 0.78 vs bid 0.59 still resting; recommend cancel next cycle. No trades executed; no deployments. Pipeline status: ~14 backtest; ~83 discovery; 14 archived; 0 deployed."
+    "detail": "v10 FULL cycle 2026-04-26 06:30 UTC. Account flat $55.17 cash; 0 positions; 0% exposure; 0 deployed strategies. (1) qf-scanner onboarded NEW Stage-1 cross-source discovery KXTOPMODEL Top-AI-model weekly+monthly composite at strategies/topmodel-weekly-composite (31 events; 11 independent sources spanning LMSYS Chatbot Arena; HuggingFace Open LLM leaderboard; Artificial Analysis; SWE-bench; MMLU; HumanEval; OpenAI/Anthropic/Google/Meta/xAI release telemetry). (2) qf-stratdev refreshed sugar-monthly-composite gate_report.json: CONDITIONAL_PASS WR=0.9158; PF=39.56; ECE=0.0055; p=0.0001; n=95 lockbox events; gate-rerun confirmed sugar cohort GREEN with no leakage fingerprint. (3) qf-analyst flagged brazil-inflation-composite P0 send-back (annual_return discrepancy results.json 730.69% vs gate_report.json 13.6% requires reconciliation before any audit advance); silver-monthly-composite hard-block (PF=inf / WR=100% / 0%DD leakage fingerprint matches gold/soybean cohort \u2014 needs rolling-window walk-forward patch per corn-monthly fix); sugar gate-rerun confirmed clean. (4) Stale GDP-T2.5 sell-5-NO order @ 0.78 vs bid 0.59 still resting; recommend cancel next cycle. No trades executed; no deployments. Pipeline status: ~14 backtest; ~83 discovery; 14 archived; 0 deployed."
   },
   {
     "timestamp": "2026-04-26T09:47:00Z",
     "type": "org",
     "title": "Cycle 2026-04-26 PM: KXMTA discovery; kxgdp gate FAIL; Kalshi-history infra blocker",
-    "detail": "v10 cycle 2026-04-26 PM. Account flat $55.17 cash; 0 positions; 0% exposure; 0 deployed strategies. All bots disabled (weather archived; SPX-Mon-Fade FAIL p=0.066). (1) qf-scanner promoted KXMTA (weekly NYC subway ridership) to discovery as new primary pick — Stage-1 cross-source candidate spanning MTA + NOAA + DOE + events + Kastle + holidays + service-alerts. (2) qf-stratdev advanced kxgdp-composite first iteration; gate_checker FAIL on Tier-3 predictive gates; flagged shared infrastructure blocker — need pipeline/collectors/pin_kalshi_history.py to canonicalize Kalshi market history before further iteration on macro composites. (3) qf-analyst: zero deployed strategies; no decay work this cycle. No trades executed; no deployments. Pipeline status: scanner promoted 1 new pick (KXMTA); stratdev 1 iteration FAIL pending shared collector."
+    "detail": "v10 cycle 2026-04-26 PM. Account flat $55.17 cash; 0 positions; 0% exposure; 0 deployed strategies. All bots disabled (weather archived; SPX-Mon-Fade FAIL p=0.066). (1) qf-scanner promoted KXMTA (weekly NYC subway ridership) to discovery as new primary pick \u2014 Stage-1 cross-source candidate spanning MTA + NOAA + DOE + events + Kastle + holidays + service-alerts. (2) qf-stratdev advanced kxgdp-composite first iteration; gate_checker FAIL on Tier-3 predictive gates; flagged shared infrastructure blocker \u2014 need pipeline/collectors/pin_kalshi_history.py to canonicalize Kalshi market history before further iteration on macro composites. (3) qf-analyst: zero deployed strategies; no decay work this cycle. No trades executed; no deployments. Pipeline status: scanner promoted 1 new pick (KXMTA); stratdev 1 iteration FAIL pending shared collector."
   },
   {
     "timestamp": "2026-04-26T10:40:00Z",
     "type": "milestone",
     "title": "Cycle: kxusdurable-composite discovered, kxhpi-composite Stage-2 advanced",
-    "detail": "v10 cycle 2026-04-26 (research-only). Account flat $55.17 cash; 0 positions; 0 resting orders; 0% exposure; lifetime realized P&L +$6.49. All deployed bots dormant since 2026-04-11 (cron jobs disabled). (1) qf-scanner discovered NEW Stage-1 cross-source candidate KXUSDURABLE (Durable Goods Orders MoM) — see scout-reports/2026-04-26-scanner-kxusdurable.md; 8 independent sources spanning Census M3 advance/full report; Bloomberg/Reuters/WSJ consensus; ISM PMI new-orders subindex; Cass Freight Index; Boeing/Lockheed order announcements; Atlanta Fed nowcast; private-sector capex surveys. New strategy directory strategies/kxusdurable-composite created in discovery stage. (2) qf-stratdev advanced kxhpi-composite Stage-2 — added build_feature_panel() and emitted fhfa_feature_panel.csv (421 rows × 12 columns) feeding the FHFA HPI composite backtest harness. (3) No analyst action this cycle; no trades executed. Pipeline advance: kxusdurable-composite registered in discovery; kxhpi-composite Stage-2 feature panel materialized."
+    "detail": "v10 cycle 2026-04-26 (research-only). Account flat $55.17 cash; 0 positions; 0 resting orders; 0% exposure; lifetime realized P&L +$6.49. All deployed bots dormant since 2026-04-11 (cron jobs disabled). (1) qf-scanner discovered NEW Stage-1 cross-source candidate KXUSDURABLE (Durable Goods Orders MoM) \u2014 see scout-reports/2026-04-26-scanner-kxusdurable.md; 8 independent sources spanning Census M3 advance/full report; Bloomberg/Reuters/WSJ consensus; ISM PMI new-orders subindex; Cass Freight Index; Boeing/Lockheed order announcements; Atlanta Fed nowcast; private-sector capex surveys. New strategy directory strategies/kxusdurable-composite created in discovery stage. (2) qf-stratdev advanced kxhpi-composite Stage-2 \u2014 added build_feature_panel() and emitted fhfa_feature_panel.csv (421 rows \u00d7 12 columns) feeding the FHFA HPI composite backtest harness. (3) No analyst action this cycle; no trades executed. Pipeline advance: kxusdurable-composite registered in discovery; kxhpi-composite Stage-2 feature panel materialized."
   },
   {
     "timestamp": "2026-04-26T12:42:47Z",
     "type": "research",
     "title": "Cycle 2026-04-26: kxfedmention discovery and sugar gate refresh",
     "detail": "v10 cycle 2026-04-26. qf-scanner onboarded kxfedmention-composite as a Stage-1 FOMC press-conference word-mentions composite using multi-source transcript and rate-path signals. qf-stratdev refreshed sugar-monthly-composite Stage-2 artifacts; gate_checker verdict CONDITIONAL_PASS with predictive 4/4 and execution 2/3. Sugar backtest remained Tier 2 synthetic: 95 events; 983 trades; 91.58% win rate; PF 39.56; p=0.0001; ECE 0.0055; max drawdown 0.81%; annual_return 12.8% below the 20% execution gate. Account stayed flat at $55.17 with 0 positions and one resting KXGDP-26APR30-T2.5 NO sell 5 @ 0.78."
+  },
+  {
+    "timestamp": "2026-04-26T13:54:00Z",
+    "type": "org",
+    "title": "Cycle 2026-04-26: btc-monthly-onetouch Stage-2 CONDITIONAL_PASS; meta-dap onboarded; 0/160 deployed",
+    "detail": "v10 cycle 2026-04-26 (money-making-quant). Account flat: 0 positions; cash $55.17; lifetime realized P&L +$6.49; no fills since 2026-04-09 (17d). STALE order: KXGDP-26APR30-T2.5 sell 5x NO @ 0.78 (22d old; settles 2026-04-30); recommend cancel/reprice next cycle. (1) qf-scanner onboarded NEW Stage-1 discovery meta-dap-composite (KXMETADAP) and queued KXCBVOLUME for next sweep. (2) qf-stratdev advanced btc-monthly-onetouch-composite to Stage-2 backtest with verdict CONDITIONAL_PASS (Tier-2 SYNTHETIC; WR=67.65% p=0.0058 ECE=0.055 PF=3.05 ann=34.9% max DD=19.3%). Caveats: only 1/7 data sources actually wired; no LaTeX strategy.tex doc; --live entrypoint is dry-run skeleton; NOT deployable until consolidated and audited. (3) qf-analyst reports 0 of 160 strategies active/deployed; flagged us-retail-sales-composite missing metadata. (4) Bots healthy: market_logger (cron */30) and housing_starts_capture (cron */15) both running. No trades executed; no deployments."
   }
 ]
