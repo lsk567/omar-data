@@ -700,5 +700,11 @@
     "type": "milestone",
     "title": "brazil-inflation-composite advanced discovery -> backtest (CONDITIONAL_PASS)",
     "detail": "Strategy Developer scout consolidated bots/brazil_inflation_composite_bot.py and ran --backtest. gate_checker.py verdict CONDITIONAL_PASS. Predictive gates passed (event-level win rate, sign-flip p-value, ECE 10-bin, min events). Execution gates marked SYNTHETIC: annual return 13.6% < 20% gate. Per Tier 2 Silver protocol, strategy needs improved fill model and 60 live trades probation before Stage 3 deploy. Companion scanner queued 3 cross-source candidates for next discovery cycle: KXGAMBLINGREPEAL-26JAN-27 (gambling repeal), KXTAIWANLVL4-27JAN01 (Taiwan crisis), KXLLM1-26DEC31-A (LLM benchmark)."
+  },
+  {
+    "timestamp": "2026-04-26T05:42:05Z",
+    "type": "org",
+    "title": "btc-monthly-onetouch-composite added Stage1",
+    "detail": "v10 cycle 2026-04-25. qf-scanner proposed new Stage-1 discovery btc-monthly-onetouch-composite on Kalshi BTC monthly one-touch barrier markets. Strategy directory created with current_stage=discovery. Hypothesis: monthly BTC one-touch barriers misprice tail probabilities relative to realized-vol + funding-rate cross-source signals. Cross-source ingredients: spot BTC (Coinbase/Binance), CME BTC futures basis, perp funding rates (Binance/Bybit), 30-day realized volatility, on-chain MVRV/SOPR. Companion stratdev advance: us-tariff-revenue-composite drafted bots/us_tariff_revenue_composite_bot.py 488-line --backtest/--live skeleton with six documented data sources (Treasury DTS daily customs receipts; USTR tariff schedules; Census FT900 imports; CBP daily collections; WTO MFN baseline; Atlanta Fed nowcast); symlinked into 02-backtest/bot.py; metadata not flipped to backtest stage \u2014 data not yet collected (honest gating). Analyst flags: kxhpi-composite missing artifacts (results.json/gate_report.json absent); brazil-inflation-composite annual_return discrepancy results.json reports 730.69% vs gate_report.json 13.6%; 11/19 strategies missing strategy.tex. Account flat $55.17 cash, 0 positions, 0 deployed bots (all halted/missing). Stale resting NO sell 5x KXGDP-26APR30-T2.5 still resting; not cancelled this cycle."
   }
 ]
