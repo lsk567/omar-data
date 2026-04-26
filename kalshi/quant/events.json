@@ -724,5 +724,11 @@
     "type": "milestone",
     "title": "Cycle: kxusdurable-composite discovered, kxhpi-composite Stage-2 advanced",
     "detail": "v10 cycle 2026-04-26 (research-only). Account flat $55.17 cash; 0 positions; 0 resting orders; 0% exposure; lifetime realized P&L +$6.49. All deployed bots dormant since 2026-04-11 (cron jobs disabled). (1) qf-scanner discovered NEW Stage-1 cross-source candidate KXUSDURABLE (Durable Goods Orders MoM) — see scout-reports/2026-04-26-scanner-kxusdurable.md; 8 independent sources spanning Census M3 advance/full report; Bloomberg/Reuters/WSJ consensus; ISM PMI new-orders subindex; Cass Freight Index; Boeing/Lockheed order announcements; Atlanta Fed nowcast; private-sector capex surveys. New strategy directory strategies/kxusdurable-composite created in discovery stage. (2) qf-stratdev advanced kxhpi-composite Stage-2 — added build_feature_panel() and emitted fhfa_feature_panel.csv (421 rows × 12 columns) feeding the FHFA HPI composite backtest harness. (3) No analyst action this cycle; no trades executed. Pipeline advance: kxusdurable-composite registered in discovery; kxhpi-composite Stage-2 feature panel materialized."
+  },
+  {
+    "timestamp": "2026-04-26T12:42:47Z",
+    "type": "research",
+    "title": "Cycle 2026-04-26: kxfedmention discovery and sugar gate refresh",
+    "detail": "v10 cycle 2026-04-26. qf-scanner onboarded kxfedmention-composite as a Stage-1 FOMC press-conference word-mentions composite using multi-source transcript and rate-path signals. qf-stratdev refreshed sugar-monthly-composite Stage-2 artifacts; gate_checker verdict CONDITIONAL_PASS with predictive 4/4 and execution 2/3. Sugar backtest remained Tier 2 synthetic: 95 events; 983 trades; 91.58% win rate; PF 39.56; p=0.0001; ECE 0.0055; max drawdown 0.81%; annual_return 12.8% below the 20% execution gate. Account stayed flat at $55.17 with 0 positions and one resting KXGDP-26APR30-T2.5 NO sell 5 @ 0.78."
   }
 ]
