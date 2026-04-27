@@ -766,5 +766,17 @@
     "type": "milestone",
     "title": "First NHL composite onboarded: nhl-stanley-cup-composite (Stage-1 discovery)",
     "detail": "v10 cycle 2026-04-26 ephemeral (money-making-quant). qf-scanner onboarded NEW Stage-1 cross-source discovery nhl-stanley-cup-composite (KXNHL/KXNHLSERIES/KXNHLEAST/KXNHLWEST/KXNHL{ATLANTIC METRO CENTRAL PACIFIC}/KXNHLPRES) — verified first NHL-anchored strategy in firm history (ls strategies/ | grep -iE '(nhl|hockey|stanley)' was empty pre-cycle). ~9 cross-source inputs spanning Pinnacle no-vig 2-way line; FanDuel/DraftKings consensus; MoneyPuck score-adjusted xG; NaturalStatTrick on-ice tracking; NHL official api-web.nhle.com (schedule/results/goalies/injuries); beat-reporter goalie-confirmation feeds; HockeyReference power-ratings; Kalshi orderbook; Polymarket cross-validation. Effective backtest sample ~14 settled KXNHLSERIES events from 2024-25 playoffs + 6 open round-2 2026 markets (live lockbox being created in real time = no leakage); supplementable with conference/division markets to clear gate_checker n>=30. Companion advances: qf-stratdev advanced us-solar-install-composite with EIA data manifest (Stage-2 backtest data spec pinned); qf-analyst no decay work since 0 deployed bots. Account flat: cash $55.17; 0 positions; 0% exposure; lifetime realized P&L +$6.49. Stale resting NO sell on KXGDP-26APR30-T2.5 (5 @ 0.78; 22d old; settles 2026-04-30) still open. No trades; no deployments; no org change this cycle."
+  },
+  {
+    "timestamp": "2026-04-27T07:49:48Z",
+    "type": "org",
+    "title": "qf-stratdev advanced corn-monthly-composite",
+    "detail": "v10 cycle 2026-04-27 (ephemeral firm-head money-making-quant). qf-stratdev refreshed corn-monthly-composite Stage-2 gates with verdict CONDITIONAL_PASS — Tier 2 deploy-eligible pending dual-auditor sign-off + Shaokai approval before any Stage-3 live capital. Lockbox gate metrics: WR 82.2%; PF 126.7; p=0.0001; ECE 0.087; n=73 events. Account flat: cash $55.17; 0 positions; 0% exposure; lifetime realized P&L +$6.49 (last cycle: +$6.49 across 5 events; 5W/5L at market level; fees -$3.65; net +$2.84). 0 active strategies / 0 deployed bots. Pipeline status: 138 discovery; 24 backtest; 14 archived. Two passive data-capture cron jobs running (market_logger.py 30m; housing_starts_capture.py 15m). Stale resting NO sell on KXGDP-26APR30-T2.5 (5 @ $0.22; settles 2026-04-30) still open. No trades; no deployments; no org-version bump this cycle."
+  },
+  {
+    "timestamp": "2026-04-27T07:49:48Z",
+    "type": "org",
+    "title": "qf-scanner discovered uber-trips-composite",
+    "detail": "v10 cycle 2026-04-27 (ephemeral firm-head money-making-quant). qf-scanner produced 5 fresh multi-source candidates this cycle; top pick: KXUBERTRIPS (uber-trips-composite). New strategy directory strategies/uber-trips-composite created at Stage-1 discovery. The composite is a multi-source mobility/weather/gas nowcast targeting Uber trips with Tier 2 backtestability — awaiting Stage-2 advance. Companion: qf-stratdev refreshed corn-monthly-composite gates CONDITIONAL_PASS (WR 82.2% PF 126.7 p=0.0001 ECE 0.087 n=73; Tier 2 deploy-eligible pending dual audit + Shaokai). Account flat: cash $55.17; 0 positions; 0% exposure; lifetime realized P&L +$6.49. 0 active strategies / 0 deployed bots; 138 discovery / 24 backtest / 14 archived. Stale resting NO sell on KXGDP-26APR30-T2.5 (5 @ $0.22; settles 2026-04-30). No trades; no deployments; no org change."
   }
 ]
