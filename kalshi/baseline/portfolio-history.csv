@@ -782,3 +782,4 @@ timestamp,total_account_value,num_positions,unrealized_pnl,notes
 2026-04-12 04:18:40,168.95,76.48,245.43,66.78,66.78,0.00,2.07,14,0,"Cycle 181: No trades. $245.43. Hold."
 2026-04-28T05:14:00Z,237.31,1,-5.20,Resumed baseline worker. Cash 231.71 + portfolio 5.60 = 237.31. 1 position KXGDP-26APR30-T2.5 flagged stop-loss in dry run (would close). No new opportunities (4 research tickers all finalized). Mode: DRY RUN.
 2026-04-28T06:15:00Z,237.31,1,-5.20,Cycle 2 (cron). Cash 231.71 + portfolio 5.60 = 237.31. KXGDP-26APR30-T2.5 still at -100% (stop-loss flagged in dry run; not closed because dry-run). No new opportunities (4 research tickers finalized). Mode: DRY RUN.
+2026-04-28T06:31:00Z,237.31,1,-5.20,Cycle (one-shot via OMAR agent). Cash 231.71 + portfolio 5.60 = 237.31. KXGDP-26APR30-T2.5 still at -100% (stop-loss flagged in dry run; not closed because dry-run). No new opportunities (4 research tickers finalized). Mode: DRY RUN.
