@@ -790,5 +790,11 @@
     "type": "org",
     "title": "New strategy candidate kxoaihardware-composite enters discovery",
     "detail": "v10 cycle. qf-scanner top pick onboarded as discovery. Cross-source edge: FCC equipment authorizations + USPTO trademarks + supply-chain shipping records + LinkedIn hiring signals + exec text-mining. ~99k aggregate Kalshi liquidity; 3 in-band strikes. Tier 2 backtest expected initially. Pipeline now has 190 strategies."
+  },
+  {
+    "timestamp": "2026-04-28T04:48:24Z",
+    "type": "org",
+    "title": "3 new cross-source discoveries",
+    "detail": "v10 cycle 2026-04-28 (ephemeral firm-head money-making-quant). qf-scanner produced 3 new cross-source candidates this cycle: (1) KXJPCONCONF — Japan consumer confidence composite; (2) KXAUNABCONF — Australia NAB business confidence composite; (3) KXUKGDPMOM — UK GDP month-on-month composite. Each onboarded into strategies/ at Stage-1 discovery with multi-source nowcast designs. Companion this cycle: qf-stratdev advanced treasury-10y-weekly-composite to its first end-to-end backtest — PASS on point gates (WR=70% PF=3.0 ECE=0.009 AR=21.3% DD=8.3%) but FAIL on small-sample robustness (n=10; p=0.10) so it stays in discovery pending more events. qf-analyst flagged 0 active deployed strategies for the 2nd consecutive cycle. Account flat: cash $55.17; 0 positions; 0% exposure. No trades; no deployments; no org-version bump."
   }
 ]
