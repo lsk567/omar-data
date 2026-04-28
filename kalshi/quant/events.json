@@ -808,5 +808,11 @@
     "type": "org",
     "title": "brazil-selic-composite advanced to iter-1 (Stage 2 Backtest)",
     "detail": "Pinned 5 public-CSV feeds (BCB SGS 432/7478/24364/1 + FRED FEDFUNDS); single-codebase bot at bots/brazil_selic_composite_bot.py with --backtest/--live; 02-backtest/bot.py symlinked; 146 COPOM step-change events 2000-2026 panel built. Next: model fit + recover ~62 missing HOLD events."
+  },
+  {
+    "timestamp": "2026-04-28T16:47:28Z",
+    "type": "org",
+    "title": "Cycle: 3 new discoveries + brent CONDITIONAL_PASS",
+    "detail": "Scanner found 3 fresh cross-source candidates (KXAAPLPRICEFOLD; KXTOP3WEALTH; KXDEGDPQOQF). Stratdev advanced brent-monthly-composite to gate_checker CONDITIONAL_PASS; pending dual-auditor review (Opus 4.6 + GPT 5.2) per pipeline rules. 0 deployed strategies. Account fully in cash $55.17."
   }
 ]
