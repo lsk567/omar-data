@@ -795,6 +795,18 @@
     "timestamp": "2026-04-28T04:48:24Z",
     "type": "org",
     "title": "3 new cross-source discoveries",
-    "detail": "v10 cycle 2026-04-28 (ephemeral firm-head money-making-quant). qf-scanner produced 3 new cross-source candidates this cycle: (1) KXJPCONCONF — Japan consumer confidence composite; (2) KXAUNABCONF — Australia NAB business confidence composite; (3) KXUKGDPMOM — UK GDP month-on-month composite. Each onboarded into strategies/ at Stage-1 discovery with multi-source nowcast designs. Companion this cycle: qf-stratdev advanced treasury-10y-weekly-composite to its first end-to-end backtest — PASS on point gates (WR=70% PF=3.0 ECE=0.009 AR=21.3% DD=8.3%) but FAIL on small-sample robustness (n=10; p=0.10) so it stays in discovery pending more events. qf-analyst flagged 0 active deployed strategies for the 2nd consecutive cycle. Account flat: cash $55.17; 0 positions; 0% exposure. No trades; no deployments; no org-version bump."
+    "detail": "v10 cycle 2026-04-28 (ephemeral firm-head money-making-quant). qf-scanner produced 3 new cross-source candidates this cycle: (1) KXJPCONCONF \u2014 Japan consumer confidence composite; (2) KXAUNABCONF \u2014 Australia NAB business confidence composite; (3) KXUKGDPMOM \u2014 UK GDP month-on-month composite. Each onboarded into strategies/ at Stage-1 discovery with multi-source nowcast designs. Companion this cycle: qf-stratdev advanced treasury-10y-weekly-composite to its first end-to-end backtest \u2014 PASS on point gates (WR=70% PF=3.0 ECE=0.009 AR=21.3% DD=8.3%) but FAIL on small-sample robustness (n=10; p=0.10) so it stays in discovery pending more events. qf-analyst flagged 0 active deployed strategies for the 2nd consecutive cycle. Account flat: cash $55.17; 0 positions; 0% exposure. No trades; no deployments; no org-version bump."
+  },
+  {
+    "timestamp": "2026-04-28T09:52:11Z",
+    "type": "milestone",
+    "title": "New strategy: kxdotplot-composite (Stage 1 Discover)",
+    "detail": "Fed dot plot 2026 median (KXDOTPLOT) at June 17 SEP. Cross-source: voter-level FOMC speech NLP + macro reaction function + market-implied path + voter prior. 51 historical SEP releases. Zero overlap with existing 9 Fed strategies."
+  },
+  {
+    "timestamp": "2026-04-28T09:52:11Z",
+    "type": "org",
+    "title": "brazil-selic-composite advanced to iter-1 (Stage 2 Backtest)",
+    "detail": "Pinned 5 public-CSV feeds (BCB SGS 432/7478/24364/1 + FRED FEDFUNDS); single-codebase bot at bots/brazil_selic_composite_bot.py with --backtest/--live; 02-backtest/bot.py symlinked; 146 COPOM step-change events 2000-2026 panel built. Next: model fit + recover ~62 missing HOLD events."
   }
 ]
