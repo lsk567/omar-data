@@ -4,7 +4,11 @@
 # CSV Format (5 columns):
 #   timestamp,total_account_value,num_positions,unrealized_pnl,notes
 #   - timestamp:           ISO 8601 UTC (auto-generated, e.g. 2026-04-03T13:21:00Z)
-#   - total_account_value: Decimal number (e.g. 263.99)
+#   - total_account_value: Decimal DOLLARS, decimal point REQUIRED (e.g. 263.99, 260.00).
+#                          NOT cents. Kalshi API returns balances in cents;
+#                          divide by 100 before calling this script. The script
+#                          rejects integer-only inputs to make the unit
+#                          mistake impossible to commit silently.
 #   - num_positions:       Integer (e.g. 20)
 #   - unrealized_pnl:      Signed decimal (e.g. +63.99 or -12.50)
 #   - notes:               Free-text (quoted in CSV; must not contain raw commas)
@@ -63,9 +67,19 @@ if [[ "$ACCOUNT" != "baseline" && "$ACCOUNT" != "quant" ]]; then
     exit 1
 fi
 
-# Validate total_value is a number (integer or decimal)
-if ! [[ "$TOTAL_VALUE" =~ ^[0-9]+\.?[0-9]*$ ]]; then
-    echo "Error: total_value must be a positive number, got '$TOTAL_VALUE'"
+# Validate total_value is a positive decimal-dollar amount.
+#
+# We REQUIRE a decimal point (e.g. 55.17, 263.99, 260.00) and reject bare
+# integers like "5517". Rationale: Kalshi's API returns balances in cents
+# (integer) and callers have repeatedly forwarded the raw cents value here,
+# producing rows like `5517,0,0` instead of `55.17,0,0.00` on the public
+# portfolio-history.csv. Forcing a decimal point at the boundary makes the
+# unit mistake impossible to commit silently — if you have $260 exactly,
+# pass "260.00", never "260".
+if ! [[ "$TOTAL_VALUE" =~ ^[0-9]+\.[0-9]{1,2}$ ]]; then
+    echo "Error: total_value must be decimal dollars with a decimal point, got '$TOTAL_VALUE'"
+    echo "  Examples: 55.17, 263.99, 260.00 (NOT 5517 or 26000 — those are cents)"
+    echo "  Kalshi /portfolio/balance returns cents; divide by 100 before calling."
     print_usage
     exit 1
 fi
