@@ -784,5 +784,11 @@
     "type": "org",
     "title": "qf-scanner discovered kxeurusd-daily-composite (v10 cycle)",
     "detail": "v10 ephemeral cycle 2026-04-27 (firm-head money-making-quant). qf-scanner identified KXEURUSD daily 10am-EDT range ladder as a multi-source macro composite candidate (US10Y-Bund10Y + US2Y-Schatz2Y + 6E overnight + CFTC COT + CME 1D ATM vol/25-delta RR + EZ/US macro releases + Brent + VIX); ~1128 settled events since Aug 2022; per-event OI 500-5500; 2-4c spreads on central bins. New strategy strategies/kxeurusd-daily-composite/ created at Stage-1 discovery (sibling to usdjpy-daily-range-composite \u2014 independent inputs, additive). qf-stratdev advanced strategies/us-tariff-revenue-composite/: pinned first real Stage-2 data file (treasury_dts_customs_duties_daily.csv, 5164 rows, sha256 663730c4); collector handles 3 historical DTS line-item renames; 5/6 sources still blocked (FT900, USITC, LA/LB TEU, FRED B235RC1, KXTARIFFREVENUE Tier-1 retention). qf-analyst confirmed 0 deployed/active strategies; pipeline distribution: 147 discovery, 24 backtest (10 ready for Stage-3 audit), 14 archived. Account: $55.17 cash, 0 positions, 0% exposure, 1 stale resting KXGDP-26APR30-T2.5 sell-no x5. NO TRADES (algos-only policy; 0 deployed bots)."
+  },
+  {
+    "timestamp": "2026-04-27T20:50:00Z",
+    "type": "org",
+    "title": "New strategy candidate kxoaihardware-composite enters discovery",
+    "detail": "v10 cycle. qf-scanner top pick onboarded as discovery. Cross-source edge: FCC equipment authorizations + USPTO trademarks + supply-chain shipping records + LinkedIn hiring signals + exec text-mining. ~99k aggregate Kalshi liquidity; 3 in-band strikes. Tier 2 backtest expected initially. Pipeline now has 190 strategies."
   }
 ]
