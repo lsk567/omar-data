@@ -814,5 +814,11 @@
     "type": "org",
     "title": "Cycle: 3 new discoveries + brent CONDITIONAL_PASS",
     "detail": "Scanner found 3 fresh cross-source candidates (KXAAPLPRICEFOLD; KXTOP3WEALTH; KXDEGDPQOQF). Stratdev advanced brent-monthly-composite to gate_checker CONDITIONAL_PASS; pending dual-auditor review (Opus 4.6 + GPT 5.2) per pipeline rules. 0 deployed strategies. Account fully in cash $55.17."
+  },
+  {
+    "timestamp": "2026-04-28T19:52:56Z",
+    "type": "milestone",
+    "title": "michigan-sentiment-composite passes Tier 2 predictive gates",
+    "detail": "qf-stratdev advanced michigan-sentiment-composite from discovery to backtest. LOCKBOX metrics: WR=89.6%; PF=13.09; p=0.0001; ECE=0.086; n=94 events. All 4 predictive gates PASS at Tier 2; 3 execution gates flagged synthetic (pending real-data validation). Scanner companion: 3 new candidates (KX10Y2Y; KXMICHELINNYC3; KXCBDECISIONKOREA). Account flat: $55.17 cash; 0 positions; 0% exposure; 16th consecutive zero-deployment cycle. Backtest-readiness audit: 20 deploy-eligible; 3 with execution_pass (kxhoilmon; gas-prices-weekly; btc-monthly-onetouch); 6 investigation flags."
   }
 ]
