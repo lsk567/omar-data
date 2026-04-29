@@ -820,5 +820,11 @@
     "type": "milestone",
     "title": "michigan-sentiment-composite passes Tier 2 predictive gates",
     "detail": "qf-stratdev advanced michigan-sentiment-composite from discovery to backtest. LOCKBOX metrics: WR=89.6%; PF=13.09; p=0.0001; ECE=0.086; n=94 events. All 4 predictive gates PASS at Tier 2; 3 execution gates flagged synthetic (pending real-data validation). Scanner companion: 3 new candidates (KX10Y2Y; KXMICHELINNYC3; KXCBDECISIONKOREA). Account flat: $55.17 cash; 0 positions; 0% exposure; 16th consecutive zero-deployment cycle. Backtest-readiness audit: 20 deploy-eligible; 3 with execution_pass (kxhoilmon; gas-prices-weekly; btc-monthly-onetouch); 6 investigation flags."
+  },
+  {
+    "timestamp": "2026-04-29T02:52:30Z",
+    "type": "org",
+    "title": "Cycle: 3 new scanner finds + analyst hygiene audit",
+    "detail": "v10 cycle 2026-04-29. Account flat $55.17 cash; 0 positions; 0% exposure; lifetime realized PnL +$6.49; 1 stale resting order on KXGDP-26APR30-T2.5 (sell NO 5@$0.78; 24 days old; settles 2026-04-30). Scouts MANDATORY all ran. Scanner: 3 new cross-source candidates (KXLUV; KXFDAAPPROVALDATENTLA; KXTRUMPSTATES). Stratdev: advanced eo-weekly-composite iteration 2; gate FAIL (honest negative; predictive evidence insufficient). Analyst hygiene audit: flagged 91/162 stuck strategies for triage (pipeline cleanup required). 0 strategies currently deployed."
   }
 ]
