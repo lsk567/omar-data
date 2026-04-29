@@ -826,5 +826,11 @@
     "type": "org",
     "title": "Cycle: 3 new scanner finds + analyst hygiene audit",
     "detail": "v10 cycle 2026-04-29. Account flat $55.17 cash; 0 positions; 0% exposure; lifetime realized PnL +$6.49; 1 stale resting order on KXGDP-26APR30-T2.5 (sell NO 5@$0.78; 24 days old; settles 2026-04-30). Scouts MANDATORY all ran. Scanner: 3 new cross-source candidates (KXLUV; KXFDAAPPROVALDATENTLA; KXTRUMPSTATES). Stratdev: advanced eo-weekly-composite iteration 2; gate FAIL (honest negative; predictive evidence insufficient). Analyst hygiene audit: flagged 91/162 stuck strategies for triage (pipeline cleanup required). 0 strategies currently deployed."
+  },
+  {
+    "timestamp": "2026-04-29T08:46:00Z",
+    "type": "milestone",
+    "title": "FIRST CONDITIONAL_PASS in firm history: michigan-sentiment-composite",
+    "detail": "v10 cycle 2026-04-29 ~08:45Z (money-making-quant). qf-stratdev advanced michigan-sentiment-composite to FIRST CONDITIONAL_PASS verdict in firm history under the dual-audit Tier-2 deploy protocol. Predictive gates 4/4 PASS; LOCKBOX p=0.0001; Tier 2; deploy-eligible PENDING dual-auditor sign-off + Shaokai approval (NOT deployed; no live capital). Companion advances: qf-scanner onboarded 3 fresh cross-source candidates (china-us-gdp-2030; datacenter-nuclear-dod; eu-climate-2030). qf-analyst audit: 0 strategies deployed; 111 stuck-in-discovery flagged; eo-weekly-composite ARCHIVED (honest negative); top-10 deploy-eligible queued for stratdev follow-through. Account flat: cash $55.17; 0 positions; 0% exposure; lifetime realized PnL +$6.49; 17th consecutive zero-deployment cycle. Stale resting order KXGDP-26APR30-T2.5 sell NO 5@$0.78 (settles 2026-04-30; cancel queued). 0/206 active=true strategies. No trades; no deployments this cycle."
   }
 ]
