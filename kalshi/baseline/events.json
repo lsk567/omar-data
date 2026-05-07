@@ -328,5 +328,11 @@
     "type": "cycle",
     "title": "Process gap: trades unlogged after Cycle 221",
     "detail": "Between C221 (2026-04-29 22:15 UTC) and C222 today (2026-05-07), 21 contracts were added to T2.5 NO and the position settled without any cycle being committed to portfolio-history.csv. Cash and balance are reconciled but cycle log is missing 222-? entries."
+  },
+  {
+    "timestamp": "2026-05-07T19:27:22Z",
+    "type": "trade",
+    "title": "BUY YES KXGDP-26JUL30-T2.0 12x@57c",
+    "detail": "Long Q2 2026 GDP > 2.0%. GDPNow at 3.7% (May 5) supports rebound from Q1 2.0% advance. Edge ~13% vs 0.57 ask. Cost $6.84 + $0.21 fees. Settles 2026-07-30."
   }
 ]
