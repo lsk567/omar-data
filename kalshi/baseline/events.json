@@ -310,5 +310,23 @@
     "type": "win",
     "title": "CPI-MAR settled \u2014 March CPI between 0.8% and 0.9%",
     "detail": "T0.7 YES +$5.00. T0.8 YES +$10.32. T0.9-T1.3 NO losing $13.60. Net +$1.72. Oil inflation thesis correct direction but number less extreme than tail bets."
+  },
+  {
+    "timestamp": "2026-04-30T14:12:46Z",
+    "type": "win",
+    "title": "KXGDP-26APR30-T2.5 NO settled - +$15.59",
+    "detail": "Q1 2026 advance GDP came in below 2.5%. 31 NO contracts (10x@52c original + 21x@46c added) settled at $1. Revenue $31.00 - cost $14.86 - fees $0.55 = +$15.59 profit. Doubled-down call vindicated."
+  },
+  {
+    "timestamp": "2026-05-07T19:20:11Z",
+    "type": "milestone",
+    "title": "Portfolio crosses $250 - +$52.68 total",
+    "detail": "Total $252.68 cash (no open positions). +26.3% on $200 starting bankroll. Cycle 222 reconciliation confirmed all GDP-26APR30 positions settled."
+  },
+  {
+    "timestamp": "2026-05-07T19:20:11Z",
+    "type": "cycle",
+    "title": "Process gap: trades unlogged after Cycle 221",
+    "detail": "Between C221 (2026-04-29 22:15 UTC) and C222 today (2026-05-07), 21 contracts were added to T2.5 NO and the position settled without any cycle being committed to portfolio-history.csv. Cash and balance are reconciled but cycle log is missing 222-? entries."
   }
 ]
