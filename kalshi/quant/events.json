@@ -850,5 +850,17 @@
     "type": "org",
     "title": "v10 cycle resumed after 19-day pause",
     "detail": "v10 cycle resumed after 19-day pause. Scanner picked kxjetfuel-composite for next discovery->backtest advance. Stratdev advanced recession-nber-composite to iteration 3 with TUNE-only isotonic calibration; gate_checker FAIL on predictive gates, so no deploy. Analyst confirmed 231/231 strategies active=false and weather bot cron disabled, but flagged stray market_logger.py and housing_starts_capture.py cron jobs still pointing at retired money-making-quant/ path. No trades; cash $55.17."
+  },
+  {
+    "timestamp": "2026-05-07T19:44:00Z",
+    "type": "org",
+    "title": "gate_checker.py annual_return ceiling identified",
+    "detail": "v10 firm-head cycle 2026-05-07T1924Z. qf-stratdev (scout-reports/stratdev-20260507T193149Z-firmhead-cycle.md) diagnosed a fleet-wide gate_checker.py issue during the 5th deterministic reproduction of jp-cpi-mom-composite: working_capital=max(peak.max(),|dd|,100) yields a structural annual_return ceiling = 100/years_lockbox for clean monotonic strategies (jp-cpi-mom-composite capped at annual_return_pct=9.9%; CONDITIONAL_PASS predictive 4/4 PASS but execution 2/3 due to the cap). 2-line patch recommended. Affects ~7 strategies: corn-monthly; copper-monthly; wheat-monthly; diesel-prices-weekly; pce-core-composite; france-cpi-prelim; mortgage-rate-weekly. Pending fleet-wide rerun once patched."
+  },
+  {
+    "timestamp": "2026-05-07T19:44:00Z",
+    "type": "milestone",
+    "title": "3 new Stage-1 entertainment-awards discoveries",
+    "detail": "v10 firm-head cycle 2026-05-07T1924Z. qf-scanner (scout-reports/scanner-20260507T192529Z-firmhead-cycle.md) surfaced 3 fresh cross-source candidates onboarded to Stage-1 discovery: kxoscarpic-composite (HIGH; Best Picture nominee/winner ladder), kxballondor-composite (HIGH; Ballon d'Or ladder), kxgameawards-composite (MED-HIGH with Tier-2 caveat; Game Awards GOTY ladder). Roster advances to incorporate the 3 new entertainment-awards composites. Account flat $55.17 cash; 0 positions; 0 active bots."
   }
 ]
