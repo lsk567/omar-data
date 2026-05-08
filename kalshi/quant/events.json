@@ -904,5 +904,11 @@
     "type": "milestone",
     "title": "michigan-sentiment ready for Step-3 bundling",
     "detail": "Michigan sentiment composite LaTeX gap closed; CONDITIONAL_PASS reproduced; dual-auditor record CONDITIONAL APPROVE x2 on file; LaTeX/PDF on file. Now ready for Shaokai bundling alongside kxu3max (LaTeX previously closed) and copper-monthly (analyst rank #1). 4 fresh scanner discoveries onboarded."
+  },
+  {
+    "timestamp": "2026-05-08T05:59:00Z",
+    "type": "org",
+    "title": "4 new discoveries onboarded + brazil-selic archived + michigan-sentiment Shaokai-queued",
+    "detail": "Firm-head FULL cycle 2026-05-07 evening (qf-firm-head). Onboarded 4 new Stage-1 scanner discoveries: kxcoachoutnfl-composite (NFL coach firings), kxmlbplayoffs-composite (MLB postseason positioning), kxacqannouncee-composite (M&A announcement target prediction), and kxusacompanystake-composite (Tier-3 USA company stake transactions). Archived brazil-selic-composite under 99-archive/ after iter-6 Lever-F FAILED gate_checker with full postmortem documenting the lever-by-lever rescue attempts and root-cause analysis (regime-shift + insufficient predictive edge after multiple lever sweeps). Bundled michigan-sentiment-composite for Shaokai approval (CONDITIONAL_PASS + dual-auditor APPROVE x2 + LaTeX on file) alongside the previously prepared kxu3max + copper-monthly bundle. 0 deployed-bot fills warrants an executor audit next cycle to investigate why no live bots are filling. Account flat 5.17 cash; 0 positions; 0 active bots; last fill 28d ago."
   }
 ]
