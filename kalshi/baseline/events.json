@@ -334,5 +334,11 @@
     "type": "trade",
     "title": "BUY YES KXGDP-26JUL30-T2.0 12x@57c",
     "detail": "Long Q2 2026 GDP > 2.0%. GDPNow at 3.7% (May 5) supports rebound from Q1 2.0% advance. Edge ~13% vs 0.57 ask. Cost $6.84 + $0.21 fees. Settles 2026-07-30."
+  },
+  {
+    "timestamp": "2026-05-08T12:17:48Z",
+    "type": "macro",
+    "title": "WTI pulled back to $94-96 from $110+ peak",
+    "detail": "Oil now $94-96/bbl (was $110+ when KXWTIMAX-26DEC31-T100/T110 settled YES). Bearish for headline CPI pass-through. Inflation tail risk via oil shock partially deflated. Watching KXLCPIMAXYOY-27 for NO opportunities if elevated probabilities re-emerge."
   }
 ]
