@@ -958,5 +958,11 @@
     "type": "org",
     "title": "2 HIGH discoveries onboarded: kxaispike + kxnysecircuit",
     "detail": "Stage-1 onboarded from scout-reports/scanner-20260508T1224Z-firmhead-cycle.md. KXAISPIKE 13-strike LMSYS Elo bracket ladder Tier-2 Silver, edge 26B-1525@31c YES vs fair >=50%. KXNYSECIRCUIT NYSE Rule-80B circuit-breaker by Jan-2027 single binary Tier-3 borderline-2, edge 19.5c YES vs fair 8-13% NO-side."
+  },
+  {
+    "timestamp": "2026-05-08T13:55:00Z",
+    "type": "research",
+    "title": "kxhpi-composite iter=1 honest negative — regime mismatch",
+    "detail": "Ridge fit on 10 FRED housing features: TRAIN 1991-2017 R²=0.59, TUNE 2018-2021 p=0.014, LOCKBOX 2022-2026 WR=40.8% / p=0.4678 / ECE=0.5056 / PF=1.0348 / n=49. Mortgage-spike regime not in TRAIN distribution. Stage stays at backtest, NO advance NO regress. Next iteration: regime-conditional features (Fed funds level, mortgage YoY, shelter-CPI YoY)."
   }
 ]
