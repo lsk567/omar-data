@@ -340,5 +340,11 @@
     "type": "macro",
     "title": "WTI pulled back to $94-96 from $110+ peak",
     "detail": "Oil now $94-96/bbl (was $110+ when KXWTIMAX-26DEC31-T100/T110 settled YES). Bearish for headline CPI pass-through. Inflation tail risk via oil shock partially deflated. Watching KXLCPIMAXYOY-27 for NO opportunities if elevated probabilities re-emerge."
+  },
+  {
+    "timestamp": "2026-05-08T16:18:21Z",
+    "type": "macro",
+    "title": "March CPI MoM was 0.9% - largest since June 2022",
+    "detail": "Headline YoY 3.3%. Economists expect 3.6% in April-May driven by energy/food. April CPI release May 12 2026. KXCPI-26APR-T0.5 priced 62% likely > 0.5% MoM. Implied April distribution: P(>0.5)=62% P(>0.6)=26% P(>0.7)=7%. No 8%+ edge identified at current strikes."
   }
 ]
