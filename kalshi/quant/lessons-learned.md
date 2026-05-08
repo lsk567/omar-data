@@ -254,3 +254,23 @@ We tried to play the normalization trade during the acute phase. Too early.
 ## Meta-Rules (Updated)
 
 11. **Structural automation > documentation.** If a process step relies on agent willpower to execute each cycle, it will decay. Either automate the step or build in a forcing function (like the nudge that literally says "you MUST read the README").
+
+---
+
+## Lesson 12: Event Definition Must Match Signal Frequency (2026-04-12)
+
+**Strategy**: fed-rate-composite (KXFED)
+**What happened**: Model has strong predictive signal (p=0.0001, PF=48.7) for FOMC rate decisions, but fails the event-level win rate gate (WR=0.46 < 0.50).
+**Root cause**: Monthly aggregation includes all 12 months/year, but FOMC meets only 8 times/year. The 4 non-FOMC months are zero-PnL events that dilute the win rate from ~70% to 46%.
+**Lesson**: When designing backtests, the event definition (the unit of independent observation) must match the signal frequency. If the signal fires 8x/year, don't aggregate at 12x/year. The dilution from non-signal periods can push a genuinely profitable strategy below gate thresholds.
+**Rule**: Before backtesting, explicitly document the event frequency and ensure the aggregation period aligns with it. Flag any strategy where signal frequency < event frequency.
+
+---
+
+## Lesson 13: Frozen Lockbox Dates Required (2026-05-08)
+
+**Strategy**: us-debt-monitor-composite (downgrade trigger; firm-wide methodology bug)
+**What happened**: Re-running the bot in 2026-05-08 reproduced the 2026-04-12 audit-of-record metrics with a one-event drift (n=78 → n=79) because the bot's `02-backtest/backtest.py` defines the lockbox as a *sliding fractional 60/20/20 split* of the panel rather than a frozen date range. ECE regressed 0.0885 → 0.1024 (PASS → FAIL @ 0.10), invalidating the dual-auditor sign-offs.
+**Root cause**: A sliding fractional lockbox auto-extends every time new events arrive, so the lockbox is silently re-opened on every run — the opposite of the README's "LOCKBOX opened EXACTLY ONCE" rule.
+**Lesson**: Frozen lockbox dates required — sliding fractional lockboxes silently violate the README "opened EXACTLY ONCE" rule and invalidate dual-auditor sign-offs whenever new data arrives.
+**Rule**: Lockbox windows must be specified as explicit frozen calendar dates in `parameters.json` (e.g. `"lockbox_start": "2019-10-01"`, `"lockbox_end": "2026-03-31"`). Reject any backtest scaffold that derives the lockbox from "last N%" or any expression that depends on the panel's current length. Audit every existing strategy with a `02-backtest/` artifact for this pattern.
