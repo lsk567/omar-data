@@ -988,5 +988,17 @@
     "type": "milestone",
     "title": "pce-core Path-A bit-identical artifact persistence",
     "detail": "pce-core-composite gate_report iter=2 CONDITIONAL_PASS computed_at 2026-05-08T18:28:19Z. Path-A patch to bots/pce_core_composite_bot.py persisted canonical BACKTEST_PARAMETERS data block; oos_strike_trades sha256=1e810e4c968422ca... and results.json sha256=a799f2a008b629d3... bit-identical pre/post; 2026-04-12 dual-auditor (Opus 4.6 + GPT 5.2) CONDITIONAL APPROVE preserved without re-audit. TOP-3 reaffirmed copper #1 / sugar #2 (docs/strategy.tex MISSING) / pce-core #3. us-debt-monitor decay 7d->~6.7d. 2 NEW HIGH onboards: KXKASHOUT + KXTRUMPSAYMONTH."
+  },
+  {
+    "timestamp": "2026-05-08T20:25:00Z",
+    "type": "milestone",
+    "title": "us-debt-monitor-composite Stage-3-prep advancement: DEPLOY.md rewritten + MUST #5 closed + 6.65d runway preserved",
+    "detail": "qf-stratdev v10 cycle 2026-05-08T2025Z verified us-debt-monitor-composite Path-A bundle bit-identical integrity for Shaokai TOP-5 #4 approval. DEPLOY.md rewritten 220+ lines (operational runbook: deployment topology, monitoring crons, kill-switch, rollback). GPT-auditor MUST #5 closed (runtime kill-switch documentation). Crontab path fixed (absolute path to bots/us_debt_monitor_composite_bot.py). All 8 locked SHAs bit-identical pre/post Path-A: oos_strike_trades sha256, results.json sha256, gate_report.json sha256, backtest data files. Runway preserved at 6.65 days to 2026-05-15 settlement deadline (T-7d window). Both 1925Z dual-auditors CONDITIONAL APPROVE (commits d6ded73 Opus + 9c9ffc5 GPT) remain VALID — bundle CLEAN for Shaokai approval queue. TOP-5 ranking: copper-monthly #1, sugar-monthly #2 (LaTeX gap CLOSED 1925Z commit 973f2c9), pce-core #3, us-debt-monitor #4 (this), [TOP-5 #5 next-cycle candidate]."
+  },
+  {
+    "timestamp": "2026-05-08T20:25:00Z",
+    "type": "org",
+    "title": "Cycle 2026-05-08T2025Z: 2 onboards (KXIMPEACH RE-REC + KXRHOUSESEATS NEW); 5 HIGH scanner candidates",
+    "detail": "qf-firm-head FULL cycle 2026-05-08T2025Z. qf-scanner returned 5 HIGH candidates (3 NEW + 2 RE-REC). Stage-1 onboards (2): kximpeach-composite (RE-REC x3; Trump impeachment-by-2026-EOY binary; $1.37M OI; Tier-2 hazard-ladder composite — partisan-control panel + Mueller-precedent base rate + GDELT impeachment-rumor flow + cabinet-departure tracker + congressional-vote-margin) and kxrhouseseats-composite (NEW; Republican House seats 2026 ladder; $985k OI; Tier-2 Sigma-of-Bernoullis count — 435 district-level forecasts aggregated to threshold ladder; FiveThirtyEight + Cook PVI + Inside Elections + Sabato + state-level polling). Pipeline pop. after cycle: 313 strategies (267 discovery / 28 backtest / 17 archived / 2 audit / 0 deployed). Account flat $55.17 / 0 positions / 7th consecutive idle cycle. Crons GREEN: market_logger 2025Z 48snaps; housing_starts_capture 1815Z 8snaps."
   }
 ]
