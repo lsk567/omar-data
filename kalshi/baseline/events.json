@@ -346,5 +346,11 @@
     "type": "macro",
     "title": "March CPI MoM was 0.9% - largest since June 2022",
     "detail": "Headline YoY 3.3%. Economists expect 3.6% in April-May driven by energy/food. April CPI release May 12 2026. KXCPI-26APR-T0.5 priced 62% likely > 0.5% MoM. Implied April distribution: P(>0.5)=62% P(>0.6)=26% P(>0.7)=7%. No 8%+ edge identified at current strikes."
+  },
+  {
+    "timestamp": "2026-05-08T18:17:47Z",
+    "type": "trade",
+    "title": "BUY YES KXCPI-26APR-T0.6 18x@29c",
+    "detail": "Long April CPI > 0.6% MoM. Sustained bullish repricing across T0.5/T0.6 strikes + March 0.9% MoM precedent + economist 3.6% YoY forecast (energy/food driven). Implied 28%; my estimate 38-40%; edge ~11%. Settles May 12 release."
   }
 ]
