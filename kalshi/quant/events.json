@@ -898,5 +898,11 @@
     "type": "milestone",
     "title": "copper-monthly-composite reaches deploy-ready: CONDITIONAL_PASS + dual-auditor + LaTeX",
     "detail": "Stratdev wrote 10-section docs/strategy.tex + 8pp PDF and re-ran gate_checker; verdict reproduced CONDITIONAL_PASS (4/4 predictive, 2/3 execution with synthetic-not-validated annual return). Has independent Opus 4.6 + GPT 5.2 sign-offs in 03-deployment/. Awaiting Shaokai final approval before --live. Cocoa + corn share the dual-auditor sign-off but still need LaTeX. kxu3max + michigan-sentiment audit-stage have CONDITIONAL_PASS+dual-auditor but missing LaTeX (Stage-2 mandatory)."
+  },
+  {
+    "timestamp": "2026-05-08T04:38:00Z",
+    "type": "milestone",
+    "title": "michigan-sentiment ready for Step-3 bundling",
+    "detail": "Michigan sentiment composite LaTeX gap closed; CONDITIONAL_PASS reproduced; dual-auditor record CONDITIONAL APPROVE x2 on file; LaTeX/PDF on file. Now ready for Shaokai bundling alongside kxu3max (LaTeX previously closed) and copper-monthly (analyst rank #1). 4 fresh scanner discoveries onboarded."
   }
 ]
