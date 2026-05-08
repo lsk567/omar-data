@@ -976,5 +976,11 @@
     "type": "org",
     "title": "Cycle 2026-05-08T1525Z (qf-firm-head FULL): kxhpi ARCHIVE + copper Stage-3 prep + 3 onboards",
     "detail": "kxhpi-composite archived after iter=3 decisive negative (Platt-on-TUNE refuted; structural TUNE/LOCKBOX regime gap). copper-monthly-composite gate_report CONDITIONAL_PASS, DEPLOY.md skeleton staged for dual-audit refresh. Onboarded controlh-2026-composite (US House marginal, T1, OI 6.94M), kxleavestarmer-composite (UK PM timing, T2, paired with kxnextukpm), kxipl-26-composite (IPL 2026, T2, FIRST cricket strategy in firm). kxu3max + pce-core schema-lockdown regression documented. michigan-sentiment Shaokai approval still pending. Account $55.17 unchanged."
+  },
+  {
+    "timestamp": "2026-05-08T16:45:00Z",
+    "type": "org",
+    "title": "Cycle 1625Z: 3 onboards + 2 schema regressions resolved",
+    "detail": "Onboards kxfomen (tennis ecosystem T2 60.6d) + kxleavewalz (MN-Gov departure-timing T2 239d) + kxncaabaseball (CWS T2 60.0d). Path-A schema-lockdown fix landed for kxu3max + pce-core (OOS hashes bit-identical preserve dual-auditor sign-offs). copper-monthly Stage-3-prep TOP-3 #1 awaiting dual-audit refresh + Shaokai approval. us-debt-monitor TOP-3 #3 7d window — fresh dual-audit required (OOS hash changed). Commit dd9a0e2."
   }
 ]
