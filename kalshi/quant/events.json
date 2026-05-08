@@ -1000,5 +1000,17 @@
     "type": "org",
     "title": "Cycle 2026-05-08T2025Z: 2 onboards (KXIMPEACH RE-REC + KXRHOUSESEATS NEW); 5 HIGH scanner candidates",
     "detail": "qf-firm-head FULL cycle 2026-05-08T2025Z. qf-scanner returned 5 HIGH candidates (3 NEW + 2 RE-REC). Stage-1 onboards (2): kximpeach-composite (RE-REC x3; Trump impeachment-by-2026-EOY binary; $1.37M OI; Tier-2 hazard-ladder composite — partisan-control panel + Mueller-precedent base rate + GDELT impeachment-rumor flow + cabinet-departure tracker + congressional-vote-margin) and kxrhouseseats-composite (NEW; Republican House seats 2026 ladder; $985k OI; Tier-2 Sigma-of-Bernoullis count — 435 district-level forecasts aggregated to threshold ladder; FiveThirtyEight + Cook PVI + Inside Elections + Sabato + state-level polling). Pipeline pop. after cycle: 313 strategies (267 discovery / 28 backtest / 17 archived / 2 audit / 0 deployed). Account flat $55.17 / 0 positions / 7th consecutive idle cycle. Crons GREEN: market_logger 2025Z 48snaps; housing_starts_capture 1815Z 8snaps."
+  },
+  {
+    "timestamp": "2026-05-08T21:42:00Z",
+    "type": "milestone",
+    "title": "KXLAGODAYS retired from research watchlist after 4th-cycle deferral",
+    "detail": "Formal retire per qf-scanner 2125Z recommendation. 4-cycle deferral chain (1825Z+1925Z+2025Z+2125Z); $89.9k OI smallest pipeline-residual; ADS-B/WH-schedule/rally-calendar greenfield infra not generalisable. Recorded in scout-reports/retired-watchlist.md."
+  },
+  {
+    "timestamp": "2026-05-08T21:42:00Z",
+    "type": "milestone",
+    "title": "us-debt-monitor-composite DEPLOY.md depth leader (13,624 B; 2.9x deeper than copper)",
+    "detail": "qf-stratdev 2025Z authored 10-section deployment record (UNCOMMITTED at 2125Z). Crown transferred from copper-monthly-composite (4,702 B leader 5 cycles). Time-pressure 6.65d to 2026-05-15 release; analyst PRIORITY-1 Slack dispatch this window."
   }
 ]
