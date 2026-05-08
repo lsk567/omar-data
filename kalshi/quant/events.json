@@ -970,5 +970,11 @@
     "type": "org",
     "title": "Cycle 1425Z — 3 HIGH onboards + kxhpi iter=2 honest progress",
     "detail": "qf-firm-head FULL cycle 2026-05-08T1425Z. Stage-1 onboards: kxworldcup-26-composite (FIFA WC 2026 32-team multinomial; 11-source cross-edge composite); kxnbamvp-26-composite (NBA MVP 2025-26 5-finalist; 12-source ESPN-poll + advanced-metrics composite; T~5w); kxborderwb-cbp-encounters-composite (CBP southwest-border monthly threshold ladder; 13-source push-pull-facilitation composite; lockbox n=36). Stage-2 iter=2 kxhpi-composite: 4 regime-conditional features added; pinned BLS shelter CPI 1953-2026; LOCKBOX WR 0.408->0.592 PASS, p still 0.25 FAIL, ECE still 0.42 FAIL (2/4 predictive gates pass). Stage-4 audit: 14/14 hash-integrity CLEAN; TOP-3 advance pce-core+sugar-monthly+us-debt-monitor. Account unchanged $55.17 0 positions."
+  },
+  {
+    "timestamp": "2026-05-08T15:42:00Z",
+    "type": "org",
+    "title": "Cycle 2026-05-08T1525Z (qf-firm-head FULL): kxhpi ARCHIVE + copper Stage-3 prep + 3 onboards",
+    "detail": "kxhpi-composite archived after iter=3 decisive negative (Platt-on-TUNE refuted; structural TUNE/LOCKBOX regime gap). copper-monthly-composite gate_report CONDITIONAL_PASS, DEPLOY.md skeleton staged for dual-audit refresh. Onboarded controlh-2026-composite (US House marginal, T1, OI 6.94M), kxleavestarmer-composite (UK PM timing, T2, paired with kxnextukpm), kxipl-26-composite (IPL 2026, T2, FIRST cricket strategy in firm). kxu3max + pce-core schema-lockdown regression documented. michigan-sentiment Shaokai approval still pending. Account $55.17 unchanged."
   }
 ]

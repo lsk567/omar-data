@@ -274,3 +274,8 @@ We tried to play the normalization trade during the acute phase. Too early.
 **Root cause**: A sliding fractional lockbox auto-extends every time new events arrive, so the lockbox is silently re-opened on every run — the opposite of the README's "LOCKBOX opened EXACTLY ONCE" rule.
 **Lesson**: Frozen lockbox dates required — sliding fractional lockboxes silently violate the README "opened EXACTLY ONCE" rule and invalidate dual-auditor sign-offs whenever new data arrives.
 **Rule**: Lockbox windows must be specified as explicit frozen calendar dates in `parameters.json` (e.g. `"lockbox_start": "2019-10-01"`, `"lockbox_end": "2026-03-31"`). Reject any backtest scaffold that derives the lockbox from "last N%" or any expression that depends on the panel's current length. Audit every existing strategy with a `02-backtest/` artifact for this pattern.
+
+---
+
+## 2026-05-08 — Calibration cannot manufacture edge from low signal density (kxhpi-composite postmortem)
+Three iterations of kxhpi-composite all failed event-level p-value gate despite WR passing in iter=2. Iter=3 attempted Platt scaling on the TUNE set to fix calibration; instead it inverted the signal (WR 0.59→0.41, p 0.25→1.00, ECE 0.42→0.60, PnL +$121→-$58). KEY LESSON: TUNE-derived calibration cannot bridge a structural TUNE/LOCKBOX regime gap. If win rate passes but p-value stays high, the underlying signal density is too low and no calibration step (Platt/isotonic/etc.) can manufacture edge — it only re-shapes existing variance, often worsening out-of-sample performance. RULE: when WR>=0.50 but p>0.05, treat as iteration_exhausted and archive (or rewrite hypothesis from scratch with a richer signal stack); do NOT attempt calibration patches.
