@@ -1012,5 +1012,17 @@
     "type": "milestone",
     "title": "us-debt-monitor-composite DEPLOY.md depth leader (13,624 B; 2.9x deeper than copper)",
     "detail": "qf-stratdev 2025Z authored 10-section deployment record (UNCOMMITTED at 2125Z). Crown transferred from copper-monthly-composite (4,702 B leader 5 cycles). Time-pressure 6.65d to 2026-05-15 release; analyst PRIORITY-1 Slack dispatch this window."
+  },
+  {
+    "timestamp": "2026-05-09T00:25:00Z",
+    "type": "milestone",
+    "title": "KXLUTNICKOUT formal retire-recommend triggered (4-deferral threshold reached)",
+    "detail": "qf-scanner cycle 2026-05-09T0025Z formally recommended retire of KXLUTNICKOUT (Lutnick-out cabinet-departure timing) after 4 consecutive deferrals (1825Z + 1925Z + 2025Z + 2125Z + 2225Z RE-REC streak). Symmetric to KXLAGODAYS 2125Z retire pattern — same 4-cycle threshold trigger. Pending qf-firm-head decision next cycle on whether to formally retire to scout-reports/retired-watchlist.md or override to onboard. Scanner returned 5 HIGH candidates this cycle (4 NEW + 1 RE-REC); KXLUTNICKOUT excluded from NEW count. Universe 320 -> 325 strategies post step3 onboards."
+  },
+  {
+    "timestamp": "2026-05-09T00:25:00Z",
+    "type": "milestone",
+    "title": "copper-monthly-composite PATCH_PLAN_B1_B3.md authored — 100% design risk closed for next stratdev mechanical apply",
+    "detail": "qf-stratdev cycle 2026-05-09T0025Z authored PATCH_PLAN_B1_B3.md (267 lines; sha 9d18da6f) — Path-A live-only specification covering B1 (publication-lag guard) + B2 (quarter-Kelly downsize) + B3 (per-event contract cap). Closes 100% of design risk for next stratdev cycle's mechanical apply (~30 min vs ~2-3h research+design from scratch). Earlier this cycle B4 CLOSED via crontab path bug fix (money-making-quant -> kalshi-quant). All 13/13 audit-locked artifacts BIT-IDENTICAL preserved (oos_strike_trades 0369455243d1 + results.json b613f976 + parameters 00381a52 + manifest 11566bbe + gate_report f0e4bf81 + bot.py 2bc7e127 + DEPLOY 8f48931b + SHAOKAI_APPROVAL 799e9040 + strategy.tex c4ab1154 + strategy.pdf 6bda2736 + audit-opus 5089eccb + audit-gpt 76536d09 + results.md a7c0bfdb). 2026-04-12 dual-auditor (Opus + GPT) CONDITIONAL APPROVE preserved. copper hard-blocker count effectively 4 -> 3 (B4 code-closed; B1+B2+B3 design-closed via spec). gate_checker reproduces CONDITIONAL_PASS predictive 4/4 PASS execution 2/3 PASS bit-identical to 2026-05-08T11:32Z baseline. metadata.json::current_stage REMAINS backtest pending mechanical apply."
   }
 ]
