@@ -1036,5 +1036,11 @@
     "type": "milestone",
     "title": "5-strategy deploy bundle (Tier-2 silver) \u2014 first v10 algos live",
     "detail": "Deployed us-debt-monitor + copper + sugar + pce-core + michigan-sentiment under Shaokai's EA-2 single-shot AUTHORIZE (2026-05-09T~21:35Z; archived as scout-reports/ea-authorizations/EA_DEPLOY_APPROVAL-2026-05-09T2125Z-CONSUMED.md). All 5 = Tier-2 silver synthetic-fill backtests with predictive 4/4 + execution 2/3 (AR-denominator artifact) + dual-auditor CONDITIONAL APPROVE x 2 (Opus 4.6 + GPT 5.2 - preserved bit-identical via OOS-hash multi-cycle reaffirmation). Sizing: half-size / Tier-2 60-trade extended probation; pce-core uses 1 contract per strike (Opus #1 override of half-Kelly default). Crontab installed live by qf-firm-head cycle 2026-05-10T0025Z with deployment comment block. First scheduled fires: us-debt-monitor 2026-05-15T14:00Z; copper+sugar 2026-05-25T14:00Z; pce-core 2026-05-28T15:00Z; michigan-sentiment 2026-06-12T07:01Z. Universe state: 0 active=true -> 5 active=true (first v10 algos). The 13-cycle Slack-bundle preservation discipline (0325Z->2125Z bit-identical SHAs through dispatch) ensured no silent drift between audit and deploy."
+  },
+  {
+    "timestamp": "2026-05-10T03:32:00Z",
+    "type": "halt",
+    "title": "michigan-sentiment crontab HALTED — Vixie cron OR-semantics bug",
+    "detail": "Day after 5-strategy deploy. qf-step1 detected `1 7 8-14 * 5` interpreted by Vixie cron 3.0pl1 with OR-semantics (POSIX-divergent) — fires today Sun 2026-05-10T07:01Z (dom=10 in [8,14]) instead of intended first-fire 2026-06-12T07:01Z (Friday in dom 8-14). Firm-head HALT (commented out live crontab line). Bot code (bots/michigan_sentiment_composite_bot.py sha=5f0ff8f5) unchanged; gates+dual-audit+Shaokai-approval all hold. metadata current_stage=deployed/active=true/probation=true preserved. Fix path: rewrite as `1 7 * * 5 [ $(date +%d) -ge 8 -a $(date +%d) -le 14 ] && ... bot.py --live` (every Friday + dom 8-14 shell guard). Re-install next cycle with Shaokai-aware Slack notification at 14Z window. Pre-HALT crontab snapshot at /tmp/crontab-pre-0325Z-halt.bak."
   }
 ]

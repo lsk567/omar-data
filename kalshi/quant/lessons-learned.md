@@ -294,3 +294,15 @@ Three iterations of kxhpi-composite all failed event-level p-value gate despite 
 - Firm-head should not assume future "AUTHORIZE" means dispatch-only; treat as both unless qualified
 
 **Operational discipline that paid off**: 13 consecutive cycles of bit-identical SHA preservation on the 5 SHAOKAI_APPROVAL_REQUEST.md bundles (0325Z → 2125Z) meant Shaokai received exactly the artifacts the auditors approved. No silent drift between audit and deploy. The deploy could collapse two README steps without compromising the audit chain.
+
+## Vixie cron OR-semantics on dom AND dow (2026-05-10)
+
+**Trigger**: 5-strategy deploy bundle 2026-05-10T0025Z installed `1 7 8-14 * 5` for michigan-sentiment intending 'second Friday of month at 07:01Z'. Vixie cron 3.0pl1 (Ubuntu/Debian) treats both fields restricted as OR — fires whenever dom OR dow matches. Detected 3h before first misfire by qf-step1 daily monitor.
+
+**Lesson**: Whenever a crontab entry needs BOTH a dom-range AND a dow-restriction (typical for 'Nth weekday-of-month' patterns), the cron syntax cannot express it natively under Vixie semantics. Use `dow * * * dow` (e.g. `1 7 * * 5`) plus a shell `[ ]` guard inside the command for the dom range: `1 7 * * 5 [ $(date +%d) -ge 8 -a $(date +%d) -le 14 ] && ... && bot.py --live`. This makes dom field `*` so OR-semantics doesn't apply.
+
+**Detection**: qf-step1 verified `crontab --version` (Vixie cron 3.0pl1) + `man 5 crontab` POSIX-divergent note. dom=10 today fell inside [8,14] → would fire Sunday at 07:01Z (~3.5h post-deploy detection).
+
+**Action**: Firm-head halt at 03:32Z (commented out line); bot.py unchanged; metadata preserved; fix re-installed next cycle with Shaokai-aware Slack notification.
+
+**Generalizes to**: any future crontab entry with both restricted dom AND restricted dow fields. Always prefer a single restricted field + shell guards for the other.
