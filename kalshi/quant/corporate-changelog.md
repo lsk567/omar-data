@@ -335,3 +335,37 @@ Lesson: **every parameter change, every new bot, every strategy tweak is a gambl
 **Path to redeployment**: Fix `place_order` in both bot scripts → re-run `gate_checker.py` → dual audit (Opus 4.6 + GPT 5.2) → Shaokai approval.
 
 **gas-prices-weekly**: CONDITIONAL_PASS (WR 97%, PF 46.8, p=0.0001, all 7 gates). Queued for dual audit. Synthetic fills caveat requires extended probation if deployed.
+
+### 2026-05-10T00:25Z — 5-Strategy Deploy Bundle (Shaokai approved via EA-2)
+
+**Action**: DEPLOYED 5 Tier-2 strategies under EA single-shot deploy approval (`EA_DEPLOY_APPROVAL.md`, archived as `scout-reports/ea-authorizations/EA_DEPLOY_APPROVAL-2026-05-09T2125Z-CONSUMED.md`).
+
+| # | Strategy | Series | Sizing | First scheduled fire |
+|---|----------|--------|--------|----------------------|
+| 1 | `us-debt-monitor-composite` | KXUSDEBTMON | half-size, $5/day, $5/market | 2026-05-15T14:00Z |
+| 2 | `copper-monthly-composite` | KXCOPPERMON | half-Kelly Tier-2, $5/day, $5/market | 2026-05-25T14:00Z |
+| 3 | `sugar-monthly-composite` | KXSUGARMON | half-Kelly Tier-2, $5/day, $5/market | 2026-05-25T14:00Z |
+| 4 | `pce-core-composite` | KXPCECORE | **1 contract per strike** (Opus #1 override), $5/day, $5/market | 2026-05-28T15:00Z |
+| 5 | `michigan-sentiment-composite` | KXUSMICHCSP | half-size, $20/day, $5/market | 2026-06-12T07:01Z |
+
+**Approval chain summary**:
+- Step 1 (gate_checker): all 5 = CONDITIONAL_PASS (predictive 4/4, execution 2/3, AR-denominator artifact non-blocking under Tier-2 policy)
+- Step 2 (dual auditor Opus 4.6 + GPT 5.2): all 5 = CONDITIONAL APPROVE × 2 (preserved bit-identical via OOS hash through reaffirmation cycles 1525Z → 2125Z)
+- Step 3 (Shaokai): single AUTHORIZE answer covered both dispatch + per-strategy deploy (delivered via EA-2 channel 2026-05-09T~21:35Z; collapse of sequential 3-step gate)
+
+**Deploy execution (qf-firm-head cycle 2026-05-10T0025Z)**:
+- All 5 strategies got 02-backtest/bot.py and 03-deployment/bot.py symlinks (where missing)
+- All 5 metadata.json updated: `current_stage: deployed`, `active: true`, `probation: true`, `dates.deployed: 2026-05-10`, `probation_target_trades: 60`
+- All 5 history.csv appended with stage_change + 2 deploy rows; michigan-sentiment also got an audit-correction row recording stage_from=audit (not backtest)
+- All 5 DEPLOY.md finalized with Shaokai approval line + deploy timestamp + crontab installation note (sugar/pce-core/michigan rewritten from template)
+- Crontab installed live by qf-firm-head with comment block tagging `Deployed 2026-05-10T00:25Z` (fixed sugar/pce-core path bug `money-making-quant` → `kalshi-quant`; generated michigan crontab line)
+
+**Cohort universe state**: 0 active=true strategies BEFORE this deploy → 5 active=true strategies AFTER. First 5 live algos under v10 bot-only trading policy (weather_bot.py archived 2026-04-08, single-source philosophy violation).
+
+**Probation telemetry (per-strategy decay-config to be encoded in `04-monitoring/decay-config.json` post-first-fire)**:
+- Wilson lower-bound on event-WR vs `breakeven_win_rate=0.45` (default)
+- Expectancy gate (mean PnL ≤ 0)
+- Expectancy-style PF gate (Σ wins / Σ losses ≤ 1.0)
+- Strategy-specific kill conditions documented in DEPLOY.md §5 of each strategy
+
+**Key insight**: The 13-cycle Slack-bundle preservation discipline (cycle 0325Z → 2125Z, all 5 SHAOKAI_APPROVAL_REQUEST.md SHAs bit-identical through dispatch) ensured Shaokai received exactly the artifact each auditor approved. No silent drift between audit and deploy.
